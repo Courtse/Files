@@ -1,0 +1,3972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para><note><remark>Bootstrap Icons</remark></note>  function toggleMenu() {
+    const menu = document.querySelector('.menu');
+    menu.classList.toggle('show');
+  }
+
+  function hideMenu() {
+    const menu = document.querySelector('.menu');
+    menu.classList.remove('show');
+  }
+
+  function showContent(contentId) {
+    // Hide all content sections
+    const contents = document.querySelectorAll('.content');
+    contents.forEach(content =&gt; content.style.display = 'none');
+
+    // Show the selected content section
+    const contentToShow = document.getElementById(contentId);
+    if (contentToShow) {
+      contentToShow.style.display = 'block';
+    }
+
+    // Hide the menu after selecting an item
+    hideMenu();
+  }
+
+  // Add event listener to document to hide menu on outside click
+  document.addEventListener('click', function(event) {
+    const menu = document.querySelector('.menu');
+    if (!menu.contains(event.target) &amp;&amp; !event.target.matches('.menu-toggle')) {
+      hideMenu();
+    }
+  });
+  
+  Topics </para>
+  <orderedlist>
+    <listitem>
+      <para><link linkend="">Arbitration</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Aviation</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Banking &amp; Finance</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Bankruptcy Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Business Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Company</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Competition/Anti-Trust Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Construction</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Consumer Protection</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Constitutional Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Corporate Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Criminal Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Dispute Resolution</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Energy &amp; Natural Resources</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Evidence Act</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Employment Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Environmental Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Family Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Foreign Exchange &amp; Trade</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Healthcare Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Immigration Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Cyber Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Intellectual Property</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">International Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">International Trade &amp; Customs</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Investment Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Labour &amp; Employment Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Legal Ethics</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Management of Litigation</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Manufacturing in India</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Metals &amp; Mining</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Mergers &amp; Acquisitions (M&amp;A)</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Pharma &amp; Life Sciences</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Product Liability</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Real Estate Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Railways</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Shipping</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Taxation Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Telecom Law</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Trade &amp; Commerce</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Trust</link> </para>
+    </listitem>
+    <listitem>
+      <para><link linkend="">Sports, Media, Entertainment &amp; Advertising</link><note><remark>Add other menu items here</remark></note> </para>
+    </listitem>
+  </orderedlist>
+  <sect1 id="arbitration">
+    <title>Arbitration</title>
+    <para>Arbitration in India is governed by the Arbitration &amp; Conciliation Act, 1996. This alternative dispute resolution process enables parties to resolve disputes outside courts, ensuring efficiency &amp; confidentiality.</para>
+    <orderedlist>
+      <listitem>
+        <para>Arbitration &amp; Conciliation Act, 1996 </para>
+      </listitem>
+      <listitem>
+        <para>Domestic &amp; international arbitration </para>
+      </listitem>
+      <listitem>
+        <para>Arbitral tribunal &amp; procedure </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/1978/3/a1996-26.pdf">Arbitration &amp; Conciliation Act, 1996</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.scconline.com/">Supreme Court of India - Arbitration</ulink>
+    </para>
+  </sect1>
+  <sect1>
+    <title>Arbitration</title>
+    <para>Arbitration in India is governed by the Arbitration &amp; Conciliation Act, 1996. This alternative dispute resolution process enables parties to resolve disputes outside courts, ensuring efficiency &amp; confidentiality.</para>
+    <orderedlist>
+      <listitem>
+        <para>Arbitration &amp; Conciliation Act, 1996 </para>
+      </listitem>
+      <listitem>
+        <para>Domestic &amp; international arbitration </para>
+      </listitem>
+      <listitem>
+        <para>Arbitral tribunal &amp; procedure </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/1978/3/a1996-26.pdf">Arbitration &amp; Conciliation Act, 1996</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.scconline.com/">Supreme Court of India - Arbitration</ulink>
+    </para>
+    <sect1 id="aviation">
+      <title>Aviation</title>
+      <para>Aviation law in India regulates air travel, transport, &amp; related services. The Directorate General of Civil Aviation (DGCA) oversees safety, security, &amp; compliance with international st&amp;ards.</para>
+      <orderedlist>
+        <listitem>
+          <para>DGCA regulations </para>
+        </listitem>
+        <listitem>
+          <para>Aircraft management &amp; operations </para>
+        </listitem>
+        <listitem>
+          <para>Aviation safety &amp; security </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.dgca.gov.in/digigov-portal/">DGCA - Directorate General of Civil Aviation</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.icao.int/">ICAO - International Civil Aviation Organization</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Aviation</title>
+    <para>Aviation law in India regulates air travel, transport, &amp; related services. The Directorate General of Civil Aviation (DGCA) oversees safety, security, &amp; compliance with international st&amp;ards.</para>
+    <orderedlist>
+      <listitem>
+        <para>DGCA regulations </para>
+      </listitem>
+      <listitem>
+        <para>Aircraft management &amp; operations </para>
+      </listitem>
+      <listitem>
+        <para>Aviation safety &amp; security </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.dgca.gov.in/digigov-portal/">DGCA - Directorate General of Civil Aviation</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.icao.int/">ICAO - International Civil Aviation Organization</ulink>
+    </para>
+    <sect1 id="banking-finance">
+      <title>Banking &amp; Finance</title>
+      <para>Banking &amp; finance laws in India govern financial institutions, transactions, &amp; regulatory frameworks. The Reserve Bank of India (RBI) &amp; SEBI oversee banking, securities, &amp; investment services.</para>
+      <orderedlist>
+        <listitem>
+          <para>RBI regulations </para>
+        </listitem>
+        <listitem>
+          <para>SEBI guidelines </para>
+        </listitem>
+        <listitem>
+          <para>Banking &amp; financial compliance </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.rbi.org.in/">RBI - Reserve Bank of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sebi.gov.in/">SEBI - Securities &amp; Exchange Board of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Banking &amp; Finance</title>
+    <para>Banking &amp; finance laws in India govern financial institutions, transactions, &amp; regulatory frameworks. The Reserve Bank of India (RBI) &amp; SEBI oversee banking, securities, &amp; investment services.</para>
+    <orderedlist>
+      <listitem>
+        <para>RBI regulations </para>
+      </listitem>
+      <listitem>
+        <para>SEBI guidelines </para>
+      </listitem>
+      <listitem>
+        <para>Banking &amp; financial compliance </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.rbi.org.in/">RBI - Reserve Bank of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sebi.gov.in/">SEBI - Securities &amp; Exchange Board of India</ulink>
+    </para>
+    <sect1 id="insolvency-banking">
+      <title>Bankruptcy Law</title>
+      <para>India's bankruptcy law, the Insolvency &amp; Bankruptcy Code, 2016, provides a framework for resolving insolvency &amp; bankruptcy cases. The Insolvency &amp; Bankruptcy Board of India (IBBI) regulates the process.</para>
+      <orderedlist>
+        <listitem>
+          <para>Insolvency &amp; Bankruptcy Code, 2016 </para>
+        </listitem>
+        <listitem>
+          <para>IBBI regulations </para>
+        </listitem>
+        <listitem>
+          <para>Insolvency resolution process </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.insolvency.gov.in/">IBBI - Insolvency &amp; Bankruptcy Board of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/Ministry/pdf/Insolvency_&amp;_Bankruptcy_Code_2016.pdf">Insolvency &amp; Bankruptcy Code, 2016</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Bankruptcy Law</title>
+    <para>India's bankruptcy law, the Insolvency &amp; Bankruptcy Code, 2016, provides a framework for resolving insolvency &amp; bankruptcy cases. The Insolvency &amp; Bankruptcy Board of India (IBBI) regulates the process.</para>
+    <orderedlist>
+      <listitem>
+        <para>Insolvency &amp; Bankruptcy Code, 2016 </para>
+      </listitem>
+      <listitem>
+        <para>IBBI regulations </para>
+      </listitem>
+      <listitem>
+        <para>Insolvency resolution process </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.insolvency.gov.in/">IBBI - Insolvency &amp; Bankruptcy Board of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/Ministry/pdf/Insolvency_&amp;_Bankruptcy_Code_2016.pdf">Insolvency &amp; Bankruptcy Code, 2016</ulink>
+    </para>
+    <sect1 id="business-law">
+      <title>Business Law</title>
+      <para>Business laws in India govern various aspects of business operations, including company formation, contracts, &amp; regulatory compliance. The Companies Act, 2013, is a key legislation.</para>
+      <orderedlist>
+        <listitem>
+          <para>Companies Act, 2013 </para>
+        </listitem>
+        <listitem>
+          <para>Contract Act, 1872 </para>
+        </listitem>
+        <listitem>
+          <para>Business regulatory compliance </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/Ministry/pdf/CompaniesAct2013.pdf">Companies Act, 2013</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/">India Code - Business Laws</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Business Law</title>
+    <para>Business laws in India govern various aspects of business operations, including company formation, contracts, &amp; regulatory compliance. The Companies Act, 2013, is a key legislation.</para>
+    <orderedlist>
+      <listitem>
+        <para>Companies Act, 2013 </para>
+      </listitem>
+      <listitem>
+        <para>Contract Act, 1872 </para>
+      </listitem>
+      <listitem>
+        <para>Business regulatory compliance </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/Ministry/pdf/CompaniesAct2013.pdf">Companies Act, 2013</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/">India Code - Business Laws</ulink>
+    </para>
+    <sect1 id="competition-antitrust-law">
+      <title>Competition/Anti-Trust Law</title>
+      <para>Competition law in India promotes fair competition &amp; prevents monopolies. The Competition Commission of India (CCI) regulates anti-competitive agreements &amp; practices.</para>
+      <orderedlist>
+        <listitem>
+          <para>Competition Act, 2002 </para>
+        </listitem>
+        <listitem>
+          <para>CCI regulations </para>
+        </listitem>
+        <listitem>
+          <para>Anti-competitive agreements &amp; practices </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.cci.gov.in/">CCI - Competition Commission of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2142/1/competition_act_%202002.pdf">Competition Act, 2002</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Competition/Anti-Trust Law</title>
+    <para>Competition law in India promotes fair competition &amp; prevents monopolies. The Competition Commission of India (CCI) regulates anti-competitive agreements &amp; practices.</para>
+    <orderedlist>
+      <listitem>
+        <para>Competition Act, 2002 </para>
+      </listitem>
+      <listitem>
+        <para>CCI regulations </para>
+      </listitem>
+      <listitem>
+        <para>Anti-competitive agreements &amp; practices </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.cci.gov.in/">CCI - Competition Commission of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2142/1/competition_act_%202002.pdf">Competition Act, 2002</ulink>
+    </para>
+    <sect1 id="construction">
+      <title>Construction</title>
+      <para>Construction law in India governs building &amp; infrastructure projects. The Real Estate (Regulation &amp; Development) Act, 2016, &amp; state-specific regulations oversee construction activities.</para>
+      <orderedlist>
+        <listitem>
+          <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+        </listitem>
+        <listitem>
+          <para>State-specific building regulations </para>
+        </listitem>
+        <listitem>
+          <para>Construction contracts &amp; disputes </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://mohua.gov.in/">MoHUA - Ministry of Housing &amp; Urban Affairs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Construction</title>
+    <para>Construction law in India governs building &amp; infrastructure projects. The Real Estate (Regulation &amp; Development) Act, 2016, &amp; state-specific regulations oversee construction activities.</para>
+    <orderedlist>
+      <listitem>
+        <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+      </listitem>
+      <listitem>
+        <para>State-specific building regulations </para>
+      </listitem>
+      <listitem>
+        <para>Construction contracts &amp; disputes </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://mohua.gov.in/">MoHUA - Ministry of Housing &amp; Urban Affairs</ulink>
+    </para>
+    <sect1 id="consumer-protection">
+      <title>Consumer Protection</title>
+      <para>Consumer protection laws in India safeguard consumer rights &amp; interests. The Consumer Protection Act, 2019, regulates consumer disputes &amp; redressal mechanisms.</para>
+      <orderedlist>
+        <listitem>
+          <para>Consumer Protection Act, 2019 </para>
+        </listitem>
+        <listitem>
+          <para>Consumer courts &amp; dispute resolution </para>
+        </listitem>
+        <listitem>
+          <para>Product liability &amp; safety </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.consumerhelpline.gov.in/">Consumer Helpline</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15256/1/a2019-35.pdf">Consumer Protection Act, 2019</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Consumer Protection</title>
+    <para>Consumer protection laws in India safeguard consumer rights &amp; interests. The Consumer Protection Act, 2019, regulates consumer disputes &amp; redressal mechanisms.</para>
+    <orderedlist>
+      <listitem>
+        <para>Consumer Protection Act, 2019 </para>
+      </listitem>
+      <listitem>
+        <para>Consumer courts &amp; dispute resolution </para>
+      </listitem>
+      <listitem>
+        <para>Product liability &amp; safety </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.consumerhelpline.gov.in/">Consumer Helpline</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15256/1/a2019-35.pdf">Consumer Protection Act, 2019</ulink>
+    </para>
+    <sect1 id="constitutional-law">
+      <title>Constitutional Law</title>
+      <para>Constitutional law in India interprets the Constitution of India, outlining fundamental rights, directive principles, &amp; the structure of government.</para>
+      <orderedlist>
+        <listitem>
+          <para>Constitution of India </para>
+        </listitem>
+        <listitem>
+          <para>Fundamental rights &amp; duties </para>
+        </listitem>
+        <listitem>
+          <para>Directive principles of state policy </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://legislative.gov.in/constitution-of-india/">Constitution of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sci.gov.in/">Supreme Court of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Constitutional Law</title>
+    <para>Constitutional law in India interprets the Constitution of India, outlining fundamental rights, directive principles, &amp; the structure of government.</para>
+    <orderedlist>
+      <listitem>
+        <para>Constitution of India </para>
+      </listitem>
+      <listitem>
+        <para>Fundamental rights &amp; duties </para>
+      </listitem>
+      <listitem>
+        <para>Directive principles of state policy </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://legislative.gov.in/constitution-of-india/">Constitution of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sci.gov.in/">Supreme Court of India</ulink>
+    </para>
+    <sect1 id="corporate-law">
+      <title>Corporate Law</title>
+      <para>Corporate law in India governs the formation, operation, &amp; dissolution of companies. The Companies Act, 2013, along with regulatory bodies like MCA &amp; SEBI, ensures corporate governance &amp; compliance.</para>
+      <orderedlist>
+        <listitem>
+          <para>Companies Act, 2013 </para>
+        </listitem>
+        <listitem>
+          <para>SEBI regulations </para>
+        </listitem>
+        <listitem>
+          <para>Corporate compliance &amp; governance </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/">MCA - Ministry of Corporate Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sebi.gov.in/">SEBI - Securities &amp; Exchange Board of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Corporate Law</title>
+    <para>Corporate law in India governs the formation, operation, &amp; dissolution of companies. The Companies Act, 2013, along with regulatory bodies like MCA &amp; SEBI, ensures corporate governance &amp; compliance.</para>
+    <orderedlist>
+      <listitem>
+        <para>Companies Act, 2013 </para>
+      </listitem>
+      <listitem>
+        <para>SEBI regulations </para>
+      </listitem>
+      <listitem>
+        <para>Corporate compliance &amp; governance </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/">MCA - Ministry of Corporate Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sebi.gov.in/">SEBI - Securities &amp; Exchange Board of India</ulink>
+    </para>
+    <sect1 id="criminal-law">
+      <title>Criminal Law</title>
+      <para>Criminal law in India governs offenses &amp; punishments. The Indian Penal Code, 1860, &amp; the Code of Criminal Procedure, 1973, are key legislations.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Penal Code, 1860 </para>
+        </listitem>
+        <listitem>
+          <para>Code of Criminal Procedure, 1973 </para>
+        </listitem>
+        <listitem>
+          <para>Criminal offenses &amp; punishments </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/4219/1/THE-INDIAN-PENAL-CODE-1860.pdf">Indian Penal Code, 1860</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code_of_criminal_procedure,_1973.pdf">Code of Criminal Procedure, 1973</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Criminal Law</title>
+    <para>Criminal law in India governs offenses &amp; punishments. The Indian Penal Code, 1860, &amp; the Code of Criminal Procedure, 1973, are key legislations.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Penal Code, 1860 </para>
+      </listitem>
+      <listitem>
+        <para>Code of Criminal Procedure, 1973 </para>
+      </listitem>
+      <listitem>
+        <para>Criminal offenses &amp; punishments </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/4219/1/THE-INDIAN-PENAL-CODE-1860.pdf">Indian Penal Code, 1860</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code_of_criminal_procedure,_1973.pdf">Code of Criminal Procedure, 1973</ulink>
+    </para>
+    <sect1 id="dispute-resolution">
+      <title>Dispute Resolution</title>
+      <para>Dispute resolution in India encompasses various methods, including arbitration, mediation, &amp; litigation. The Arbitration &amp; Conciliation Act, 1996, governs alternative dispute resolution.</para>
+      <orderedlist>
+        <listitem>
+          <para>Arbitration &amp; Conciliation Act, 1996 </para>
+        </listitem>
+        <listitem>
+          <para>Mediation &amp; conciliation </para>
+        </listitem>
+        <listitem>
+          <para>Litigation &amp; court procedures </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/1978/3/a1996-26.pdf">Arbitration &amp; Conciliation Act, 1996</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sci.gov.in/">Supreme Court of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Dispute Resolution</title>
+    <para>Dispute resolution in India encompasses various methods, including arbitration, mediation, &amp; litigation. The Arbitration &amp; Conciliation Act, 1996, governs alternative dispute resolution.</para>
+    <orderedlist>
+      <listitem>
+        <para>Arbitration &amp; Conciliation Act, 1996 </para>
+      </listitem>
+      <listitem>
+        <para>Mediation &amp; conciliation </para>
+      </listitem>
+      <listitem>
+        <para>Litigation &amp; court procedures </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/1978/3/a1996-26.pdf">Arbitration &amp; Conciliation Act, 1996</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sci.gov.in/">Supreme Court of India</ulink>
+    </para>
+    <sect1 id="employment-law">
+      <title>Employment Law</title>
+      <para>Employment law in India governs employer-employee relationships, labor rights, &amp; workplace regulations. Key legislations include the Industrial Disputes Act, 1947, &amp; the Labour Laws (Exemption from Furnishing Returns &amp; Maintaining Registers by Certain Establishments) Act, 1988.</para>
+      <orderedlist>
+        <listitem>
+          <para>Industrial Disputes Act, 1947 </para>
+        </listitem>
+        <listitem>
+          <para>Labour Laws (Exemption from Furnishing Returns &amp; Maintaining Registers by Certain Establishments) Act, 1988 </para>
+        </listitem>
+        <listitem>
+          <para>Workplace regulations &amp; labor rights </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2146/1/industrial_disputes_act_%201947.pdf">Industrial Disputes Act, 1947</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Employment Law</title>
+    <para>Employment law in India governs employer-employee relationships, labor rights, &amp; workplace regulations. Key legislations include the Industrial Disputes Act, 1947, &amp; the Labour Laws (Exemption from Furnishing Returns &amp; Maintaining Registers by Certain Establishments) Act, 1988.</para>
+    <orderedlist>
+      <listitem>
+        <para>Industrial Disputes Act, 1947 </para>
+      </listitem>
+      <listitem>
+        <para>Labour Laws (Exemption from Furnishing Returns &amp; Maintaining Registers by Certain Establishments) Act, 1988 </para>
+      </listitem>
+      <listitem>
+        <para>Workplace regulations &amp; labor rights </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2146/1/industrial_disputes_act_%201947.pdf">Industrial Disputes Act, 1947</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+    </para>
+    <sect1 id="energy-natural-resources">
+      <title>Energy &amp; Natural Resources</title>
+      <para>Energy &amp; natural resources law in India governs the exploration, production, &amp; distribution of energy sources &amp; natural resources. Key legislations include the Electricity Act, 2003, &amp; the Mines &amp; Minerals (Development &amp; Regulation) Act, 1957.</para>
+      <orderedlist>
+        <listitem>
+          <para>Electricity Act, 2003 </para>
+        </listitem>
+        <listitem>
+          <para>Mines &amp; Minerals (Development &amp; Regulation) Act, 1957 </para>
+        </listitem>
+        <listitem>
+          <para>Energy &amp; natural resources regulations </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://cercind.gov.in/Act-with-amendment.pdf">Electricity Act, 2003</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mines.gov.in/">Ministry of Mines</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Energy &amp; Natural Resources</title>
+    <para>Energy &amp; natural resources law in India governs the exploration, production, &amp; distribution of energy sources &amp; natural resources. Key legislations include the Electricity Act, 2003, &amp; the Mines &amp; Minerals (Development &amp; Regulation) Act, 1957.</para>
+    <orderedlist>
+      <listitem>
+        <para>Electricity Act, 2003 </para>
+      </listitem>
+      <listitem>
+        <para>Mines &amp; Minerals (Development &amp; Regulation) Act, 1957 </para>
+      </listitem>
+      <listitem>
+        <para>Energy &amp; natural resources regulations </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://cercind.gov.in/Act-with-amendment.pdf">Electricity Act, 2003</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mines.gov.in/">Ministry of Mines</ulink>
+    </para>
+    <sect1 id="environmental-law">
+      <title>Environmental Law</title>
+      <para>Environmental law in India governs conservation, pollution control, &amp; sustainable development. Key legislations include the Environment (Protection) Act, 1986, &amp; the Wildlife (Protection) Act, 1972.</para>
+      <orderedlist>
+        <listitem>
+          <para>Environment (Protection) Act, 1986 </para>
+        </listitem>
+        <listitem>
+          <para>Wildlife (Protection) Act, 1972 </para>
+        </listitem>
+        <listitem>
+          <para>Environmental regulations &amp; conservation </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/6196/1/the_environment_protection_act%2C1986.pdf">Environment (Protection) Act, 1986</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Environmental Law</title>
+    <para>Environmental law in India governs conservation, pollution control, &amp; sustainable development. Key legislations include the Environment (Protection) Act, 1986, &amp; the Wildlife (Protection) Act, 1972.</para>
+    <orderedlist>
+      <listitem>
+        <para>Environment (Protection) Act, 1986 </para>
+      </listitem>
+      <listitem>
+        <para>Wildlife (Protection) Act, 1972 </para>
+      </listitem>
+      <listitem>
+        <para>Environmental regulations &amp; conservation </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/6196/1/the_environment_protection_act%2C1986.pdf">Environment (Protection) Act, 1986</ulink>
+    </para>
+    <sect1 id="family-law">
+      <title>Family Law</title>
+      <para>Family law in India governs marriage, divorce, inheritance, &amp; child custody. Key legislations include the Hindu Marriage Act, 1955, &amp; the Muslim Personal Law (Shariat) Application Act, 1937.</para>
+      <orderedlist>
+        <listitem>
+          <para>Hindu Marriage Act, 1955 </para>
+        </listitem>
+        <listitem>
+          <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+        </listitem>
+        <listitem>
+          <para>Christian Marriage Act, 1872 </para>
+        </listitem>
+        <listitem>
+          <para>Special Marriage Act, 1954 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://highcourtchd.gov.in/hclscc/subpages/pdf_files/4.pdf">Hindu Marriage Act, 1955</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf">Muslim Personal Law (Shariat) Application Act, 1937</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Family Law</title>
+    <para>Family law in India governs marriage, divorce, inheritance, &amp; child custody. Key legislations include the Hindu Marriage Act, 1955, &amp; the Muslim Personal Law (Shariat) Application Act, 1937.</para>
+    <orderedlist>
+      <listitem>
+        <para>Hindu Marriage Act, 1955 </para>
+      </listitem>
+      <listitem>
+        <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+      </listitem>
+      <listitem>
+        <para>Christian Marriage Act, 1872 </para>
+      </listitem>
+      <listitem>
+        <para>Special Marriage Act, 1954 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://highcourtchd.gov.in/hclscc/subpages/pdf_files/4.pdf">Hindu Marriage Act, 1955</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2303/1/A1937-26.pdf">Muslim Personal Law (Shariat) Application Act, 1937</ulink>
+    </para>
+    <sect1 id="finance-law">
+      <title>Finance Law</title>
+      <para>Finance law in India governs financial markets, instruments, &amp; institutions. Key legislations include the Reserve Bank of India Act, 1934, &amp; the Securities &amp; Exchange Board of India Act, 1992.</para>
+      <orderedlist>
+        <listitem>
+          <para>Reserve Bank of India Act, 1934 </para>
+        </listitem>
+        <listitem>
+          <para>Securities &amp; Exchange Board of India Act, 1992 </para>
+        </listitem>
+        <listitem>
+          <para>Insurance Regulatory &amp; Development Authority Act, 1999 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.rbi.org.in/">Reserve Bank of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Finance Law</title>
+    <para>Finance law in India governs financial markets, instruments, &amp; institutions. Key legislations include the Reserve Bank of India Act, 1934, &amp; the Securities &amp; Exchange Board of India Act, 1992.</para>
+    <orderedlist>
+      <listitem>
+        <para>Reserve Bank of India Act, 1934 </para>
+      </listitem>
+      <listitem>
+        <para>Securities &amp; Exchange Board of India Act, 1992 </para>
+      </listitem>
+      <listitem>
+        <para>Insurance Regulatory &amp; Development Authority Act, 1999 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.rbi.org.in/">Reserve Bank of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+    </para>
+    <sect1 id="healthcare-law">
+      <title>Healthcare Law</title>
+      <para>Healthcare law in India governs medical practices, pharmaceuticals, &amp; healthcare services. Key legislations include the Indian Medical Council Act, 1956, &amp; the Drugs &amp; Cosmetics Act, 1940.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Medical Council Act, 1956 </para>
+        </listitem>
+        <listitem>
+          <para>Drugs &amp; Cosmetics Act, 1940 </para>
+        </listitem>
+        <listitem>
+          <para>Medical Termination of Pregnancy Act, 1971 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15288/1/imc.pdf">Indian Medical Council Act, 1956</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.cdsco.gov.in/">Central Drugs St&amp;ard Control Organisation</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Healthcare Law</title>
+    <para>Healthcare law in India governs medical practices, pharmaceuticals, &amp; healthcare services. Key legislations include the Indian Medical Council Act, 1956, &amp; the Drugs &amp; Cosmetics Act, 1940.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Medical Council Act, 1956 </para>
+      </listitem>
+      <listitem>
+        <para>Drugs &amp; Cosmetics Act, 1940 </para>
+      </listitem>
+      <listitem>
+        <para>Medical Termination of Pregnancy Act, 1971 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15288/1/imc.pdf">Indian Medical Council Act, 1956</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.cdsco.gov.in/">Central Drugs St&amp;ard Control Organisation</ulink>
+    </para>
+    <sect1 id="immigration-law">
+      <title>Immigration Law</title>
+      <para>Immigration law in India governs foreign nationals' entry, stay, &amp; departure. Key legislations include the Passport (Entry into India) Act, 1920, &amp; the Foreigners Act, 1946.</para>
+      <orderedlist>
+        <listitem>
+          <para>Passport (Entry into India) Act, 1920 </para>
+        </listitem>
+        <listitem>
+          <para>Foreigners Act, 1946 </para>
+        </listitem>
+        <listitem>
+          <para>Citizenship Act, 1955 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mha.gov.in/PDF_Other/act1920_17042017.pdf">Passport (Entry into India) Act, 1920</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mha.gov.in/">Ministry of Home Affairs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Immigration Law</title>
+    <para>Immigration law in India governs foreign nationals' entry, stay, &amp; departure. Key legislations include the Passport (Entry into India) Act, 1920, &amp; the Foreigners Act, 1946.</para>
+    <orderedlist>
+      <listitem>
+        <para>Passport (Entry into India) Act, 1920 </para>
+      </listitem>
+      <listitem>
+        <para>Foreigners Act, 1946 </para>
+      </listitem>
+      <listitem>
+        <para>Citizenship Act, 1955 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mha.gov.in/PDF_Other/act1920_17042017.pdf">Passport (Entry into India) Act, 1920</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mha.gov.in/">Ministry of Home Affairs</ulink>
+    </para>
+    <sect1 id="insurance-law">
+      <title>Insurance Law</title>
+      <para>Insurance law in India governs insurance contracts, policies, &amp; regulations. Key legislations include the Insurance Act, 1938, &amp; the Insurance Regulatory &amp; Development Authority Act, 1999.</para>
+      <orderedlist>
+        <listitem>
+          <para>Insurance Act, 1938 </para>
+        </listitem>
+        <listitem>
+          <para>Insurance Regulatory &amp; Development Authority Act, 1999 </para>
+        </listitem>
+        <listitem>
+          <para>General Insurance Business (Nationalisation) Act, 1972 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para><ulink url="https://www.irdai.gov.in/">Insurance Regulatory &amp; Development Authority of India</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Insurance Law</title>
+    <para>Insurance law in India governs insurance contracts, policies, &amp; regulations. Key legislations include the Insurance Act, 1938, &amp; the Insurance Regulatory &amp; Development Authority Act, 1999.</para>
+    <orderedlist>
+      <listitem>
+        <para>Insurance Act, 1938 </para>
+      </listitem>
+      <listitem>
+        <para>Insurance Regulatory &amp; Development Authority Act, 1999 </para>
+      </listitem>
+      <listitem>
+        <para>General Insurance Business (Nationalisation) Act, 1972 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para><ulink url="https://www.irdai.gov.in/">Insurance Regulatory &amp; Development Authority of India</ulink> </para>
+    <sect1 id="intellectual-property">
+      <title>Intellectual Property Law</title>
+      <para>Intellectual property law in India governs patents, trademarks, copyrights, &amp; designs. Key legislations include the Patents Act, 1970, &amp; the Trademarks Act, 1999.</para>
+      <orderedlist>
+        <listitem>
+          <para>Patents Act, 1970 </para>
+        </listitem>
+        <listitem>
+          <para>Trademarks Act, 1999 </para>
+        </listitem>
+        <listitem>
+          <para>Copyright Act, 1957 </para>
+        </listitem>
+        <listitem>
+          <para>Designs Act, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.ipindia.gov.in/">Intellectual Property India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.wipo.int/">World Intellectual Property Organization</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Intellectual Property Law</title>
+    <para>Intellectual property law in India governs patents, trademarks, copyrights, &amp; designs. Key legislations include the Patents Act, 1970, &amp; the Trademarks Act, 1999.</para>
+    <orderedlist>
+      <listitem>
+        <para>Patents Act, 1970 </para>
+      </listitem>
+      <listitem>
+        <para>Trademarks Act, 1999 </para>
+      </listitem>
+      <listitem>
+        <para>Copyright Act, 1957 </para>
+      </listitem>
+      <listitem>
+        <para>Designs Act, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.ipindia.gov.in/">Intellectual Property India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.wipo.int/">World Intellectual Property Organization</ulink>
+    </para>
+    <sect1 id="international-law">
+      <title>International Law</title>
+      <para>International law in India governs treaties, conventions, &amp; global agreements. Key legislations include the Diplomatic Relations (Vienna Convention) Act, 1972, &amp; the United Nations (Privileges &amp; Immunities) Act, 1947.</para>
+      <orderedlist>
+        <listitem>
+          <para>Diplomatic Relations (Vienna Convention) Act, 1972 </para>
+        </listitem>
+        <listitem>
+          <para>United Nations (Privileges &amp; Immunities) Act, 1947 </para>
+        </listitem>
+        <listitem>
+          <para>Geneva Conventions Act, 1960 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mea.gov.in/">Ministry of External Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.un.org/">United Nations</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>International Law</title>
+    <para>International law in India governs treaties, conventions, &amp; global agreements. Key legislations include the Diplomatic Relations (Vienna Convention) Act, 1972, &amp; the United Nations (Privileges &amp; Immunities) Act, 1947.</para>
+    <orderedlist>
+      <listitem>
+        <para>Diplomatic Relations (Vienna Convention) Act, 1972 </para>
+      </listitem>
+      <listitem>
+        <para>United Nations (Privileges &amp; Immunities) Act, 1947 </para>
+      </listitem>
+      <listitem>
+        <para>Geneva Conventions Act, 1960 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mea.gov.in/">Ministry of External Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.un.org/">United Nations</ulink>
+    </para>
+    <sect1 id="labour-law">
+      <title>Labor Law</title>
+      <para>Labor law in India governs employment, wages, &amp; working conditions. Key legislations include the Industrial Disputes Act, 1947, &amp; the Minimum Wages Act, 1948.</para>
+      <orderedlist>
+        <listitem>
+          <para>Industrial Disputes Act, 1947 </para>
+        </listitem>
+        <listitem>
+          <para>Minimum Wages Act, 1948 </para>
+        </listitem>
+        <listitem>
+          <para>Factories Act, 1948 </para>
+        </listitem>
+        <listitem>
+          <para>Employees' State Insurance Act, 1948 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.ilo.org/">International Labour Organization</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Labor Law</title>
+    <para>Labor law in India governs employment, wages, &amp; working conditions. Key legislations include the Industrial Disputes Act, 1947, &amp; the Minimum Wages Act, 1948.</para>
+    <orderedlist>
+      <listitem>
+        <para>Industrial Disputes Act, 1947 </para>
+      </listitem>
+      <listitem>
+        <para>Minimum Wages Act, 1948 </para>
+      </listitem>
+      <listitem>
+        <para>Factories Act, 1948 </para>
+      </listitem>
+      <listitem>
+        <para>Employees' State Insurance Act, 1948 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.ilo.org/">International Labour Organization</ulink>
+    </para>
+    <sect1 id="l&amp;-law">
+      <title>L&amp; Law</title>
+      <para>L&amp; law in India governs l&amp; ownership, transfer, &amp; usage. Key legislations include the Transfer of Property Act, 1882, &amp; the L&amp; Acquisition Act, 1894.</para>
+      <orderedlist>
+        <listitem>
+          <para>Transfer of Property Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>L&amp; Acquisition Act, 1894 </para>
+        </listitem>
+        <listitem>
+          <para>Registration Act, 1908 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>L&amp; Law</title>
+    <para>L&amp; law in India governs l&amp; ownership, transfer, &amp; usage. Key legislations include the Transfer of Property Act, 1882, &amp; the L&amp; Acquisition Act, 1894.</para>
+    <orderedlist>
+      <listitem>
+        <para>Transfer of Property Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>L&amp; Acquisition Act, 1894 </para>
+      </listitem>
+      <listitem>
+        <para>Registration Act, 1908 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+    </para>
+    <sect1 id="media-law">
+      <title>Media Law</title>
+      <para>Media law in India governs print, electronic, &amp; digital media. Key legislations include the Press &amp; Registration of Books Act, 1867, &amp; the Cable Television Networks (Regulation) Act, 1995.</para>
+      <orderedlist>
+        <listitem>
+          <para>Press &amp; Registration of Books Act, 1867 </para>
+        </listitem>
+        <listitem>
+          <para>Cable Television Networks (Regulation) Act, 1995 </para>
+        </listitem>
+        <listitem>
+          <para>Information Technology Act, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.meity.gov.in/">Ministry of Electronics &amp; Information Technology</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Media Law</title>
+    <para>Media law in India governs print, electronic, &amp; digital media. Key legislations include the Press &amp; Registration of Books Act, 1867, &amp; the Cable Television Networks (Regulation) Act, 1995.</para>
+    <orderedlist>
+      <listitem>
+        <para>Press &amp; Registration of Books Act, 1867 </para>
+      </listitem>
+      <listitem>
+        <para>Cable Television Networks (Regulation) Act, 1995 </para>
+      </listitem>
+      <listitem>
+        <para>Information Technology Act, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.meity.gov.in/">Ministry of Electronics &amp; Information Technology</ulink>
+    </para>
+    <sect1 id="mergers-acquisitions">
+      <title>Mergers &amp; Acquisitions</title>
+      <para>Mergers &amp; acquisitions law in India governs company consolidations, amalgamations, &amp; takeovers. Key legislations include the Companies Act, 2013, &amp; the Securities &amp; Exchange Board of India (SEBI) regulations.</para>
+      <orderedlist>
+        <listitem>
+          <para>Companies Act, 2013 </para>
+        </listitem>
+        <listitem>
+          <para>SEBI (Substantial Acquisition of Shares &amp; Takeovers) Regulations, 2011 </para>
+        </listitem>
+        <listitem>
+          <para>Competition Act, 2002 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Mergers &amp; Acquisitions</title>
+    <para>Mergers &amp; acquisitions law in India governs company consolidations, amalgamations, &amp; takeovers. Key legislations include the Companies Act, 2013, &amp; the Securities &amp; Exchange Board of India (SEBI) regulations.</para>
+    <orderedlist>
+      <listitem>
+        <para>Companies Act, 2013 </para>
+      </listitem>
+      <listitem>
+        <para>SEBI (Substantial Acquisition of Shares &amp; Takeovers) Regulations, 2011 </para>
+      </listitem>
+      <listitem>
+        <para>Competition Act, 2002 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+    </para>
+    <sect1 id="personal-law">
+      <title>Personal Law</title>
+      <para>Personal law in India governs individual rights, family law, &amp; inheritance. Key legislations include the Hindu Succession Act, 1956, &amp; the Muslim Personal Law (Shariat) Application Act, 1937.</para>
+      <orderedlist>
+        <listitem>
+          <para>Hindu Succession Act, 1956 </para>
+        </listitem>
+        <listitem>
+          <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+        </listitem>
+        <listitem>
+          <para>Indian Succession Act, 1925 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Personal Law</title>
+    <para>Personal law in India governs individual rights, family law, &amp; inheritance. Key legislations include the Hindu Succession Act, 1956, &amp; the Muslim Personal Law (Shariat) Application Act, 1937.</para>
+    <orderedlist>
+      <listitem>
+        <para>Hindu Succession Act, 1956 </para>
+      </listitem>
+      <listitem>
+        <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+      </listitem>
+      <listitem>
+        <para>Indian Succession Act, 1925 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+    </para>
+    <sect1 id="property-law">
+      <title>Property Law</title>
+      <para>Property law in India governs ownership, transfer, &amp; usage of property. Key legislations include the Transfer of Property Act, 1882, &amp; the Real Estate (Regulation &amp; Development) Act, 2016.</para>
+      <orderedlist>
+        <listitem>
+          <para>Transfer of Property Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+        </listitem>
+        <listitem>
+          <para>Registration Act, 1908 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Property Law</title>
+    <para>Property law in India governs ownership, transfer, &amp; usage of property. Key legislations include the Transfer of Property Act, 1882, &amp; the Real Estate (Regulation &amp; Development) Act, 2016.</para>
+    <orderedlist>
+      <listitem>
+        <para>Transfer of Property Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+      </listitem>
+      <listitem>
+        <para>Registration Act, 1908 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+    </para>
+    <sect1 id="taxation-law">
+      <title>Taxation Law</title>
+      <para>Taxation law in India governs income tax, goods &amp; services tax, &amp; other taxes. Key legislations include the Income-tax Act, 1961, &amp; the Goods &amp; Services Tax Act, 2017.</para>
+      <orderedlist>
+        <listitem>
+          <para>Income-tax Act, 1961 </para>
+        </listitem>
+        <listitem>
+          <para>Goods &amp; Services Tax Act, 2017 </para>
+        </listitem>
+        <listitem>
+          <para>Customs Act, 1962 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.incometax.gov.in/">Income Tax Department</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.gst.gov.in/">Goods &amp; Services Tax Council</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Taxation Law</title>
+    <para>Taxation law in India governs income tax, goods &amp; services tax, &amp; other taxes. Key legislations include the Income-tax Act, 1961, &amp; the Goods &amp; Services Tax Act, 2017.</para>
+    <orderedlist>
+      <listitem>
+        <para>Income-tax Act, 1961 </para>
+      </listitem>
+      <listitem>
+        <para>Goods &amp; Services Tax Act, 2017 </para>
+      </listitem>
+      <listitem>
+        <para>Customs Act, 1962 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.incometax.gov.in/">Income Tax Department</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.gst.gov.in/">Goods &amp; Services Tax Council</ulink>
+    </para>
+    <sect1 id="telecom-law">
+      <title>Telecom Law</title>
+      <para>Telecom law in India governs telecommunications services, networks, &amp; infrastructure. Key legislations include the Indian Telegraph Act, 1885, &amp; the Telecom Regulatory Authority of India Act, 1997.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Telegraph Act, 1885 </para>
+        </listitem>
+        <listitem>
+          <para>Telecom Regulatory Authority of India Act, 1997 </para>
+        </listitem>
+        <listitem>
+          <para>Information Technology Act, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.dot.gov.in/">Department of Telecommunications</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.trai.gov.in/">Telecom Regulatory Authority of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Telecom Law</title>
+    <para>Telecom law in India governs telecommunications services, networks, &amp; infrastructure. Key legislations include the Indian Telegraph Act, 1885, &amp; the Telecom Regulatory Authority of India Act, 1997.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Telegraph Act, 1885 </para>
+      </listitem>
+      <listitem>
+        <para>Telecom Regulatory Authority of India Act, 1997 </para>
+      </listitem>
+      <listitem>
+        <para>Information Technology Act, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.dot.gov.in/">Department of Telecommunications</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.trai.gov.in/">Telecom Regulatory Authority of India</ulink>
+    </para>
+    <sect1 id="transportation-law">
+      <title>Transportation Law</title>
+      <para>Transportation law in India governs road, rail, air, &amp; water transport. Key legislations include the Motor Vehicles Act, 1988, &amp; the Railways Act, 1989.</para>
+      <orderedlist>
+        <listitem>
+          <para>Motor Vehicles Act, 1988 </para>
+        </listitem>
+        <listitem>
+          <para>Railways Act, 1989 </para>
+        </listitem>
+        <listitem>
+          <para>Airports Authority of India Act, 1994 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.morth.nic.in/">Ministry of Road Transport &amp; Highways</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indianrailways.gov.in/">Indian Railways</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Transportation Law</title>
+    <para>Transportation law in India governs road, rail, air, &amp; water transport. Key legislations include the Motor Vehicles Act, 1988, &amp; the Railways Act, 1989.</para>
+    <orderedlist>
+      <listitem>
+        <para>Motor Vehicles Act, 1988 </para>
+      </listitem>
+      <listitem>
+        <para>Railways Act, 1989 </para>
+      </listitem>
+      <listitem>
+        <para>Airports Authority of India Act, 1994 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.morth.nic.in/">Ministry of Road Transport &amp; Highways</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indianrailways.gov.in/">Indian Railways</ulink>
+    </para>
+    <sect1 id="trusts-&amp;-estates">
+      <title>Trusts &amp; Estates</title>
+      <para>Trusts &amp; estates law in India governs trusts, wills, &amp; inheritance. Key legislations include the Indian Trusts Act, 1882, &amp; the Succession Act, 1925.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Trusts Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>Succession Act, 1925 </para>
+        </listitem>
+        <listitem>
+          <para>Hindu Succession Act, 1956 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Trusts &amp; Estates</title>
+    <para>Trusts &amp; estates law in India governs trusts, wills, &amp; inheritance. Key legislations include the Indian Trusts Act, 1882, &amp; the Succession Act, 1925.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Trusts Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>Succession Act, 1925 </para>
+      </listitem>
+      <listitem>
+        <para>Hindu Succession Act, 1956 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/">India Code</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+    </para>
+    <sect1 id="white-collar-crime">
+      <title>White Collar Crime</title>
+      <para>White collar crime law in India governs economic offenses, fraud, &amp; corporate crime. Key legislations include the Indian Penal Code, 1860, &amp; the Prevention of Money Laundering Act, 2002.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Penal Code, 1860 </para>
+        </listitem>
+        <listitem>
+          <para>Prevention of Money Laundering Act, 2002 </para>
+        </listitem>
+        <listitem>
+          <para>Companies Act, 2013 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.ed.gov.in/">Enforcement Directorate</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>White Collar Crime</title>
+    <para>White collar crime law in India governs economic offenses, fraud, &amp; corporate crime. Key legislations include the Indian Penal Code, 1860, &amp; the Prevention of Money Laundering Act, 2002.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Penal Code, 1860 </para>
+      </listitem>
+      <listitem>
+        <para>Prevention of Money Laundering Act, 2002 </para>
+      </listitem>
+      <listitem>
+        <para>Companies Act, 2013 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.ed.gov.in/">Enforcement Directorate</ulink>
+    </para>
+    <sect1 id="women-&amp;-child-laws">
+      <title>Women &amp; Child Laws</title>
+      <para>Women &amp; child laws in India govern rights, protection, &amp; welfare of women &amp; children. Key legislations include the Protection of Women from Domestic Violence Act, 2005, &amp; the Juvenile Justice (Care &amp; Protection of Children) Act, 2015.</para>
+      <orderedlist>
+        <listitem>
+          <para>Protection of Women from Domestic Violence Act, 2005 </para>
+        </listitem>
+        <listitem>
+          <para>Juvenile Justice (Care &amp; Protection of Children) Act, 2015 </para>
+        </listitem>
+        <listitem>
+          <para>Protection of Children from Sexual Offences Act, 2012 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.wcd.nic.in/">Ministry of Women &amp; Child Development</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.ncw.nic.in/">National Commission for Women</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Women &amp; Child Laws</title>
+    <para>Women &amp; child laws in India govern rights, protection, &amp; welfare of women &amp; children. Key legislations include the Protection of Women from Domestic Violence Act, 2005, &amp; the Juvenile Justice (Care &amp; Protection of Children) Act, 2015.</para>
+    <orderedlist>
+      <listitem>
+        <para>Protection of Women from Domestic Violence Act, 2005 </para>
+      </listitem>
+      <listitem>
+        <para>Juvenile Justice (Care &amp; Protection of Children) Act, 2015 </para>
+      </listitem>
+      <listitem>
+        <para>Protection of Children from Sexual Offences Act, 2012 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.wcd.nic.in/">Ministry of Women &amp; Child Development</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.ncw.nic.in/">National Commission for Women</ulink>
+    </para>
+    <sect1 id="Section1">
+      <title><anchor id="consumer-protection"/>Consumer Protection</title>
+      <para>Consumer protection law in India governs consumer rights, product safety, &amp; dispute resolution. Key legislations include the Consumer Protection Act, 2019, &amp; the Legal Metrology Act, 2009.</para>
+      <orderedlist>
+        <listitem>
+          <para>Consumer Protection Act, 2019 </para>
+        </listitem>
+        <listitem>
+          <para>Legal Metrology Act, 2009 </para>
+        </listitem>
+        <listitem>
+          <para>Food Safety &amp; St&amp;ards Act, 2006 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.consumeraffairs.nic.in/">Department of Consumer Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.fssai.gov.in/">Food Safety &amp; St&amp;ards Authority of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="consumer-protection"/>Consumer Protection</title>
+    <para>Consumer protection law in India governs consumer rights, product safety, &amp; dispute resolution. Key legislations include the Consumer Protection Act, 2019, &amp; the Legal Metrology Act, 2009.</para>
+    <orderedlist>
+      <listitem>
+        <para>Consumer Protection Act, 2019 </para>
+      </listitem>
+      <listitem>
+        <para>Legal Metrology Act, 2009 </para>
+      </listitem>
+      <listitem>
+        <para>Food Safety &amp; St&amp;ards Act, 2006 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.consumeraffairs.nic.in/">Department of Consumer Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.fssai.gov.in/">Food Safety &amp; St&amp;ards Authority of India</ulink>
+    </para>
+    <sect1 id="cyber-law">
+      <title>Cyber Law</title>
+      <para>Cyber law in India governs internet, technology, &amp; data protection. Key legislations include the Information Technology Act, 2000, &amp; the Personal Data Protection Bill, 2019.</para>
+      <orderedlist>
+        <listitem>
+          <para>Information Technology Act, 2000 </para>
+        </listitem>
+        <listitem>
+          <para>Personal Data Protection Bill, 2019 </para>
+        </listitem>
+        <listitem>
+          <para>Cybersecurity &amp; Data Protection Rules, 2021 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.meity.gov.in/">Ministry of Electronics &amp; Information Technology</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.cert-in.org.in/">Indian Computer Emergency Response Team</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Cyber Law</title>
+    <para>Cyber law in India governs internet, technology, &amp; data protection. Key legislations include the Information Technology Act, 2000, &amp; the Personal Data Protection Bill, 2019.</para>
+    <orderedlist>
+      <listitem>
+        <para>Information Technology Act, 2000 </para>
+      </listitem>
+      <listitem>
+        <para>Personal Data Protection Bill, 2019 </para>
+      </listitem>
+      <listitem>
+        <para>Cybersecurity &amp; Data Protection Rules, 2021 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.meity.gov.in/">Ministry of Electronics &amp; Information Technology</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.cert-in.org.in/">Indian Computer Emergency Response Team</ulink>
+    </para>
+    <sect1 id="environmental-laws-&amp;-regulations">
+      <title>Environmental Laws &amp; Regulations</title>
+      <para>Environmental laws &amp; regulations in India govern conservation, pollution control, &amp; sustainable development. Key legislations include the Environment (Protection) Act, 1986, &amp; the Wildlife (Protection) Act, 1972.</para>
+      <orderedlist>
+        <listitem>
+          <para>Environment (Protection) Act, 1986 </para>
+        </listitem>
+        <listitem>
+          <para>Wildlife (Protection) Act, 1972 </para>
+        </listitem>
+        <listitem>
+          <para>Water (Prevention &amp; Control of Pollution) Act, 1974 </para>
+        </listitem>
+        <listitem>
+          <para>Air (Prevention &amp; Control of Pollution) Act, 1981 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.envfor.nic.in/">Ministry of Environment, Forest &amp; Climate Change</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.cpcb.nic.in/">Central Pollution Control Board</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Environmental Laws &amp; Regulations</title>
+    <para>Environmental laws &amp; regulations in India govern conservation, pollution control, &amp; sustainable development. Key legislations include the Environment (Protection) Act, 1986, &amp; the Wildlife (Protection) Act, 1972.</para>
+    <orderedlist>
+      <listitem>
+        <para>Environment (Protection) Act, 1986 </para>
+      </listitem>
+      <listitem>
+        <para>Wildlife (Protection) Act, 1972 </para>
+      </listitem>
+      <listitem>
+        <para>Water (Prevention &amp; Control of Pollution) Act, 1974 </para>
+      </listitem>
+      <listitem>
+        <para>Air (Prevention &amp; Control of Pollution) Act, 1981 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.envfor.nic.in/">Ministry of Environment, Forest &amp; Climate Change</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.cpcb.nic.in/">Central Pollution Control Board</ulink>
+    </para>
+    <sect1 id="arbitration-&amp;-alternative-dispute-resolution">
+      <title>Arbitration &amp; Alternative Dispute Resolution</title>
+      <para>Arbitration &amp; alternative dispute resolution in India govern dispute resolution mechanisms outside courts. Key legislations include the Arbitration &amp; Conciliation Act, 1996, &amp; the Mediation Bill, 2021.</para>
+      <orderedlist>
+        <listitem>
+          <para>Arbitration &amp; Conciliation Act, 1996 </para>
+        </listitem>
+        <listitem>
+          <para>Mediation Bill, 2021 </para>
+        </listitem>
+        <listitem>
+          <para>Commercial Courts Act, 2015 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Arbitration &amp; Alternative Dispute Resolution</title>
+    <para>Arbitration &amp; alternative dispute resolution in India govern dispute resolution mechanisms outside courts. Key legislations include the Arbitration &amp; Conciliation Act, 1996, &amp; the Mediation Bill, 2021.</para>
+    <orderedlist>
+      <listitem>
+        <para>Arbitration &amp; Conciliation Act, 1996 </para>
+      </listitem>
+      <listitem>
+        <para>Mediation Bill, 2021 </para>
+      </listitem>
+      <listitem>
+        <para>Commercial Courts Act, 2015 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+    </para>
+    <sect1 id="banking-&amp;-finance">
+      <title>Banking &amp; Finance</title>
+      <para>Banking &amp; finance law in India governs banking, investments, &amp; financial markets. Key legislations include the Banking Regulation Act, 1949, &amp; the Securities &amp; Exchange Board of India Act, 1992.</para>
+      <orderedlist>
+        <listitem>
+          <para>Banking Regulation Act, 1949 </para>
+        </listitem>
+        <listitem>
+          <para>Securities &amp; Exchange Board of India Act, 1992 </para>
+        </listitem>
+        <listitem>
+          <para>Reserve Bank of India Act, 1934 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.rbi.org.in/">Reserve Bank of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Banking &amp; Finance</title>
+    <para>Banking &amp; finance law in India governs banking, investments, &amp; financial markets. Key legislations include the Banking Regulation Act, 1949, &amp; the Securities &amp; Exchange Board of India Act, 1992.</para>
+    <orderedlist>
+      <listitem>
+        <para>Banking Regulation Act, 1949 </para>
+      </listitem>
+      <listitem>
+        <para>Securities &amp; Exchange Board of India Act, 1992 </para>
+      </listitem>
+      <listitem>
+        <para>Reserve Bank of India Act, 1934 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.rbi.org.in/">Reserve Bank of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+    </para>
+    <sect1 id="competition-law">
+      <title>Competition Law</title>
+      <para>Competition law in India governs anti-competitive practices, mergers, &amp; acquisitions. Key legislations include the Competition Act, 2002, &amp; the Competition Commission of India (CCI) regulations.</para>
+      <orderedlist>
+        <listitem>
+          <para>Competition Act, 2002 </para>
+        </listitem>
+        <listitem>
+          <para>Competition Commission of India (CCI) regulations </para>
+        </listitem>
+        <listitem>
+          <para>Monopolies &amp; Restrictive Trade Practices Act, 1969 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.cci.gov.in/">Competition Commission of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Competition Law</title>
+    <para>Competition law in India governs anti-competitive practices, mergers, &amp; acquisitions. Key legislations include the Competition Act, 2002, &amp; the Competition Commission of India (CCI) regulations.</para>
+    <orderedlist>
+      <listitem>
+        <para>Competition Act, 2002 </para>
+      </listitem>
+      <listitem>
+        <para>Competition Commission of India (CCI) regulations </para>
+      </listitem>
+      <listitem>
+        <para>Monopolies &amp; Restrictive Trade Practices Act, 1969 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.cci.gov.in/">Competition Commission of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+    </para>
+    <sect1 id="Section2">
+      <title><anchor id="constitutional-law"/>Constitutional Law</title>
+      <para>Constitutional law in India governs the Constitution, fundamental rights, &amp; constitutional remedies. Key legislations include the Constitution of India, 1950, &amp; the Supreme Court judgments.</para>
+      <orderedlist>
+        <listitem>
+          <para>Constitution of India, 1950 </para>
+        </listitem>
+        <listitem>
+          <para>Supreme Court judgments </para>
+        </listitem>
+        <listitem>
+          <para>Constitution (Amendment) Acts </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.india.gov.in/">Official Government of India website</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="constitutional-law"/>Constitutional Law</title>
+    <para>Constitutional law in India governs the Constitution, fundamental rights, &amp; constitutional remedies. Key legislations include the Constitution of India, 1950, &amp; the Supreme Court judgments.</para>
+    <orderedlist>
+      <listitem>
+        <para>Constitution of India, 1950 </para>
+      </listitem>
+      <listitem>
+        <para>Supreme Court judgments </para>
+      </listitem>
+      <listitem>
+        <para>Constitution (Amendment) Acts </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.india.gov.in/">Official Government of India website</ulink>
+    </para>
+    <sect1 id="Section3">
+      <title><anchor id="criminal-law"/>Criminal Law</title>
+      <para>Criminal law in India governs crimes, punishments, &amp; criminal procedures. Key legislations include the Indian Penal Code, 1860, &amp; the Code of Criminal Procedure, 1973.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Penal Code, 1860 </para>
+        </listitem>
+        <listitem>
+          <para>Code of Criminal Procedure, 1973 </para>
+        </listitem>
+        <listitem>
+          <para>Indian Evidence Act, 1872 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mha.gov.in/">Ministry of Home Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.nalsar.ac.in/">National Academy of Legal Studies &amp; Research</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="criminal-law"/>Criminal Law</title>
+    <para>Criminal law in India governs crimes, punishments, &amp; criminal procedures. Key legislations include the Indian Penal Code, 1860, &amp; the Code of Criminal Procedure, 1973.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Penal Code, 1860 </para>
+      </listitem>
+      <listitem>
+        <para>Code of Criminal Procedure, 1973 </para>
+      </listitem>
+      <listitem>
+        <para>Indian Evidence Act, 1872 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mha.gov.in/">Ministry of Home Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.nalsar.ac.in/">National Academy of Legal Studies &amp; Research</ulink>
+    </para>
+    <sect1 id="defamation">
+      <title>Defamation</title>
+      <para>Defamation law in India governs libel, sl&amp;er, &amp; injury to reputation. Key legislations include the Indian Penal Code, 1860, &amp; the Civil Procedure Code, 1908.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Penal Code, 1860 </para>
+        </listitem>
+        <listitem>
+          <para>Civil Procedure Code, 1908 </para>
+        </listitem>
+        <listitem>
+          <para>Contempt of Courts Act, 1971 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Defamation</title>
+    <para>Defamation law in India governs libel, sl&amp;er, &amp; injury to reputation. Key legislations include the Indian Penal Code, 1860, &amp; the Civil Procedure Code, 1908.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Penal Code, 1860 </para>
+      </listitem>
+      <listitem>
+        <para>Civil Procedure Code, 1908 </para>
+      </listitem>
+      <listitem>
+        <para>Contempt of Courts Act, 1971 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+    </para>
+    <sect1 id="education-law">
+      <title>Education Law</title>
+      <para>Education law in India governs schools, universities, &amp; educational institutions. Key legislations include the Right to Education Act, 2009, &amp; the University Grants Commission Act, 1956.</para>
+      <orderedlist>
+        <listitem>
+          <para>Right to Education Act, 2009 </para>
+        </listitem>
+        <listitem>
+          <para>University Grants Commission Act, 1956 </para>
+        </listitem>
+        <listitem>
+          <para>All India Council for Technical Education Act, 1987 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.education.gov.in/">Ministry of Education</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.ugc.ac.in/">University Grants Commission</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Education Law</title>
+    <para>Education law in India governs schools, universities, &amp; educational institutions. Key legislations include the Right to Education Act, 2009, &amp; the University Grants Commission Act, 1956.</para>
+    <orderedlist>
+      <listitem>
+        <para>Right to Education Act, 2009 </para>
+      </listitem>
+      <listitem>
+        <para>University Grants Commission Act, 1956 </para>
+      </listitem>
+      <listitem>
+        <para>All India Council for Technical Education Act, 1987 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.education.gov.in/">Ministry of Education</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.ugc.ac.in/">University Grants Commission</ulink>
+    </para>
+    <sect1 id="Section4">
+      <title><anchor id="employment-law"/>Employment Law</title>
+      <para>Employment law in India governs labor rights, wages, &amp; working conditions. Key legislations include the Industrial Disputes Act, 1947, &amp; the Minimum Wages Act, 1948.</para>
+      <orderedlist>
+        <listitem>
+          <para>Industrial Disputes Act, 1947 </para>
+        </listitem>
+        <listitem>
+          <para>Minimum Wages Act, 1948 </para>
+        </listitem>
+        <listitem>
+          <para>Employees' State Insurance Act, 1948 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.esic.nic.in/">Employees' State Insurance Corporation</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="employment-law"/>Employment Law</title>
+    <para>Employment law in India governs labor rights, wages, &amp; working conditions. Key legislations include the Industrial Disputes Act, 1947, &amp; the Minimum Wages Act, 1948.</para>
+    <orderedlist>
+      <listitem>
+        <para>Industrial Disputes Act, 1947 </para>
+      </listitem>
+      <listitem>
+        <para>Minimum Wages Act, 1948 </para>
+      </listitem>
+      <listitem>
+        <para>Employees' State Insurance Act, 1948 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.esic.nic.in/">Employees' State Insurance Corporation</ulink>
+    </para>
+    <sect1 id="entertainment-law">
+      <title>Entertainment Law</title>
+      <para>Entertainment law in India governs film, music, media, &amp; performance rights. Key legislations include the Copyright Act, 1957, &amp; the Cinematograph Act, 1952.</para>
+      <orderedlist>
+        <listitem>
+          <para>Copyright Act, 1957 </para>
+        </listitem>
+        <listitem>
+          <para>Cinematograph Act, 1952 </para>
+        </listitem>
+        <listitem>
+          <para>Performing Rights Society (PRS) regulations </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.copyright.gov.in/">Copyright Office, India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Entertainment Law</title>
+    <para>Entertainment law in India governs film, music, media, &amp; performance rights. Key legislations include the Copyright Act, 1957, &amp; the Cinematograph Act, 1952.</para>
+    <orderedlist>
+      <listitem>
+        <para>Copyright Act, 1957 </para>
+      </listitem>
+      <listitem>
+        <para>Cinematograph Act, 1952 </para>
+      </listitem>
+      <listitem>
+        <para>Performing Rights Society (PRS) regulations </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.copyright.gov.in/">Copyright Office, India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+    </para>
+    <sect1 id="Section5">
+      <title><anchor id="family-law"/>Family Law</title>
+      <para>Family law in India governs marriage, divorce, inheritance, &amp; child custody. Key legislations include the Hindu Marriage Act, 1955, &amp; the Muslim Personal Law (Shariat) Application Act, 1937.</para>
+      <orderedlist>
+        <listitem>
+          <para>Hindu Marriage Act, 1955 </para>
+        </listitem>
+        <listitem>
+          <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+        </listitem>
+        <listitem>
+          <para>Special Marriage Act, 1954 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="family-law"/>Family Law</title>
+    <para>Family law in India governs marriage, divorce, inheritance, &amp; child custody. Key legislations include the Hindu Marriage Act, 1955, &amp; the Muslim Personal Law (Shariat) Application Act, 1937.</para>
+    <orderedlist>
+      <listitem>
+        <para>Hindu Marriage Act, 1955 </para>
+      </listitem>
+      <listitem>
+        <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+      </listitem>
+      <listitem>
+        <para>Special Marriage Act, 1954 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+    </para>
+    <sect1 id="investment-law">
+      <title>Investment Law</title>
+      <para>Investment Law in India governs foreign and domestic investments across various sectors. The regulatory framework ensures that foreign direct investments (FDIs) adhere to policies set by the Government of India and the Reserve Bank of India (RBI). The key legislations are the Foreign Exchange Management Act (FEMA), 1999, and the FDI Policy, which outlines the sectors that allow foreign investment and the limits on equity holding. The Securities and Exchange Board of India (SEBI) plays a vital role in regulating investments in the stock markets and capital markets.</para>
+      <orderedlist>
+        <listitem>
+          <para>Foreign Exchange Management Act (FEMA), 1999 </para>
+        </listitem>
+        <listitem>
+          <para>Foreign Direct Investment (FDI) Policy </para>
+        </listitem>
+        <listitem>
+          <para>Securities and Exchange Board of India (SEBI) guidelines </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.rbi.org.in/">Reserve Bank of India (RBI)</ulink>
+      </para>
+      <para>
+        <ulink url="https://dpiit.gov.in/">Department for Promotion of Industry and Internal Trade (DPIIT)</ulink>
+      </para>
+      <para><ulink url="https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&amp;sid=1&amp;ssid=1&amp;smid=0">SEBI - Securities Law</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Investment Law</title>
+    <para>Investment Law in India governs foreign and domestic investments across various sectors. The regulatory framework ensures that foreign direct investments (FDIs) adhere to policies set by the Government of India and the Reserve Bank of India (RBI). The key legislations are the Foreign Exchange Management Act (FEMA), 1999, and the FDI Policy, which outlines the sectors that allow foreign investment and the limits on equity holding. The Securities and Exchange Board of India (SEBI) plays a vital role in regulating investments in the stock markets and capital markets.</para>
+    <orderedlist>
+      <listitem>
+        <para>Foreign Exchange Management Act (FEMA), 1999 </para>
+      </listitem>
+      <listitem>
+        <para>Foreign Direct Investment (FDI) Policy </para>
+      </listitem>
+      <listitem>
+        <para>Securities and Exchange Board of India (SEBI) guidelines </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.rbi.org.in/">Reserve Bank of India (RBI)</ulink>
+    </para>
+    <para>
+      <ulink url="https://dpiit.gov.in/">Department for Promotion of Industry and Internal Trade (DPIIT)</ulink>
+    </para>
+    <para><ulink url="https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&amp;sid=1&amp;ssid=1&amp;smid=0">SEBI - Securities Law</ulink> </para>
+    <sect1 id="foreign-exchange-law">
+      <title>Foreign Exchange &amp; Trade</title>
+      <para>Foreign exchange &amp; trade law in India governs international trade, currency regulation, &amp; customs. Key legislations include the Foreign Exchange Management Act, 1999, &amp; the Customs Act, 1962.</para>
+      <orderedlist>
+        <listitem>
+          <para>Foreign Exchange Management Act, 1999 </para>
+        </listitem>
+        <listitem>
+          <para>Customs Act, 1962 </para>
+        </listitem>
+        <listitem>
+          <para>Export-Import Policy, 2015-2020 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.rbi.org.in/">Reserve Bank of India</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.cbic.gov.in/">Central Board of Indirect Taxes &amp; Customs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Foreign Exchange &amp; Trade</title>
+    <para>Foreign exchange &amp; trade law in India governs international trade, currency regulation, &amp; customs. Key legislations include the Foreign Exchange Management Act, 1999, &amp; the Customs Act, 1962.</para>
+    <orderedlist>
+      <listitem>
+        <para>Foreign Exchange Management Act, 1999 </para>
+      </listitem>
+      <listitem>
+        <para>Customs Act, 1962 </para>
+      </listitem>
+      <listitem>
+        <para>Export-Import Policy, 2015-2020 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.rbi.org.in/">Reserve Bank of India</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.cbic.gov.in/">Central Board of Indirect Taxes &amp; Customs</ulink>
+    </para>
+    <sect1 id="healthcare-&amp;-medical-law">
+      <title>Healthcare &amp; Medical Law</title>
+      <para>Healthcare &amp; medical law in India governs medical practice, patient rights, &amp; healthcare services. Key legislations include the Indian Medical Council Act, 1956, &amp; the Clinical Establishments (Registration &amp; Regulation) Act, 2010.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Medical Council Act, 1956 </para>
+        </listitem>
+        <listitem>
+          <para>Clinical Establishments (Registration &amp; Regulation) Act, 2010 </para>
+        </listitem>
+        <listitem>
+          <para>Drugs &amp; Cosmetics Act, 1940 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mohfw.gov.in/">Ministry of Health &amp; Family Welfare</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mciindia.org/">Medical Council of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Healthcare &amp; Medical Law</title>
+    <para>Healthcare &amp; medical law in India governs medical practice, patient rights, &amp; healthcare services. Key legislations include the Indian Medical Council Act, 1956, &amp; the Clinical Establishments (Registration &amp; Regulation) Act, 2010.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Medical Council Act, 1956 </para>
+      </listitem>
+      <listitem>
+        <para>Clinical Establishments (Registration &amp; Regulation) Act, 2010 </para>
+      </listitem>
+      <listitem>
+        <para>Drugs &amp; Cosmetics Act, 1940 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mohfw.gov.in/">Ministry of Health &amp; Family Welfare</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mciindia.org/">Medical Council of India</ulink>
+    </para>
+    <sect1 id="immigration-&amp;-naturalization">
+      <title>Immigration &amp; Naturalization</title>
+      <para>Immigration &amp; naturalization law in India governs citizenship, visa, &amp; foreigner registration. Key legislations include the Citizenship Act, 1955, &amp; the Foreigners Act, 1946.</para>
+      <orderedlist>
+        <listitem>
+          <para>Citizenship Act, 1955 </para>
+        </listitem>
+        <listitem>
+          <para>Foreigners Act, 1946 </para>
+        </listitem>
+        <listitem>
+          <para>Passport (Entry into India) Act, 1920 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mha.gov.in/">Ministry of Home Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.boi.gov.in/">Bureau of Immigration</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Immigration &amp; Naturalization</title>
+    <para>Immigration &amp; naturalization law in India governs citizenship, visa, &amp; foreigner registration. Key legislations include the Citizenship Act, 1955, &amp; the Foreigners Act, 1946.</para>
+    <orderedlist>
+      <listitem>
+        <para>Citizenship Act, 1955 </para>
+      </listitem>
+      <listitem>
+        <para>Foreigners Act, 1946 </para>
+      </listitem>
+      <listitem>
+        <para>Passport (Entry into India) Act, 1920 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mha.gov.in/">Ministry of Home Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.boi.gov.in/">Bureau of Immigration</ulink>
+    </para>
+    <sect1 id="Section6">
+      <title><anchor id="insurance-law"/>Insurance Law</title>
+      <para>Insurance law in India governs insurance contracts, claims, &amp; regulations. Key legislations include the Insurance Act, 1938, &amp; the Insurance Regulatory &amp; Development Authority Act, 1999.</para>
+      <orderedlist>
+        <listitem>
+          <para>Insurance Act, 1938 </para>
+        </listitem>
+        <listitem>
+          <para>Insurance Regulatory &amp; Development Authority Act, 1999 </para>
+        </listitem>
+        <listitem>
+          <para>Motor Vehicles Act, 1988 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.irdai.gov.in/">Insurance Regulatory &amp; Development Authority</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="insurance-law"/>Insurance Law</title>
+    <para>Insurance law in India governs insurance contracts, claims, &amp; regulations. Key legislations include the Insurance Act, 1938, &amp; the Insurance Regulatory &amp; Development Authority Act, 1999.</para>
+    <orderedlist>
+      <listitem>
+        <para>Insurance Act, 1938 </para>
+      </listitem>
+      <listitem>
+        <para>Insurance Regulatory &amp; Development Authority Act, 1999 </para>
+      </listitem>
+      <listitem>
+        <para>Motor Vehicles Act, 1988 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.irdai.gov.in/">Insurance Regulatory &amp; Development Authority</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+    </para>
+    <sect1 id="intellectual-property-law">
+      <title>Intellectual Property Law</title>
+      <para>Intellectual property law in India governs patents, trademarks, copyrights, &amp; industrial designs. Key legislations include the Patents Act, 1970, &amp; the Trademarks Act, 1999.</para>
+      <orderedlist>
+        <listitem>
+          <para>Patents Act, 1970 </para>
+        </listitem>
+        <listitem>
+          <para>Trademarks Act, 1999 </para>
+        </listitem>
+        <listitem>
+          <para>Copyright Act, 1957 </para>
+        </listitem>
+        <listitem>
+          <para>Designs Act, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.ipindia.gov.in/">Office of the Controller General of Patents, Designs &amp; Trade Marks</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.wipo.int/">World Intellectual Property Organization</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Intellectual Property Law</title>
+    <para>Intellectual property law in India governs patents, trademarks, copyrights, &amp; industrial designs. Key legislations include the Patents Act, 1970, &amp; the Trademarks Act, 1999.</para>
+    <orderedlist>
+      <listitem>
+        <para>Patents Act, 1970 </para>
+      </listitem>
+      <listitem>
+        <para>Trademarks Act, 1999 </para>
+      </listitem>
+      <listitem>
+        <para>Copyright Act, 1957 </para>
+      </listitem>
+      <listitem>
+        <para>Designs Act, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.ipindia.gov.in/">Office of the Controller General of Patents, Designs &amp; Trade Marks</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.wipo.int/">World Intellectual Property Organization</ulink>
+    </para>
+    <sect1 id="labour-employment-law">
+      <title>Labour &amp; Employment Law</title>
+      <para>Labour &amp; employment law in India governs employee rights, labour st&amp;ards, &amp; industrial relations. Key legislations include the Industrial Disputes Act, 1947, &amp; the Minimum Wages Act, 1948.</para>
+      <orderedlist>
+        <listitem>
+          <para>Industrial Disputes Act, 1947 </para>
+        </listitem>
+        <listitem>
+          <para>Minimum Wages Act, 1948 </para>
+        </listitem>
+        <listitem>
+          <para>Factories Act, 1948 </para>
+        </listitem>
+        <listitem>
+          <para>Employees' Provident Funds &amp; Miscellaneous Provisions Act, 1952 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.esic.gov.in/">Employees' State Insurance Corporation</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Labour &amp; Employment Law</title>
+    <para>Labour &amp; employment law in India governs employee rights, labour st&amp;ards, &amp; industrial relations. Key legislations include the Industrial Disputes Act, 1947, &amp; the Minimum Wages Act, 1948.</para>
+    <orderedlist>
+      <listitem>
+        <para>Industrial Disputes Act, 1947 </para>
+      </listitem>
+      <listitem>
+        <para>Minimum Wages Act, 1948 </para>
+      </listitem>
+      <listitem>
+        <para>Factories Act, 1948 </para>
+      </listitem>
+      <listitem>
+        <para>Employees' Provident Funds &amp; Miscellaneous Provisions Act, 1952 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.labour.gov.in/">Ministry of Labour &amp; Employment</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.esic.gov.in/">Employees' State Insurance Corporation</ulink>
+    </para>
+    <sect1 id="l&amp;-&amp;-property-law">
+      <title>L&amp; &amp; Property Law</title>
+      <para>L&amp; &amp; property law in India governs property rights, l&amp; acquisition, &amp; real estate. Key legislations include the Transfer of Property Act, 1882, &amp; the L&amp; Acquisition Act, 2013.</para>
+      <orderedlist>
+        <listitem>
+          <para>Transfer of Property Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>L&amp; Acquisition Act, 2013 </para>
+        </listitem>
+        <listitem>
+          <para>Registration Act, 1908 </para>
+        </listitem>
+        <listitem>
+          <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.rera.gov.in/">Real Estate Regulatory Authority</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>L&amp; &amp; Property Law</title>
+    <para>L&amp; &amp; property law in India governs property rights, l&amp; acquisition, &amp; real estate. Key legislations include the Transfer of Property Act, 1882, &amp; the L&amp; Acquisition Act, 2013.</para>
+    <orderedlist>
+      <listitem>
+        <para>Transfer of Property Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>L&amp; Acquisition Act, 2013 </para>
+      </listitem>
+      <listitem>
+        <para>Registration Act, 1908 </para>
+      </listitem>
+      <listitem>
+        <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.rera.gov.in/">Real Estate Regulatory Authority</ulink>
+    </para>
+    <sect1 id="maritime-law">
+      <title>Maritime Law</title>
+      <para>Maritime law in India governs shipping, navigation, &amp; admiralty. Key legislations include the Merchant Shipping Act, 1958, &amp; the Admiralty (Jurisdiction &amp; Settlement of Maritime Claims) Act, 2017.</para>
+      <orderedlist>
+        <listitem>
+          <para>Merchant Shipping Act, 1958 </para>
+        </listitem>
+        <listitem>
+          <para>Admiralty (Jurisdiction &amp; Settlement of Maritime Claims) Act, 2017 </para>
+        </listitem>
+        <listitem>
+          <para>Major Port Trusts Act, 1963 </para>
+        </listitem>
+        <listitem>
+          <para>Coastal Shipping Act, 2010 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.shipping.gov.in/">Directorate General of Shipping</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mumbaihighcourt.nic.in/">High Court of Bombay - Admiralty Jurisdiction</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Maritime Law</title>
+    <para>Maritime law in India governs shipping, navigation, &amp; admiralty. Key legislations include the Merchant Shipping Act, 1958, &amp; the Admiralty (Jurisdiction &amp; Settlement of Maritime Claims) Act, 2017.</para>
+    <orderedlist>
+      <listitem>
+        <para>Merchant Shipping Act, 1958 </para>
+      </listitem>
+      <listitem>
+        <para>Admiralty (Jurisdiction &amp; Settlement of Maritime Claims) Act, 2017 </para>
+      </listitem>
+      <listitem>
+        <para>Major Port Trusts Act, 1963 </para>
+      </listitem>
+      <listitem>
+        <para>Coastal Shipping Act, 2010 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.shipping.gov.in/">Directorate General of Shipping</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mumbaihighcourt.nic.in/">High Court of Bombay - Admiralty Jurisdiction</ulink>
+    </para>
+    <sect1 id="media-&amp;-entertainment-law">
+      <title>Media &amp; Entertainment Law</title>
+      <para>Media &amp; entertainment law in India governs film, television, music, &amp; digital media. Key legislations include the Cinematograph Act, 1952, &amp; the Copyright Act, 1957.</para>
+      <orderedlist>
+        <listitem>
+          <para>Cinematograph Act, 1952 </para>
+        </listitem>
+        <listitem>
+          <para>Copyright Act, 1957 </para>
+        </listitem>
+        <listitem>
+          <para>Television Networks (Regulation) Act, 1995 </para>
+        </listitem>
+        <listitem>
+          <para>Information Technology (Intermediary Guidelines) Rules, 2011 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.copyright.gov.in/">Copyright Office, India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Media &amp; Entertainment Law</title>
+    <para>Media &amp; entertainment law in India governs film, television, music, &amp; digital media. Key legislations include the Cinematograph Act, 1952, &amp; the Copyright Act, 1957.</para>
+    <orderedlist>
+      <listitem>
+        <para>Cinematograph Act, 1952 </para>
+      </listitem>
+      <listitem>
+        <para>Copyright Act, 1957 </para>
+      </listitem>
+      <listitem>
+        <para>Television Networks (Regulation) Act, 1995 </para>
+      </listitem>
+      <listitem>
+        <para>Information Technology (Intermediary Guidelines) Rules, 2011 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mib.gov.in/">Ministry of Information &amp; Broadcasting</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.copyright.gov.in/">Copyright Office, India</ulink>
+    </para>
+    <sect1 id="mergers-&amp;-acquisitions">
+      <title>Mergers &amp; Acquisitions</title>
+      <para>Mergers &amp; acquisitions law in India governs company acquisitions, mergers, &amp; amalgamations. Key legislations include the Companies Act, 2013, &amp; the Competition Act, 2002.</para>
+      <orderedlist>
+        <listitem>
+          <para>Companies Act, 2013 </para>
+        </listitem>
+        <listitem>
+          <para>Competition Act, 2002 </para>
+        </listitem>
+        <listitem>
+          <para>Securities &amp; Exchange Board of India (Substantial Acquisition of Shares &amp; Takeovers) Regulations, 2011 </para>
+        </listitem>
+        <listitem>
+          <para>Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Mergers &amp; Acquisitions</title>
+    <para>Mergers &amp; acquisitions law in India governs company acquisitions, mergers, &amp; amalgamations. Key legislations include the Companies Act, 2013, &amp; the Competition Act, 2002.</para>
+    <orderedlist>
+      <listitem>
+        <para>Companies Act, 2013 </para>
+      </listitem>
+      <listitem>
+        <para>Competition Act, 2002 </para>
+      </listitem>
+      <listitem>
+        <para>Securities &amp; Exchange Board of India (Substantial Acquisition of Shares &amp; Takeovers) Regulations, 2011 </para>
+      </listitem>
+      <listitem>
+        <para>Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside India) Regulations, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sebi.gov.in/">Securities &amp; Exchange Board of India</ulink>
+    </para>
+    <sect1 id="personal-data-protection">
+      <title>Personal Data Protection</title>
+      <para>Personal data protection law in India governs data privacy, collection, &amp; usage. Key legislations include the Personal Data Protection Bill, 2019, &amp; the Information Technology (Reasonable Security Practices &amp; Procedures &amp; Sensitive Personal Data or Information) Rules, 2011.</para>
+      <orderedlist>
+        <listitem>
+          <para>Personal Data Protection Bill, 2019 </para>
+        </listitem>
+        <listitem>
+          <para>Information Technology (Reasonable Security Practices &amp; Procedures &amp; Sensitive Personal Data or Information) Rules, 2011 </para>
+        </listitem>
+        <listitem>
+          <para>Information Technology Act, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.meity.gov.in/">Ministry of Electronics &amp; Information Technology</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.dataprotection.gov.in/">Data Protection Authority of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Personal Data Protection</title>
+    <para>Personal data protection law in India governs data privacy, collection, &amp; usage. Key legislations include the Personal Data Protection Bill, 2019, &amp; the Information Technology (Reasonable Security Practices &amp; Procedures &amp; Sensitive Personal Data or Information) Rules, 2011.</para>
+    <orderedlist>
+      <listitem>
+        <para>Personal Data Protection Bill, 2019 </para>
+      </listitem>
+      <listitem>
+        <para>Information Technology (Reasonable Security Practices &amp; Procedures &amp; Sensitive Personal Data or Information) Rules, 2011 </para>
+      </listitem>
+      <listitem>
+        <para>Information Technology Act, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.meity.gov.in/">Ministry of Electronics &amp; Information Technology</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.dataprotection.gov.in/">Data Protection Authority of India</ulink>
+    </para>
+    <sect1 id="real-estate-law">
+      <title>Real Estate Law</title>
+      <para>Real estate law in India governs property development, sales, &amp; ownership. Key legislations include the Real Estate (Regulation &amp; Development) Act, 2016, &amp; the Transfer of Property Act, 1882.</para>
+      <orderedlist>
+        <listitem>
+          <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+        </listitem>
+        <listitem>
+          <para>Transfer of Property Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>Registration Act, 1908 </para>
+        </listitem>
+        <listitem>
+          <para>Indian Stamp Act, 1899 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Real Estate Law</title>
+    <para>Real estate law in India governs property development, sales, &amp; ownership. Key legislations include the Real Estate (Regulation &amp; Development) Act, 2016, &amp; the Transfer of Property Act, 1882.</para>
+    <orderedlist>
+      <listitem>
+        <para>Real Estate (Regulation &amp; Development) Act, 2016 </para>
+      </listitem>
+      <listitem>
+        <para>Transfer of Property Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>Registration Act, 1908 </para>
+      </listitem>
+      <listitem>
+        <para>Indian Stamp Act, 1899 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://mohua.gov.in/">Ministry of Housing &amp; Urban Affairs</ulink>
+    </para>
+    <sect1 id="sports-law">
+      <title>Sports Law</title>
+      <para>Sports law in India governs sports governance, player contracts, &amp; dispute resolution. Key legislations include the National Sports Development Code of India, 2011, &amp; the Sports Broadcasting Signals (M&amp;atory Sharing with Prasar Bharati) Act, 2007.</para>
+      <orderedlist>
+        <listitem>
+          <para>National Sports Development Code of India, 2011 </para>
+        </listitem>
+        <listitem>
+          <para>Sports Broadcasting Signals (M&amp;atory Sharing with Prasar Bharati) Act, 2007 </para>
+        </listitem>
+        <listitem>
+          <para>Indian Penal Code, 1860 (applicable to sports-related offenses) </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.yas.nic.in/">Ministry of Youth Affairs &amp; Sports</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.sportsauthorityofindia.nic.in/">Sports Authority of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Sports Law</title>
+    <para>Sports law in India governs sports governance, player contracts, &amp; dispute resolution. Key legislations include the National Sports Development Code of India, 2011, &amp; the Sports Broadcasting Signals (M&amp;atory Sharing with Prasar Bharati) Act, 2007.</para>
+    <orderedlist>
+      <listitem>
+        <para>National Sports Development Code of India, 2011 </para>
+      </listitem>
+      <listitem>
+        <para>Sports Broadcasting Signals (M&amp;atory Sharing with Prasar Bharati) Act, 2007 </para>
+      </listitem>
+      <listitem>
+        <para>Indian Penal Code, 1860 (applicable to sports-related offenses) </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.yas.nic.in/">Ministry of Youth Affairs &amp; Sports</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.sportsauthorityofindia.nic.in/">Sports Authority of India</ulink>
+    </para>
+    <sect1 id="Section7">
+      <title><anchor id="taxation-law"/>Taxation Law</title>
+      <para>Taxation law in India governs income tax, goods &amp; services tax, &amp; other levies. Key legislations include the Income-tax Act, 1961, &amp; the Goods &amp; Services Tax Act, 2017.</para>
+      <orderedlist>
+        <listitem>
+          <para>Income-tax Act, 1961 </para>
+        </listitem>
+        <listitem>
+          <para>Goods &amp; Services Tax Act, 2017 </para>
+        </listitem>
+        <listitem>
+          <para>Customs Act, 1962 </para>
+        </listitem>
+        <listitem>
+          <para>Central Goods &amp; Services Tax Act, 2017 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.incometax.gov.in/">Income Tax Department</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.gst.gov.in/">Goods &amp; Services Tax Council</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="taxation-law"/>Taxation Law</title>
+    <para>Taxation law in India governs income tax, goods &amp; services tax, &amp; other levies. Key legislations include the Income-tax Act, 1961, &amp; the Goods &amp; Services Tax Act, 2017.</para>
+    <orderedlist>
+      <listitem>
+        <para>Income-tax Act, 1961 </para>
+      </listitem>
+      <listitem>
+        <para>Goods &amp; Services Tax Act, 2017 </para>
+      </listitem>
+      <listitem>
+        <para>Customs Act, 1962 </para>
+      </listitem>
+      <listitem>
+        <para>Central Goods &amp; Services Tax Act, 2017 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.incometax.gov.in/">Income Tax Department</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.gst.gov.in/">Goods &amp; Services Tax Council</ulink>
+    </para>
+    <sect1 id="Section8">
+      <title><anchor id="telecom-law"/>Telecom Law</title>
+      <para>Telecom law in India governs telecommunications, spectrum allocation, &amp; licensing. Key legislations include the Indian Telegraph Act, 1885, &amp; the Telecom Regulatory Authority of India Act, 1997.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Telegraph Act, 1885 </para>
+        </listitem>
+        <listitem>
+          <para>Telecom Regulatory Authority of India Act, 1997 </para>
+        </listitem>
+        <listitem>
+          <para>Wireless Telegraphy Act, 1933 </para>
+        </listitem>
+        <listitem>
+          <para>Information Technology Act, 2000 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.dot.gov.in/">Department of Telecommunications</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.trai.gov.in/">Telecom Regulatory Authority of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="telecom-law"/>Telecom Law</title>
+    <para>Telecom law in India governs telecommunications, spectrum allocation, &amp; licensing. Key legislations include the Indian Telegraph Act, 1885, &amp; the Telecom Regulatory Authority of India Act, 1997.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Telegraph Act, 1885 </para>
+      </listitem>
+      <listitem>
+        <para>Telecom Regulatory Authority of India Act, 1997 </para>
+      </listitem>
+      <listitem>
+        <para>Wireless Telegraphy Act, 1933 </para>
+      </listitem>
+      <listitem>
+        <para>Information Technology Act, 2000 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.dot.gov.in/">Department of Telecommunications</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.trai.gov.in/">Telecom Regulatory Authority of India</ulink>
+    </para>
+    <sect1 id="Section9">
+      <title><anchor id="transportation-law"/>Transportation Law</title>
+      <para>Transportation law in India governs road, rail, air, &amp; water transport. Key legislations include the Motor Vehicles Act, 1988, &amp; the Railways Act, 1989.</para>
+      <orderedlist>
+        <listitem>
+          <para>Motor Vehicles Act, 1988 </para>
+        </listitem>
+        <listitem>
+          <para>Railways Act, 1989 </para>
+        </listitem>
+        <listitem>
+          <para>Airports Authority of India Act, 1994 </para>
+        </listitem>
+        <listitem>
+          <para>Merchant Shipping Act, 1958 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.morth.gov.in/">Ministry of Road Transport &amp; Highways</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indianrailways.gov.in/">Indian Railways</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="transportation-law"/>Transportation Law</title>
+    <para>Transportation law in India governs road, rail, air, &amp; water transport. Key legislations include the Motor Vehicles Act, 1988, &amp; the Railways Act, 1989.</para>
+    <orderedlist>
+      <listitem>
+        <para>Motor Vehicles Act, 1988 </para>
+      </listitem>
+      <listitem>
+        <para>Railways Act, 1989 </para>
+      </listitem>
+      <listitem>
+        <para>Airports Authority of India Act, 1994 </para>
+      </listitem>
+      <listitem>
+        <para>Merchant Shipping Act, 1958 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.morth.gov.in/">Ministry of Road Transport &amp; Highways</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indianrailways.gov.in/">Indian Railways</ulink>
+    </para>
+    <sect1 id="Section10">
+      <title><anchor id="trusts-&amp;-estates"/>Trusts &amp; Estates</title>
+      <para>Trusts &amp; estates law in India governs trusts, wills, &amp; inheritance. Key legislations include the Indian Trusts Act, 1882, &amp; the Succession Act, 1925.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Trusts Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>Succession Act, 1925 </para>
+        </listitem>
+        <listitem>
+          <para>Hindu Succession Act, 1956 </para>
+        </listitem>
+        <listitem>
+          <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title><anchor id="trusts-&amp;-estates"/>Trusts &amp; Estates</title>
+    <para>Trusts &amp; estates law in India governs trusts, wills, &amp; inheritance. Key legislations include the Indian Trusts Act, 1882, &amp; the Succession Act, 1925.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Trusts Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>Succession Act, 1925 </para>
+      </listitem>
+      <listitem>
+        <para>Hindu Succession Act, 1956 </para>
+      </listitem>
+      <listitem>
+        <para>Muslim Personal Law (Shariat) Application Act, 1937 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.legislative.gov.in/">Legislative Department</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.supremecourtofindia.nic.in/">Supreme Court of India</ulink>
+    </para>
+    <sect1 id="legal-ethics">
+      <title>Legal Ethics</title>
+      <para>Legal Ethics in India is governed by the Advocates Act, 1961, and the Bar Council of India Rules. They provide guidelines for lawyers' conduct, confidentiality, and professional responsibilities towards clients and the court.</para>
+      <orderedlist>
+        <listitem>
+          <para>Advocate's Act, 1961 </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para><ulink url="https://www.barcouncilofindia.org/home">Bar Council of India</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Legal Ethics</title>
+    <para>Legal Ethics in India is governed by the Advocates Act, 1961, and the Bar Council of India Rules. They provide guidelines for lawyers' conduct, confidentiality, and professional responsibilities towards clients and the court.</para>
+    <orderedlist>
+      <listitem>
+        <para>Advocate's Act, 1961 </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para><ulink url="https://www.barcouncilofindia.org/home">Bar Council of India</ulink> </para>
+    <sect1 id="management-of-litigation">
+      <title>Management of Litigation</title>
+      <para>Management of Litigation in India involves strategic handling of legal disputes and cases to ensure an efficient and timely resolution. It includes pre-litigation strategies, filing procedures, trial management, and post-trial enforcement of judgments. The Code of Civil Procedure (CPC), 1908, and the Code of Criminal Procedure (CrPC), 1973, are the key legislations that govern litigation in civil and criminal matters, respectively. Proper management of litigation helps in reducing legal costs, ensuring compliance with timelines, and facilitating alternative dispute resolution (ADR) methods, such as mediation and arbitration, where applicable.</para>
+      <orderedlist>
+        <listitem>
+          <para>Code of Civil Procedure (CPC), 1908 </para>
+        </listitem>
+        <listitem>
+          <para>Code of Criminal Procedure (CrPC), 1973 </para>
+        </listitem>
+        <listitem>
+          <para>Pre-litigation planning and alternative dispute resolution (ADR) </para>
+        </listitem>
+        <listitem>
+          <para>Trial management and enforcement of judgments </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2191/1/A1908-05.pdf">Code of Civil Procedure (CPC), 1908</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code_of_criminal_procedure,_1973.pdf">Code of Criminal Procedure (CrPC), 1973</ulink>
+      </para>
+      <para><ulink url="https://nalsa.gov.in/">National Legal Services Authority (NALSA) - ADR</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Management of Litigation</title>
+    <para>Management of Litigation in India involves strategic handling of legal disputes and cases to ensure an efficient and timely resolution. It includes pre-litigation strategies, filing procedures, trial management, and post-trial enforcement of judgments. The Code of Civil Procedure (CPC), 1908, and the Code of Criminal Procedure (CrPC), 1973, are the key legislations that govern litigation in civil and criminal matters, respectively. Proper management of litigation helps in reducing legal costs, ensuring compliance with timelines, and facilitating alternative dispute resolution (ADR) methods, such as mediation and arbitration, where applicable.</para>
+    <orderedlist>
+      <listitem>
+        <para>Code of Civil Procedure (CPC), 1908 </para>
+      </listitem>
+      <listitem>
+        <para>Code of Criminal Procedure (CrPC), 1973 </para>
+      </listitem>
+      <listitem>
+        <para>Pre-litigation planning and alternative dispute resolution (ADR) </para>
+      </listitem>
+      <listitem>
+        <para>Trial management and enforcement of judgments </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2191/1/A1908-05.pdf">Code of Civil Procedure (CPC), 1908</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15272/1/the_code_of_criminal_procedure,_1973.pdf">Code of Criminal Procedure (CrPC), 1973</ulink>
+    </para>
+    <para><ulink url="https://nalsa.gov.in/">National Legal Services Authority (NALSA) - ADR</ulink> </para>
+    <sect1 id="manufacturing-india">
+      <title>Manufacturing in India</title>
+      <para>Manufacturing in India is governed by a range of policies and laws aimed at promoting industrial growth and ensuring regulatory compliance. The government has launched initiatives like 'Make in India' to encourage both domestic and foreign investments in the manufacturing sector. Key laws include the Factories Act, 1948, which regulates labor conditions, safety, and health standards in manufacturing units. Other important regulations include environmental laws and specific sectoral policies related to electronics, automobiles, and pharmaceuticals. Incentives for manufacturers under the Production Linked Incentive (PLI) Scheme have also boosted this sector.</para>
+      <orderedlist>
+        <listitem>
+          <para>Make in India Initiative </para>
+        </listitem>
+        <listitem>
+          <para>Factories Act, 1948 </para>
+        </listitem>
+        <listitem>
+          <para>Production Linked Incentive (PLI) Scheme </para>
+        </listitem>
+        <listitem>
+          <para>Sector-specific manufacturing policies </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.makeinindia.com/">Make in India Initiative</ulink>
+      </para>
+      <para>
+        <ulink url="https://labour.gov.in/sites/default/files/factories_act_1948.pdf">Factories Act, 1948</ulink>
+      </para>
+      <para><ulink url="https://dpiit.gov.in/">Department for Promotion of Industry and Internal Trade (DPIIT)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Manufacturing in India</title>
+    <para>Manufacturing in India is governed by a range of policies and laws aimed at promoting industrial growth and ensuring regulatory compliance. The government has launched initiatives like 'Make in India' to encourage both domestic and foreign investments in the manufacturing sector. Key laws include the Factories Act, 1948, which regulates labor conditions, safety, and health standards in manufacturing units. Other important regulations include environmental laws and specific sectoral policies related to electronics, automobiles, and pharmaceuticals. Incentives for manufacturers under the Production Linked Incentive (PLI) Scheme have also boosted this sector.</para>
+    <orderedlist>
+      <listitem>
+        <para>Make in India Initiative </para>
+      </listitem>
+      <listitem>
+        <para>Factories Act, 1948 </para>
+      </listitem>
+      <listitem>
+        <para>Production Linked Incentive (PLI) Scheme </para>
+      </listitem>
+      <listitem>
+        <para>Sector-specific manufacturing policies </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.makeinindia.com/">Make in India Initiative</ulink>
+    </para>
+    <para>
+      <ulink url="https://labour.gov.in/sites/default/files/factories_act_1948.pdf">Factories Act, 1948</ulink>
+    </para>
+    <para><ulink url="https://dpiit.gov.in/">Department for Promotion of Industry and Internal Trade (DPIIT)</ulink> </para>
+    <sect1 id="metals-mining">
+      <title>Metals &amp; Mining</title>
+      <para>The metals and mining sector in India plays a crucial role in the country's industrial development. The industry is governed by several laws, including the Mines and Minerals (Development and Regulation) Act, 1957, which regulates the extraction of minerals. India is rich in minerals like iron ore, bauxite, and coal, and is one of the leading producers of steel. The National Mineral Policy, 2019, promotes sustainable mining practices and environmental protection while encouraging foreign investment. Environmental regulations also play a significant role in the industry, ensuring that mining activities comply with safety and environmental standards.</para>
+      <orderedlist>
+        <listitem>
+          <para>Mines and Minerals (Development and Regulation) Act, 1957 </para>
+        </listitem>
+        <listitem>
+          <para>National Mineral Policy, 2019 </para>
+        </listitem>
+        <listitem>
+          <para>Environmental regulations in mining </para>
+        </listitem>
+        <listitem>
+          <para>Sustainable mining practices </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://ibm.gov.in/">Indian Bureau of Mines (IBM)</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.mines.gov.in/">Ministry of Mines, Government of India</ulink>
+      </para>
+      <para><ulink url="https://moef.gov.in/">Ministry of Environment, Forest and Climate Change (MoEF)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Metals &amp; Mining</title>
+    <para>The metals and mining sector in India plays a crucial role in the country's industrial development. The industry is governed by several laws, including the Mines and Minerals (Development and Regulation) Act, 1957, which regulates the extraction of minerals. India is rich in minerals like iron ore, bauxite, and coal, and is one of the leading producers of steel. The National Mineral Policy, 2019, promotes sustainable mining practices and environmental protection while encouraging foreign investment. Environmental regulations also play a significant role in the industry, ensuring that mining activities comply with safety and environmental standards.</para>
+    <orderedlist>
+      <listitem>
+        <para>Mines and Minerals (Development and Regulation) Act, 1957 </para>
+      </listitem>
+      <listitem>
+        <para>National Mineral Policy, 2019 </para>
+      </listitem>
+      <listitem>
+        <para>Environmental regulations in mining </para>
+      </listitem>
+      <listitem>
+        <para>Sustainable mining practices </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://ibm.gov.in/">Indian Bureau of Mines (IBM)</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.mines.gov.in/">Ministry of Mines, Government of India</ulink>
+    </para>
+    <para><ulink url="https://moef.gov.in/">Ministry of Environment, Forest and Climate Change (MoEF)</ulink> </para>
+    <sect1 id="sports-media-entertainment">
+      <title>Sports, Media, Entertainment &amp; Advertising</title>
+      <para>The Sports, Media, Entertainment, and Advertising industries in India are governed by a wide array of laws and regulations that ensure fair practices, intellectual property protection, and compliance with broadcasting and advertising standards. The sports sector is regulated by bodies like the Sports Authority of India (SAI), while the media and entertainment industries are overseen by regulatory bodies such as the Ministry of Information and Broadcasting. The advertising sector is guided by the Advertising Standards Council of India (ASCI), which ensures that advertisements are ethical, non-deceptive, and comply with the law.</para>
+      <orderedlist>
+        <listitem>
+          <para>Sports Authority of India (SAI) </para>
+        </listitem>
+        <listitem>
+          <para>Ministry of Information and Broadcasting regulations </para>
+        </listitem>
+        <listitem>
+          <para>Advertising Standards Council of India (ASCI) guidelines </para>
+        </listitem>
+        <listitem>
+          <para>Intellectual property protection for media and entertainment content </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://sportsauthorityofindia.nic.in/">Sports Authority of India (SAI)</ulink>
+      </para>
+      <para>
+        <ulink url="https://mib.gov.in/">Ministry of Information and Broadcasting</ulink>
+      </para>
+      <para><ulink url="https://www.ascionline.in/">Advertising Standards Council of India (ASCI)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Sports, Media, Entertainment &amp; Advertising</title>
+    <para>The Sports, Media, Entertainment, and Advertising industries in India are governed by a wide array of laws and regulations that ensure fair practices, intellectual property protection, and compliance with broadcasting and advertising standards. The sports sector is regulated by bodies like the Sports Authority of India (SAI), while the media and entertainment industries are overseen by regulatory bodies such as the Ministry of Information and Broadcasting. The advertising sector is guided by the Advertising Standards Council of India (ASCI), which ensures that advertisements are ethical, non-deceptive, and comply with the law.</para>
+    <orderedlist>
+      <listitem>
+        <para>Sports Authority of India (SAI) </para>
+      </listitem>
+      <listitem>
+        <para>Ministry of Information and Broadcasting regulations </para>
+      </listitem>
+      <listitem>
+        <para>Advertising Standards Council of India (ASCI) guidelines </para>
+      </listitem>
+      <listitem>
+        <para>Intellectual property protection for media and entertainment content </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://sportsauthorityofindia.nic.in/">Sports Authority of India (SAI)</ulink>
+    </para>
+    <para>
+      <ulink url="https://mib.gov.in/">Ministry of Information and Broadcasting</ulink>
+    </para>
+    <para><ulink url="https://www.ascionline.in/">Advertising Standards Council of India (ASCI)</ulink> </para>
+    <sect1 id="trade-commerce">
+      <title>Trade &amp; Commerce</title>
+      <para>Trade and commerce in India are governed by a comprehensive legal framework that facilitates both domestic and international trade. Key legislations such as the Foreign Trade (Development and Regulation) Act, 1992, the Customs Act, 1962, and the Goods and Services Tax (GST) Act, 2017 regulate the movement of goods and services within India and across its borders. India is also a member of the World Trade Organization (WTO), which influences the country's trade policies. These laws aim to promote fair trade practices, ensure compliance with international standards, and enhance economic growth.</para>
+      <orderedlist>
+        <listitem>
+          <para>Foreign Trade (Development and Regulation) Act, 1992 </para>
+        </listitem>
+        <listitem>
+          <para>Customs Act, 1962 </para>
+        </listitem>
+        <listitem>
+          <para>Goods and Services Tax (GST) Act, 2017 </para>
+        </listitem>
+        <listitem>
+          <para>World Trade Organization (WTO) compliance </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://commerce.gov.in/">Ministry of Commerce and Industry</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.cbic.gov.in/">Central Board of Indirect Taxes and Customs (CBIC)</ulink>
+      </para>
+      <para><ulink url="https://www.gst.gov.in/">Goods and Services Tax (GST)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Trade &amp; Commerce</title>
+    <para>Trade and commerce in India are governed by a comprehensive legal framework that facilitates both domestic and international trade. Key legislations such as the Foreign Trade (Development and Regulation) Act, 1992, the Customs Act, 1962, and the Goods and Services Tax (GST) Act, 2017 regulate the movement of goods and services within India and across its borders. India is also a member of the World Trade Organization (WTO), which influences the country's trade policies. These laws aim to promote fair trade practices, ensure compliance with international standards, and enhance economic growth.</para>
+    <orderedlist>
+      <listitem>
+        <para>Foreign Trade (Development and Regulation) Act, 1992 </para>
+      </listitem>
+      <listitem>
+        <para>Customs Act, 1962 </para>
+      </listitem>
+      <listitem>
+        <para>Goods and Services Tax (GST) Act, 2017 </para>
+      </listitem>
+      <listitem>
+        <para>World Trade Organization (WTO) compliance </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://commerce.gov.in/">Ministry of Commerce and Industry</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.cbic.gov.in/">Central Board of Indirect Taxes and Customs (CBIC)</ulink>
+    </para>
+    <para><ulink url="https://www.gst.gov.in/">Goods and Services Tax (GST)</ulink> </para>
+    <sect1 id="trust">
+      <title>Trust Law</title>
+      <para>Trust law in India is primarily governed by the Indian Trusts Act, 1882, which regulates the creation and functioning of private trusts. A trust is an arrangement in which one party (the trustee) holds property for the benefit of another party (the beneficiary). The legal framework ensures that the trustee acts in the best interests of the beneficiaries, adhering to fiduciary duties. Public charitable trusts are governed by state-specific laws, and religious or charitable endowments are often regulated by separate statutes such as the Charitable and Religious Trusts Act, 1920.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Trusts Act, 1882 </para>
+        </listitem>
+        <listitem>
+          <para>Public Charitable Trusts (State-specific laws) </para>
+        </listitem>
+        <listitem>
+          <para>Charitable and Religious Trusts Act, 1920 </para>
+        </listitem>
+        <listitem>
+          <para>Fiduciary duties and obligations of trustees </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2327/3/A1882-02.pdf">Indian Trusts Act, 1882</ulink>
+      </para>
+      <para><ulink url="https://indiankanoon.org/doc/1977081/">Charitable and Religious Trusts Act, 1920</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Trust Law</title>
+    <para>Trust law in India is primarily governed by the Indian Trusts Act, 1882, which regulates the creation and functioning of private trusts. A trust is an arrangement in which one party (the trustee) holds property for the benefit of another party (the beneficiary). The legal framework ensures that the trustee acts in the best interests of the beneficiaries, adhering to fiduciary duties. Public charitable trusts are governed by state-specific laws, and religious or charitable endowments are often regulated by separate statutes such as the Charitable and Religious Trusts Act, 1920.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Trusts Act, 1882 </para>
+      </listitem>
+      <listitem>
+        <para>Public Charitable Trusts (State-specific laws) </para>
+      </listitem>
+      <listitem>
+        <para>Charitable and Religious Trusts Act, 1920 </para>
+      </listitem>
+      <listitem>
+        <para>Fiduciary duties and obligations of trustees </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/2327/3/A1882-02.pdf">Indian Trusts Act, 1882</ulink>
+    </para>
+    <para><ulink url="https://indiankanoon.org/doc/1977081/">Charitable and Religious Trusts Act, 1920</ulink> </para>
+    <sect1 id="company">
+      <title>Company Law</title>
+      <para>Company law in India is primarily governed by the Companies Act, 2013, which regulates the formation, governance, and dissolution of companies. This legislation ensures that businesses operate within a legal framework that promotes transparency, accountability, and corporate responsibility. The Ministry of Corporate Affairs (MCA) oversees company-related affairs, ensuring compliance with legal and regulatory requirements. The law encompasses various types of companies, including private, public, and one-person companies, with provisions for corporate social responsibility (CSR), auditing standards, and mergers and acquisitions.</para>
+      <orderedlist>
+        <listitem>
+          <para>Companies Act, 2013 </para>
+        </listitem>
+        <listitem>
+          <para>Types of companies: Private, Public, One-Person </para>
+        </listitem>
+        <listitem>
+          <para>Corporate Social Responsibility (CSR) </para>
+        </listitem>
+        <listitem>
+          <para>Mergers and Acquisitions (M&amp;A) </para>
+        </listitem>
+        <listitem>
+          <para>Compliance and governance regulations </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs (MCA)</ulink>
+      </para>
+      <para><ulink url="https://www.sebi.gov.in/">Securities and Exchange Board of India (SEBI)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Company Law</title>
+    <para>Company law in India is primarily governed by the Companies Act, 2013, which regulates the formation, governance, and dissolution of companies. This legislation ensures that businesses operate within a legal framework that promotes transparency, accountability, and corporate responsibility. The Ministry of Corporate Affairs (MCA) oversees company-related affairs, ensuring compliance with legal and regulatory requirements. The law encompasses various types of companies, including private, public, and one-person companies, with provisions for corporate social responsibility (CSR), auditing standards, and mergers and acquisitions.</para>
+    <orderedlist>
+      <listitem>
+        <para>Companies Act, 2013 </para>
+      </listitem>
+      <listitem>
+        <para>Types of companies: Private, Public, One-Person </para>
+      </listitem>
+      <listitem>
+        <para>Corporate Social Responsibility (CSR) </para>
+      </listitem>
+      <listitem>
+        <para>Mergers and Acquisitions (M&amp;A) </para>
+      </listitem>
+      <listitem>
+        <para>Compliance and governance regulations </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.mca.gov.in/">Ministry of Corporate Affairs (MCA)</ulink>
+    </para>
+    <para><ulink url="https://www.sebi.gov.in/">Securities and Exchange Board of India (SEBI)</ulink> </para>
+    <sect1 id="railways">
+      <title>Railways</title>
+      <para>The Indian Railways is one of the largest railway networks in the world, governed by the Railway Act, 1989, which regulates the functioning of rail transport in India. The Ministry of Railways oversees railway operations, ensuring the safety, efficiency, and sustainability of rail transportation. Indian Railways operates a mix of freight and passenger services and has undergone modernization with initiatives such as high-speed rail projects and the Dedicated Freight Corridors (DFC). The Railways Act also sets provisions for railway property protection, penalties for offenses, and safety measures.</para>
+      <orderedlist>
+        <listitem>
+          <para>Railway Act, 1989 </para>
+        </listitem>
+        <listitem>
+          <para>Modernization and High-Speed Rail </para>
+        </listitem>
+        <listitem>
+          <para>Dedicated Freight Corridors (DFC) </para>
+        </listitem>
+        <listitem>
+          <para>Safety and regulations </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://indianrailways.gov.in/">Indian Railways</ulink>
+      </para>
+      <para><ulink url="https://www.ncrtc.in/">National Capital Region Transport Corporation (NCRTC)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Railways</title>
+    <para>The Indian Railways is one of the largest railway networks in the world, governed by the Railway Act, 1989, which regulates the functioning of rail transport in India. The Ministry of Railways oversees railway operations, ensuring the safety, efficiency, and sustainability of rail transportation. Indian Railways operates a mix of freight and passenger services and has undergone modernization with initiatives such as high-speed rail projects and the Dedicated Freight Corridors (DFC). The Railways Act also sets provisions for railway property protection, penalties for offenses, and safety measures.</para>
+    <orderedlist>
+      <listitem>
+        <para>Railway Act, 1989 </para>
+      </listitem>
+      <listitem>
+        <para>Modernization and High-Speed Rail </para>
+      </listitem>
+      <listitem>
+        <para>Dedicated Freight Corridors (DFC) </para>
+      </listitem>
+      <listitem>
+        <para>Safety and regulations </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://indianrailways.gov.in/">Indian Railways</ulink>
+    </para>
+    <para><ulink url="https://www.ncrtc.in/">National Capital Region Transport Corporation (NCRTC)</ulink> </para>
+    <sect1 id="shipping">
+      <title>Shipping</title>
+      <para>Shipping in India is regulated by the Merchant Shipping Act, 1958, and is overseen by the Directorate General of Shipping. India has a long maritime history, and its ports play a key role in international trade. The Ministry of Ports, Shipping, and Waterways manages the development and maintenance of major and minor ports across the country. Shipping laws in India regulate vessel registration, safety standards, maritime labor, and environmental protection. Additionally, coastal shipping is promoted under the Sagarmala Project, aimed at enhancing port infrastructure and connectivity.</para>
+      <orderedlist>
+        <listitem>
+          <para>Merchant Shipping Act, 1958 </para>
+        </listitem>
+        <listitem>
+          <para>Directorate General of Shipping </para>
+        </listitem>
+        <listitem>
+          <para>Sagarmala Project - Port Development </para>
+        </listitem>
+        <listitem>
+          <para>Maritime safety and labor standards </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://shipmin.gov.in/">Ministry of Ports, Shipping and Waterways</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.dgshipping.gov.in/">Directorate General of Shipping</ulink>
+      </para>
+      <para><ulink url="https://sagarmala.gov.in/">Sagarmala Project</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Shipping</title>
+    <para>Shipping in India is regulated by the Merchant Shipping Act, 1958, and is overseen by the Directorate General of Shipping. India has a long maritime history, and its ports play a key role in international trade. The Ministry of Ports, Shipping, and Waterways manages the development and maintenance of major and minor ports across the country. Shipping laws in India regulate vessel registration, safety standards, maritime labor, and environmental protection. Additionally, coastal shipping is promoted under the Sagarmala Project, aimed at enhancing port infrastructure and connectivity.</para>
+    <orderedlist>
+      <listitem>
+        <para>Merchant Shipping Act, 1958 </para>
+      </listitem>
+      <listitem>
+        <para>Directorate General of Shipping </para>
+      </listitem>
+      <listitem>
+        <para>Sagarmala Project - Port Development </para>
+      </listitem>
+      <listitem>
+        <para>Maritime safety and labor standards </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://shipmin.gov.in/">Ministry of Ports, Shipping and Waterways</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.dgshipping.gov.in/">Directorate General of Shipping</ulink>
+    </para>
+    <para><ulink url="https://sagarmala.gov.in/">Sagarmala Project</ulink> </para>
+    <sect1 id="international-trade-customs-law">
+      <title>International Trade &amp; Customs</title>
+      <para>International Trade &amp; Customs Law in India regulates the cross-border movement of goods and services, addressing import/export policies, tariffs, trade agreements, and dispute resolution. The Customs Act, 1962, and Foreign Trade Policy govern this area.</para>
+      <orderedlist>
+        <listitem>
+          <para>Customs Act, 1962 </para>
+        </listitem>
+        <listitem>
+          <para>Foreign Trade Policy (FTP) </para>
+        </listitem>
+        <listitem>
+          <para>Import/export regulations and procedures </para>
+        </listitem>
+        <listitem>
+          <para>Trade agreements and tariffs </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15359/1/the_customs_act%2C_1962.pdf">Customs Act, 1962</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.dgft.gov.in/">Directorate General of Foreign Trade (DGFT)</ulink>
+      </para>
+      <para><ulink url="https://www.wto.org/">World Trade Organization (WTO)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>International Trade &amp; Customs</title>
+    <para>International Trade &amp; Customs Law in India regulates the cross-border movement of goods and services, addressing import/export policies, tariffs, trade agreements, and dispute resolution. The Customs Act, 1962, and Foreign Trade Policy govern this area.</para>
+    <orderedlist>
+      <listitem>
+        <para>Customs Act, 1962 </para>
+      </listitem>
+      <listitem>
+        <para>Foreign Trade Policy (FTP) </para>
+      </listitem>
+      <listitem>
+        <para>Import/export regulations and procedures </para>
+      </listitem>
+      <listitem>
+        <para>Trade agreements and tariffs </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/15359/1/the_customs_act%2C_1962.pdf">Customs Act, 1962</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.dgft.gov.in/">Directorate General of Foreign Trade (DGFT)</ulink>
+    </para>
+    <para><ulink url="https://www.wto.org/">World Trade Organization (WTO)</ulink> </para>
+    <sect1 id="bankruptcy-law">
+      <title>Bankruptcy Law</title>
+      <para>Bankruptcy Law in India is primarily governed by the Insolvency and Bankruptcy Code (IBC), 2016. It provides a consolidated legal framework for resolving insolvency for individuals, companies, and partnership firms, ensuring timely resolution and maximizing asset value.</para>
+      <orderedlist>
+        <listitem>
+          <para>Insolvency and Bankruptcy Code (IBC), 2016 </para>
+        </listitem>
+        <listitem>
+          <para>Corporate Insolvency Resolution Process (CIRP) </para>
+        </listitem>
+        <listitem>
+          <para>Individual insolvency </para>
+        </listitem>
+        <listitem>
+          <para>Bankruptcy proceedings </para>
+        </listitem>
+        <listitem>
+          <para>Role of National Company Law Tribunal (NCLT) </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para><ulink url="hhttps://www.indiacode.nic.in/handle/123456789/2154?view_type=browse">Insolvency and Bankruptcy Code, 2016</ulink> </para>
+      <para><ulink url="https://www.ibbi.gov.in/">Insolvency and Bankruptcy Board of India (IBBI)</ulink> </para>
+      <para><ulink url="https://nclt.gov.in/">National Company Law Tribunal (NCLT)</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Bankruptcy Law</title>
+    <para>Bankruptcy Law in India is primarily governed by the Insolvency and Bankruptcy Code (IBC), 2016. It provides a consolidated legal framework for resolving insolvency for individuals, companies, and partnership firms, ensuring timely resolution and maximizing asset value.</para>
+    <orderedlist>
+      <listitem>
+        <para>Insolvency and Bankruptcy Code (IBC), 2016 </para>
+      </listitem>
+      <listitem>
+        <para>Corporate Insolvency Resolution Process (CIRP) </para>
+      </listitem>
+      <listitem>
+        <para>Individual insolvency </para>
+      </listitem>
+      <listitem>
+        <para>Bankruptcy proceedings </para>
+      </listitem>
+      <listitem>
+        <para>Role of National Company Law Tribunal (NCLT) </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para><ulink url="hhttps://www.indiacode.nic.in/handle/123456789/2154?view_type=browse">Insolvency and Bankruptcy Code, 2016</ulink> </para>
+    <para><ulink url="https://www.ibbi.gov.in/">Insolvency and Bankruptcy Board of India (IBBI)</ulink> </para>
+    <para><ulink url="https://nclt.gov.in/">National Company Law Tribunal (NCLT)</ulink> </para>
+    <sect1 id="product-liability">
+      <title>Product Liability</title>
+      <para>Product Liability Law in India ensures that manufacturers, distributors, suppliers, and retailers are held responsible for any injuries or damages caused by defective products. The Consumer Protection Act, 2019, addresses liability issues and provides a framework for consumer rights and dispute resolution.</para>
+      <orderedlist>
+        <listitem>
+          <para>Consumer Protection Act, 2019 </para>
+        </listitem>
+        <listitem>
+          <para>Defective products and liability claims </para>
+        </listitem>
+        <listitem>
+          <para>Manufacturer, supplier, and retailer responsibilities </para>
+        </listitem>
+        <listitem>
+          <para>Consumer rights and remedies </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para><ulink url="https://www.indiacode.nic.in/bitstream/123456789/15256/1/a2019-35.pdf">Consumer Protection Act, 2019</ulink> </para>
+      <para><ulink url="https://consumeraffairs.nic.in/">Ministry of Consumer Affairs</ulink> </para>
+      <para><ulink url="https://consumerhelpline.gov.in/">National Consumer Helpline</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Product Liability</title>
+    <para>Product Liability Law in India ensures that manufacturers, distributors, suppliers, and retailers are held responsible for any injuries or damages caused by defective products. The Consumer Protection Act, 2019, addresses liability issues and provides a framework for consumer rights and dispute resolution.</para>
+    <orderedlist>
+      <listitem>
+        <para>Consumer Protection Act, 2019 </para>
+      </listitem>
+      <listitem>
+        <para>Defective products and liability claims </para>
+      </listitem>
+      <listitem>
+        <para>Manufacturer, supplier, and retailer responsibilities </para>
+      </listitem>
+      <listitem>
+        <para>Consumer rights and remedies </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para><ulink url="https://www.indiacode.nic.in/bitstream/123456789/15256/1/a2019-35.pdf">Consumer Protection Act, 2019</ulink> </para>
+    <para><ulink url="https://consumeraffairs.nic.in/">Ministry of Consumer Affairs</ulink> </para>
+    <para><ulink url="https://consumerhelpline.gov.in/">National Consumer Helpline</ulink> </para>
+    <sect1 id="pharma-life-sciences">
+      <title>Pharma &amp; Life Sciences</title>
+      <para>The Pharma &amp; Life Sciences sector is highly regulated and encompasses the development, manufacture, and marketing of drugs and medical products. This sector is governed by strict compliance to ensure safety, efficacy, and innovation in healthcare solutions.</para>
+      <orderedlist>
+        <listitem>
+          <para>Drugs and Cosmetics Act, 1940 </para>
+        </listitem>
+        <listitem>
+          <para>Regulatory approvals and compliance </para>
+        </listitem>
+        <listitem>
+          <para>Intellectual Property Rights in Pharma </para>
+        </listitem>
+        <listitem>
+          <para>Clinical trials and research </para>
+        </listitem>
+        <listitem>
+          <para>Healthcare compliance and fraud prevention </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para><ulink url="https://www.indiacode.nic.in/bitstream/123456789/15278/1/drug_cosmeticsa1940-23.pdf">Drugs and Cosmetics Act, 1940</ulink> </para>
+      <para><ulink url="https://www.cdsco.gov.in/">Central Drugs Standard Control Organization</ulink> </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Pharma &amp; Life Sciences</title>
+    <para>The Pharma &amp; Life Sciences sector is highly regulated and encompasses the development, manufacture, and marketing of drugs and medical products. This sector is governed by strict compliance to ensure safety, efficacy, and innovation in healthcare solutions.</para>
+    <orderedlist>
+      <listitem>
+        <para>Drugs and Cosmetics Act, 1940 </para>
+      </listitem>
+      <listitem>
+        <para>Regulatory approvals and compliance </para>
+      </listitem>
+      <listitem>
+        <para>Intellectual Property Rights in Pharma </para>
+      </listitem>
+      <listitem>
+        <para>Clinical trials and research </para>
+      </listitem>
+      <listitem>
+        <para>Healthcare compliance and fraud prevention </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para><ulink url="https://www.indiacode.nic.in/bitstream/123456789/15278/1/drug_cosmeticsa1940-23.pdf">Drugs and Cosmetics Act, 1940</ulink> </para>
+    <para><ulink url="https://www.cdsco.gov.in/">Central Drugs Standard Control Organization</ulink> </para>
+    <sect1 id="evidence-act">
+      <title>Evidence Act</title>
+      <para>The Indian Evidence Act, 1872 governs the rules of evidence in Indian courts. It outlines what constitutes valid evidence, its admissibility, and the burden of proof.</para>
+      <orderedlist>
+        <listitem>
+          <para>Indian Evidence Act, 1872 </para>
+        </listitem>
+        <listitem>
+          <para>Admissibility of evidence </para>
+        </listitem>
+        <listitem>
+          <para>Burden of proof </para>
+        </listitem>
+        <listitem>
+          <para>Presumptions under the Act </para>
+        </listitem>
+      </orderedlist>
+      <para/>
+      <para>Reference Links: </para>
+      <para>
+        <ulink url="https://www.indiacode.nic.in/bitstream/123456789/6819/1/indian_evidence_act_1872.pdf">Indian Evidence Act, 1872</ulink>
+      </para>
+      <para>
+        <ulink url="https://www.scconline.com/">Supreme Court of India - Evidence Act</ulink>
+      </para>
+    </sect1>
+  </sect1>
+  <sect1>
+    <title>Evidence Act</title>
+    <para>The Indian Evidence Act, 1872 governs the rules of evidence in Indian courts. It outlines what constitutes valid evidence, its admissibility, and the burden of proof.</para>
+    <orderedlist>
+      <listitem>
+        <para>Indian Evidence Act, 1872 </para>
+      </listitem>
+      <listitem>
+        <para>Admissibility of evidence </para>
+      </listitem>
+      <listitem>
+        <para>Burden of proof </para>
+      </listitem>
+      <listitem>
+        <para>Presumptions under the Act </para>
+      </listitem>
+    </orderedlist>
+    <para/>
+    <para>Reference Links: </para>
+    <para>
+      <ulink url="https://www.indiacode.nic.in/bitstream/123456789/6819/1/indian_evidence_act_1872.pdf">Indian Evidence Act, 1872</ulink>
+    </para>
+    <para>
+      <ulink url="https://www.scconline.com/">Supreme Court of India - Evidence Act</ulink>
+    </para>
+  </sect1>
+</article>
