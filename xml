@@ -1,147 +1,164 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>https://www.courtse.com</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/search</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/aboutus</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/aboutus</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/litigation</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/law-policy-1</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/regulators</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/litigation</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/editors-desk</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/regulators</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/international-legal-news</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/editors-desk</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/opinions</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/international-legal-news</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/corporate-business</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/opinions</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/topics</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/corporate-business</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/country</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/topics</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/law-firm</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/country</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/law-school-university</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/law-firm</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/articles</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/law-school-university</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/events-1</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/articles</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/india-courts</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/events-1</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/job-updates</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/india-courts</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/lawjournals</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/job-updates</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/sponsored</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/books-and-material-commentaries-papers</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/useful-links</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/sponsored</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/webinars</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/useful-links</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/podcast-1</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/webinars</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/blogs</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/podcast-1</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/profile1</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/blogs</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/profile2</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/profile-2</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/privacy-policy</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/profile2</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/termsofuse</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>https://www.courtse.com/service-page/legal-consultation</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/privacy-policy</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/jobupdates</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 <url>
-<loc>https://www.courtse.com/termsofuse</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/podcast</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
+
 <url>
-<loc>https://www.courtse.com/search2</loc>
-<changefreq>daily</changefreq>
+  <loc>https://www.courtse.com/law-policy</loc>
+  <lastmod>2024-09-23T15:28:33+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
-<url>
-<loc>https://www.courtse.com/?type=services</loc>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://www.courtse.com/service-page/legal-consultation</loc>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://www.courtse.com/service-page/business-service</loc>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://www.courtse.com/service-page/legal-analysis</loc>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://www.courtse.com/?type=events</loc>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://www.courtse.com/event-details-registration/event2</loc>
-<changefreq>daily</changefreq>
-</url>
-<url>
-<loc>https://www.courtse.com/event-details-registration/event1</loc>
-<changefreq>daily</changefreq>
-</url>
+
+
 </urlset>
