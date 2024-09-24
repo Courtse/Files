@@ -6,17 +6,7 @@
 <sect1 id="opinions">
   <title>Opinions test</title>
   <para>Expert opinions and analysis on various legal topics from renowned lawyers, judges, and academics.</para>
-  <orderedlist>
-    <listitem>
-      <para>Legal trends and developments</para>
-    </listitem>
-    <listitem>
-      <para>Expert analysis and commentary</para>
-    </listitem>
-    <listitem>
-      <para>Renowned lawyers, judges, and academics</para>
-    </listitem>
-  </orderedlist>
+  
   <para/>
   <para>Reference Links:</para>
   <para><ulink url="https://www.courtse.com/opinions">Opinions</ulink></para>
