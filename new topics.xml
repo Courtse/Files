@@ -1,43 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
 
-
 <article lang="">
-<para>
-<anchor id="lawUniversityTable"/>
-<anchor id="tableHead"/>
-</para>
-<informaltable frame="all">
-<tgroup cols="5">
-<thead>
-<row>
-<entry>
-<para>All India Rank </para>
-</entry>
-<entry>
-<para>Name Of Law College </para>
-</entry>
-<entry>
-<para>City </para>
-</entry>
-<entry>
-<para>State </para>
-</entry>
-<entry>
-<para>State Rank </para>
-</entry>
-</row>
-</thead>
-<tbody>
-<row>
-<entry>
-<para>1</para>
-</entry>
-<entry>
-<para>
+
 <sec1>
-<title>National Law School of India University Title</title>
-<ulink url="https://www.nls.ac.in/">National Law School of India University</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law School of India University Title</ulink></title>
+National Law School of India University
 </sec1>
 </para>
 </entry>
@@ -58,8 +26,8 @@
 <entry>
 <para>
 <sec1>
-<title>National Law University Title</title>
-<ulink url="https://nludelhi.ac.in/">National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law University Title</ulink></title>
+National Law University
 </sec1>
 </para>
 </entry>
@@ -80,8 +48,8 @@
 <entry>
 <para>
 <sec1>
-<title>NALSAR University of Law Title</title>
-<ulink url="https://www.nalsar.ac.in/">NALSAR University of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">NALSAR University of Law Title</ulink></title>
+NALSAR University of Law
 </sec1>
 </para>
 </entry>
@@ -102,8 +70,8 @@
 <entry>
 <para>
 <sec1>
-<title>The WB National University of Juridical Sciences Title</title>
-<ulink url="https://www.nujs.edu/">The WB National University of Juridical Sciences</ulink>
+<title><ulink url="https://www.nls.ac.in/">The WB National University of Juridical Sciences Title</ulink></title>
+The WB National University of Juridical Sciences
 </sec1>
 </para>
 </entry>
@@ -124,8 +92,8 @@
 <entry>
 <para>
 <sec1>
-<title>Government Law College Title</title>
-<ulink url="https://glcmumbai.com/">Government Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Government Law College Title</ulink></title>
+Government Law College
 </sec1>
 </para>
 </entry>
@@ -146,8 +114,8 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty Of Law, Jamia Millia Islamia Title</title>
-<ulink url="https://www.jmi.ac.in/law">Faculty Of Law, Jamia Millia Islamia</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty Of Law, Jamia Millia Islamia Title</ulink></title>
+Faculty Of Law, Jamia Millia Islamia
 </sec1>
 </para>
 </entry>
@@ -168,8 +136,8 @@
 <entry>
 <para>
 <sec1>
-<title>Rajiv Gandhi School of Intellectual Property Law, IIT Kharagpur Title</title>
-<ulink url="http://www.iitkgp.ac.in/department/IP">Rajiv Gandhi School of Intellectual Property Law, IIT Kharagpur</ulink>
+<title><ulink url="https://www.nls.ac.in/">Rajiv Gandhi School of Intellectual Property Law, IIT Kharagpur Title</ulink></title>
+Rajiv Gandhi School of Intellectual Property Law, IIT Kharagpur
 </sec1>
 </para>
 </entry>
@@ -190,8 +158,8 @@
 <entry>
 <para>
 <sec1>
-<title>Dr. Ambedkar Govt. Law College Title</title>
-<ulink url="https://drambedkarcollegeoflaw.com/">Dr. Ambedkar Govt. Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Dr. Ambedkar Govt. Law College Title</ulink></title>
+Dr. Ambedkar Govt. Law College
 </sec1>
 </para>
 </entry>
@@ -212,13 +180,10 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty of Law, University of Delhi Title</title>
-<ulink url="http://lawfaculty.du.ac.in/">Faculty of Law, University of Delhi</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty of Law, University of Delhi Title</ulink></title>
+Faculty of Law, University of Delhi
 </sec1>
 </para>
-</entry>
-<entry>
-<para>Delhi</para>
 </entry>
 <entry>
 <para>Delhi</para>
@@ -234,8 +199,8 @@
 <entry>
 <para>
 <sec1>
-<title>Dr. B.R. Ambedkar College of Law Title</title>
-<ulink url="https://drambedkarcollegeoflaw.com/">Dr. B.R. Ambedkar College of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Dr. B.R. Ambedkar College of Law Title</ulink></title>
+Dr. B.R. Ambedkar College of Law
 </sec1>
 </para>
 </entry>
@@ -261,8 +226,8 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty of Law, Aligarh Muslim University Title</title>
-<ulink url="https://amu.ac.in/faculties/faculty-of-law">Faculty of Law, Aligarh Muslim University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty of Law, Aligarh Muslim University Title</ulink></title>
+Faculty of Law, Aligarh Muslim University
 </sec1>
 </para>
 </entry>
@@ -283,8 +248,8 @@
 <entry>
 <para>
 <sec1>
-<title>National Law Institute University Title</title>
-<ulink url="https://www.nliu.ac.in/">National Law Institute University</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law Institute University Title</ulink></title>
+National Law Institute University
 </sec1>
 </para>
 </entry>
@@ -305,8 +270,8 @@
 <entry>
 <para>
 <sec1>
-<title>National Law University and Judicial Academy, Assam Title</title>
-<ulink url="https://nluassam.ac.in/">National Law University and Judicial Academy, Assam</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law University and Judicial Academy, Assam Title</ulink></title>
+National Law University and Judicial Academy, Assam
 </sec1>
 </para>
 </entry>
@@ -327,8 +292,8 @@
 <entry>
 <para>
 <sec1>
-<title>National Law University, Jodhpur Title</title>
-<ulink url="http://www.nlujodhpur.ac.in/">National Law University, Jodhpur</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law University, Jodhpur Title</ulink></title>
+National Law University, Jodhpur
 </sec1>
 </para>
 </entry>
@@ -349,8 +314,8 @@
 <entry>
 <para>
 <sec1>
-<title>ILS Law College Title</title>
-<ulink url="https://ilslaw.edu/">ILS Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">ILS Law College Title</ulink></title>
+ILS Law College
 </sec1>
 </para>
 </entry>
@@ -371,8 +336,8 @@
 <entry>
 <para>
 <sec1>
-<title>University School of Law and Legal Studies Title</title>
-<ulink url="http://ipu.ac.in/uslls/">University School of Law and Legal Studies</ulink>
+<title><ulink url="https://www.nls.ac.in/">University School of Law and Legal Studies Title</ulink></title>
+University School of Law and Legal Studies
 </sec1>
 </para>
 </entry>
@@ -393,8 +358,8 @@
 <entry>
 <para>
 <sec1>
-<title>Maharashtra National Law University Title</title>
-<ulink url="https://mnlumumbai.edu.in/">Maharashtra National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Maharashtra National Law University Title</ulink></title>
+Maharashtra National Law University
 </sec1>
 </para>
 </entry>
@@ -415,8 +380,8 @@
 <entry>
 <para>
 <sec1>
-<title>Dr. B R Ambedkar National Law University Title</title>
-<ulink url="http://www.dbranlu.ac.in/">Dr. B R Ambedkar National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Dr. B R Ambedkar National Law University Title</ulink></title>
+Dr. B R Ambedkar National Law University
 </sec1>
 </para>
 </entry>
@@ -437,8 +402,8 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty of Law, Banaras Hindu University Title</title>
-<ulink url="https://www.bhu.ac.in/facultyoflaw">Faculty of Law, Banaras Hindu University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty of Law, Banaras Hindu University Title</ulink></title>
+Faculty of Law, Banaras Hindu University
 </sec1>
 </para>
 </entry>
@@ -459,8 +424,8 @@
 <entry>
 <para>
 <sec1>
-<title>Rajiv Gandhi National University of Law Title</title>
-<ulink url="https://www.rgnul.ac.in/">Rajiv Gandhi National University of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Rajiv Gandhi National University of Law Title</ulink></title>
+Rajiv Gandhi National University of Law
 </sec1>
 </para>
 </entry>
@@ -481,8 +446,8 @@
 <entry>
 <para>
 <sec1>
-<title>Gujarat National Law University, Gandhinagar Title</title>
-<ulink url="https://www.gnlu.ac.in/">Gujarat National Law University, Gandhinagar</ulink>
+<title><ulink url="https://www.nls.ac.in/">Gujarat National Law University, Gandhinagar Title</ulink></title>
+Gujarat National Law University, Gandhinagar
 </sec1>
 </para>
 </entry>
@@ -503,8 +468,8 @@
 <entry>
 <para>
 <sec1>
-<title>National Law University, Cuttack Title</title>
-<ulink url="https://www.nluo.ac.in/">National Law University, Cuttack</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law University, Cuttack Title</ulink></title>
+National Law University, Cuttack
 </sec1>
 </para>
 </entry>
@@ -525,8 +490,8 @@
 <entry>
 <para>
 <sec1>
-<title>Karnataka State Law University, Hubli Title</title>
-<ulink url="https://kslu.karnataka.gov.in/english">Karnataka State Law University, Hubli</ulink>
+<title><ulink url="https://www.nls.ac.in/">Karnataka State Law University, Hubli Title</ulink></title>
+Karnataka State Law University, Hubli
 </sec1>
 </para>
 </entry>
@@ -547,8 +512,8 @@
 <entry>
 <para>
 <sec1>
-<title>Dr. Ram Manohar Lohiya National Law University Title</title>
-<ulink url="http://www.rmlnlu.ac.in/">Dr. Ram Manohar Lohiya National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Dr. Ram Manohar Lohiya National Law University Title</ulink></title>
+Dr. Ram Manohar Lohiya National Law University
 </sec1>
 </para>
 </entry>
@@ -569,8 +534,8 @@
 <entry>
 <para>
 <sec1>
-<title>The Tamil Nadu Dr. Ambedkar Law University Title</title>
-<ulink url="https://tndalu.ac.in/index.php">The Tamil Nadu Dr. Ambedkar Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">The Tamil Nadu Dr. Ambedkar Law University Title</ulink></title>
+The Tamil Nadu Dr. Ambedkar Law University
 </sec1>
 </para>
 </entry>
@@ -591,8 +556,8 @@
 <entry>
 <para>
 <sec1>
-<title>National University of Advanced Legal Studies Title</title>
-<ulink url="https://www.nuals.ac.in/">National University of Advanced Legal Studies</ulink>
+<title><ulink url="https://www.nls.ac.in/">National University of Advanced Legal Studies Title</ulink></title>
+National University of Advanced Legal Studies
 </sec1>
 </para>
 </entry>
@@ -613,8 +578,8 @@
 <entry>
 <para>
 <sec1>
-<title>University College of Law, Osmania University Title</title>
-<ulink url="https://www.osmania.ac.in/lawcollege">University College of Law, Osmania University</ulink>
+<title><ulink url="https://www.nls.ac.in/">University College of Law, Osmania University Title</ulink></title>
+University College of Law, Osmania University
 </sec1>
 </para>
 </entry>
@@ -635,8 +600,8 @@
 <entry>
 <para>
 <sec1>
-<title>Department of Law, University of Calcutta Title</title>
-<ulink url="https://www.caluniv.ac.in/academic/Law.html">Department of Law, University of Calcutta</ulink>
+<title><ulink url="https://www.nls.ac.in/">Department of Law, University of Calcutta Title</ulink></title>
+Department of Law, University of Calcutta
 </sec1>
 </para>
 </entry>
@@ -657,8 +622,8 @@
 <entry>
 <para>
 <sec1>
-<title>Indian Law Institute Title</title>
-<ulink url="https://www.ili.ac.in/">Indian Law Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">Indian Law Institute Title</ulink></title>
+Indian Law Institute
 </sec1>
 </para>
 </entry>
@@ -679,8 +644,8 @@
 <entry>
 <para>
 <sec1>
-<title>Damodaram Sanjivayya National Law University Title</title>
-<ulink url="https://dsnlu.ac.in/">Damodaram Sanjivayya National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Damodaram Sanjivayya National Law University Title</ulink></title>
+Damodaram Sanjivayya National Law University
 </sec1>
 </para>
 </entry>
@@ -701,8 +666,8 @@
 <entry>
 <para>
 <sec1>
-<title>Hidayatullah National Law University Title</title>
-<ulink url="https://hnlu.ac.in/">Hidayatullah National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Hidayatullah National Law University Title</ulink></title>
+Hidayatullah National Law University
 </sec1>
 </para>
 </entry>
@@ -723,8 +688,8 @@
 <entry>
 <para>
 <sec1>
-<title>New Campus, University of Lucknow, Faculty of Law Title</title>
-<ulink url="http://www.lkouniv.ac.in/en/page/faculty-of-law">New Campus, University of Lucknow, Faculty of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">New Campus, University of Lucknow, Faculty of Law Title</ulink></title>
+New Campus, University of Lucknow, Faculty of Law
 </sec1>
 </para>
 </entry>
@@ -745,8 +710,8 @@
 <entry>
 <para>
 <sec1>
-<title>SNDT Women's University Title</title>
-<ulink url="https://sndt.ac.in/">SNDT Women's University</ulink>
+<title><ulink url="https://www.nls.ac.in/">SNDT Women's University Title</ulink></title>
+SNDT Women's University
 </sec1>
 </para>
 </entry>
@@ -767,8 +732,8 @@
 <entry>
 <para>
 <sec1>
-<title>National University of Study and Research in Law Title</title>
-<ulink url="http://www.nusrlranchi.ac.in/">National University of Study and Research in Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">National University of Study and Research in Law Title</ulink></title>
+National University of Study and Research in Law
 </sec1>
 </para>
 </entry>
@@ -789,8 +754,8 @@
 <entry>
 <para>
 <sec1>
-<title>Chanakya National Law University Title</title>
-<ulink url="https://www.cnlu.ac.in/">Chanakya National Law University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Chanakya National Law University Title</ulink></title>
+Chanakya National Law University
 </sec1>
 </para>
 </entry>
@@ -811,8 +776,8 @@
 <entry>
 <para>
 <sec1>
-<title>Guru Gobind Singh Indraprastha University Title</title>
-<ulink url="http://www.ipu.ac.in/">Guru Gobind Singh Indraprastha University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Guru Gobind Singh Indraprastha University Title</ulink></title>
+Guru Gobind Singh Indraprastha University
 </sec1>
 </para>
 </entry>
@@ -833,8 +798,8 @@
 <entry>
 <para>
 <sec1>
-<title>Panjab University Title</title>
-<ulink url="https://puchd.ac.in/">Panjab University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Panjab University Title</ulink></title>
+Panjab University
 </sec1>
 </para>
 </entry>
@@ -855,8 +820,8 @@
 <entry>
 <para>
 <sec1>
-<title>Sikkim Government Law College Title</title>
-<ulink url="https://cus.ac.in/index.php/en/">Sikkim Government Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Sikkim Government Law College Title</ulink></title>
+Sikkim Government Law College
 </sec1>
 </para>
 </entry>
@@ -906,8 +871,8 @@
 <entry>
 <para>
 <sec1>
-<title>Symbiosis Law School Title</title>
-<ulink url="https://www.symlaw.ac.in/">Symbiosis Law School</ulink>
+<title><ulink url="https://www.nls.ac.in/">Symbiosis Law School Title</ulink></title>
+Symbiosis Law School
 </sec1>
 </para>
 </entry>
@@ -928,8 +893,8 @@
 <entry>
 <para>
 <sec1>
-<title>Siksha 'O' Anusandhan, Faculty of Legal Studies Title</title>
-<ulink url="https://www.soa.ac.in/">Siksha 'O' Anusandhan, Faculty of Legal Studies</ulink>
+<title><ulink url="https://www.nls.ac.in/">Siksha 'O' Anusandhan, Faculty of Legal Studies Title</ulink></title>
+Siksha 'O' Anusandhan, Faculty of Legal Studies
 </sec1>
 </para>
 </entry>
@@ -950,8 +915,8 @@
 <entry>
 <para>
 <sec1>
-<title>Jindal Global Law School Title</title>
-<ulink url="https://jgu.edu.in/jgls/">Jindal Global Law School</ulink>
+<title><ulink url="https://www.nls.ac.in/">Jindal Global Law School Title</ulink></title>
+Jindal Global Law School
 </sec1>
 </para>
 </entry>
@@ -972,8 +937,8 @@
 <entry>
 <para>
 <sec1>
-<title>Bharati Vidyapeeth (Deemed to be University) New Law College Title</title>
-<ulink url="https://www.bvuniversity.edu.in/">Bharati Vidyapeeth (Deemed to be University) New Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Bharati Vidyapeeth (Deemed to be University) New Law College Title</ulink></title>
+Bharati Vidyapeeth (Deemed to be University) New Law College
 </sec1>
 </para>
 </entry>
@@ -994,8 +959,8 @@
 <entry>
 <para>
 <sec1>
-<title>ICFAI Law School, ICFAI Foundation for Higher Education Title</title>
-<ulink url="https://www.ifheindia.org/icfai-law-school-hyderabad">ICFAI Law School, ICFAI Foundation for Higher Education</ulink>
+<title><ulink url="https://www.nls.ac.in/">ICFAI Law School, ICFAI Foundation for Higher Education Title</ulink></title>
+ICFAI Law School, ICFAI Foundation for Higher Education
 </sec1>
 </para>
 </entry>
@@ -1016,8 +981,8 @@
 <entry>
 <para>
 <sec1>
-<title>Army Institute of Law Title</title>
-<ulink url="https://www.ail.ac.in/">Army Institute of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Army Institute of Law Title</ulink></title>
+Army Institute of Law
 </sec1>
 </para>
 </entry>
@@ -1038,8 +1003,8 @@
 <entry>
 <para>
 <sec1>
-<title>Law College Dehradun, Uttaranchal University Title</title>
-<ulink url="https://www.uudoon.in/law/">Law College Dehradun, Uttaranchal University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Law College Dehradun, Uttaranchal University Title</ulink></title>
+Law College Dehradun, Uttaranchal University
 </sec1>
 </para>
 </entry>
@@ -1060,8 +1025,8 @@
 <entry>
 <para>
 <sec1>
-<title>VIT School of Law Title</title>
-<ulink url="https://vit.ac.in/school/law">VIT School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">VIT School of Law Title</ulink></title>
+VIT School of Law
 </sec1>
 </para>
 </entry>
@@ -1082,8 +1047,8 @@
 <entry>
 <para>
 <sec1>
-<title>Institute of Law, NIRMA University Title</title>
-<ulink url="https://law.nirmauni.ac.in/">Institute of Law, NIRMA University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Institute of Law, NIRMA University Title</ulink></title>
+Institute of Law, NIRMA University
 </sec1>
 </para>
 </entry>
@@ -1104,8 +1069,8 @@
 <entry>
 <para>
 <sec1>
-<title>ARMY Law College Pune Title</title>
-<ulink url="https://alcpune.com/">ARMY Law College Pune</ulink>
+<title><ulink url="https://www.nls.ac.in/">ARMY Law College Pune Title</ulink></title>
+ARMY Law College Pune
 </sec1>
 </para>
 </entry>
@@ -1126,8 +1091,8 @@
 <entry>
 <para>
 <sec1>
-<title>ICFAI Law School, ICFAI University Title</title>
-<ulink url="https://www.iudehradun.edu.in/">ICFAI Law School, ICFAI University</ulink>
+<title><ulink url="https://www.nls.ac.in/">ICFAI Law School, ICFAI University Title</ulink></title>
+ICFAI Law School, ICFAI University
 </sec1>
 </para>
 </entry>
@@ -1148,8 +1113,8 @@
 <entry>
 <para>
 <sec1>
-<title>SDM Law College and Centre for Post Graduate Studies & Research in Law Title</title>
-<ulink url="https://www.sdmlc.ac.in/">SDM Law College and Centre for Post Graduate Studies & Research in Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">SDM Law College and Centre for Post Graduate Studies & Research in Law Title</ulink></title>
+SDM Law College and Centre for Post Graduate Studies & Research in Law
 </sec1>
 </para>
 </entry>
@@ -1170,8 +1135,8 @@
 <entry>
 <para>
 <sec1>
-<title>Lloyd Law College Title</title>
-<ulink url="https://www.lloydlawcollege.edu.in/">Lloyd Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Lloyd Law College Title</ulink></title>
+Lloyd Law College
 </sec1>
 </para>
 </entry>
@@ -1192,8 +1157,8 @@
 <entry>
 <para>
 <sec1>
-<title>KIIT School of Law, KIIT Deemed to be University Title</title>
-<ulink url="https://law.kiit.ac.in/">KIIT School of Law, KIIT Deemed to be University</ulink>
+<title><ulink url="https://www.nls.ac.in/">KIIT School of Law, KIIT Deemed to be University Title</ulink></title>
+KIIT School of Law, KIIT Deemed to be University
 </sec1>
 </para>
 </entry>
@@ -1214,8 +1179,8 @@
 <entry>
 <para>
 <sec1>
-<title>Bharath Institute of Law, BIHER Title</title>
-<ulink url="https://www.bharathuniv.ac.in/">Bharath Institute of Law, BIHER</ulink>
+<title><ulink url="https://www.nls.ac.in/">Bharath Institute of Law, BIHER Title</ulink></title>
+Bharath Institute of Law, BIHER
 </sec1>
 </para>
 </entry>
@@ -1236,8 +1201,8 @@
 <entry>
 <para>
 <sec1>
-<title>School of Law, Christ University Title</title>
-<ulink url="https://christuniversity.in/academics/school-of-law">School of Law, Christ University</ulink>
+<title><ulink url="https://www.nls.ac.in/">School of Law, Christ University Title</ulink></title>
+School of Law, Christ University
 </sec1>
 </para>
 </entry>
@@ -1258,8 +1223,8 @@
 <entry>
 <para>
 <sec1>
-<title>BMS College of Law Title</title>
-<ulink url="https://www.bmslawcollege.org/">BMS College of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">BMS College of Law Title</ulink></title>
+BMS College of Law
 </sec1>
 </para>
 </entry>
@@ -1280,8 +1245,8 @@
 <entry>
 <para>
 <sec1>
-<title>School of Law, UPES University Title</title>
-<ulink url="https://www.upes.ac.in/schools/school-of-law">School of Law, UPES University</ulink>
+<title><ulink url="https://www.nls.ac.in/">School of Law, UPES University Title</ulink></title>
+School of Law, UPES University
 </sec1>
 </para>
 </entry>
@@ -1302,8 +1267,8 @@
 <entry>
 <para>
 <sec1>
-<title>IFIM Law College Title</title>
-<ulink url="https://ifim.edu.in/">IFIM Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">IFIM Law College Title</ulink></title>
+IFIM Law College
 </sec1>
 </para>
 </entry>
@@ -1324,8 +1289,8 @@
 <entry>
 <para>
 <sec1>
-<title>University School of Legal Studies, Chandigarh University Title</title>
-<ulink url="https://www.cuchd.in/legal-studies/">University School of Legal Studies, Chandigarh University</ulink>
+<title><ulink url="https://www.nls.ac.in/">University School of Legal Studies, Chandigarh University Title</ulink></title>
+University School of Legal Studies, Chandigarh University
 </sec1>
 </para>
 </entry>
@@ -1346,8 +1311,8 @@
 <entry>
 <para>
 <sec1>
-<title>Alliance School of Law, Alliance University Title</title>
-<ulink url="https://alliance.edu.in/school-of-law">Alliance School of Law, Alliance University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Alliance School of Law, Alliance University Title</ulink></title>
+Alliance School of Law, Alliance University
 </sec1>
 </para>
 </entry>
@@ -1368,8 +1333,8 @@
 <entry>
 <para>
 <sec1>
-<title>ICFAI Law School, ICFAI University Title</title>
-<ulink url="https://www.icfaiuniversity.in/jaipur/">ICFAI Law School, ICFAI University</ulink>
+<title><ulink url="https://www.nls.ac.in/">ICFAI Law School, ICFAI University Title</ulink></title>
+ICFAI Law School, ICFAI University
 </sec1>
 </para>
 </entry>
@@ -1390,8 +1355,8 @@
 <entry>
 <para>
 <sec1>
-<title>Department of Law, Prestige Institute of Management and Research Title</title>
-<ulink url="http://prestige.ac.in/pimr(law).html">Department of Law, Prestige Institute of Management and Research</ulink>
+<title><ulink url="https://www.nls.ac.in/">Department of Law, Prestige Institute of Management and Research Title</ulink></title>
+Department of Law, Prestige Institute of Management and Research
 </sec1>
 </para>
 </entry>
@@ -1412,8 +1377,8 @@
 <entry>
 <para>
 <sec1>
-<title>Manikchand Pahade Law College  Title</title>
-<ulink url="http://www.mplaw.org/">Manikchand Pahade Law College </ulink>
+<title><ulink url="https://www.nls.ac.in/">Manikchand Pahade Law College  Title</ulink></title>
+Manikchand Pahade Law College 
 </sec1>
 </para>
 </entry>
@@ -1434,8 +1399,8 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty of Law, PES University Title</title>
-<ulink url="https://law.pes.edu/">Faculty of Law, PES University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty of Law, PES University Title</ulink></title>
+Faculty of Law, PES University
 </sec1>
 </para>
 </entry>
@@ -1456,8 +1421,8 @@
 <entry>
 <para>
 <sec1>
-<title>AMITY Law College Title</title>
-<ulink url="https://www.amity.edu/mumbai/law/">AMITY Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">AMITY Law College Title</ulink></title>
+AMITY Law College
 </sec1>
 </para>
 </entry>
@@ -1478,8 +1443,8 @@
 <entry>
 <para>
 <sec1>
-<title>School of Law and Justice, ADAMAS University Title</title>
-<ulink url="https://law.adamasuniversity.ac.in/">School of Law and Justice, ADAMAS University</ulink>
+<title><ulink url="https://www.nls.ac.in/">School of Law and Justice, ADAMAS University Title</ulink></title>
+School of Law and Justice, ADAMAS University
 </sec1>
 </para>
 </entry>
@@ -1500,8 +1465,8 @@
 <entry>
 <para>
 <sec1>
-<title>K.L.E Society’s Law College Title</title>
-<ulink url="https://klelawcollege.org/">K.L.E Society’s Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">K.L.E Societyâ€™s Law College Title</ulink></title>
+K.L.E Societyâ€™s Law College
 </sec1>
 </para>
 </entry>
@@ -1522,8 +1487,8 @@
 <entry>
 <para>
 <sec1>
-<title>D Y Patil Deemed to be University School of Law Title</title>
-<ulink url="https://dypatil.edu/schools/school-of-law">D Y Patil Deemed to be University School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">D Y Patil Deemed to be University School of Law Title</ulink></title>
+D Y Patil Deemed to be University School of Law
 </sec1>
 </para>
 </entry>
@@ -1544,8 +1509,8 @@
 <entry>
 <para>
 <sec1>
-<title>School of Law, G D Goenka University Title</title>
-<ulink url="https://www.gdgoenkauniversity.com/school-of-law/">School of Law, G D Goenka University</ulink>
+<title><ulink url="https://www.nls.ac.in/">School of Law, G D Goenka University Title</ulink></title>
+School of Law, G D Goenka University
 </sec1>
 </para>
 </entry>
@@ -1566,8 +1531,8 @@
 <entry>
 <para>
 <sec1>
-<title>Kirit P Mehta School of Law Title</title>
-<ulink url="https://law.nmims.edu/">Kirit P Mehta School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Kirit P Mehta School of Law Title</ulink></title>
+Kirit P Mehta School of Law
 </sec1>
 </para>
 </entry>
@@ -1588,8 +1553,8 @@
 <entry>
 <para>
 <sec1>
-<title>School of Policy and Governance, Azim Premji University Title</title>
-<ulink url="https://azimpremjiuniversity.edu.in/">School of Policy and Governance, Azim Premji University</ulink>
+<title><ulink url="https://www.nls.ac.in/">School of Policy and Governance, Azim Premji University Title</ulink></title>
+School of Policy and Governance, Azim Premji University
 </sec1>
 </para>
 </entry>
@@ -1610,8 +1575,8 @@
 <entry>
 <para>
 <sec1>
-<title>GITAM School of Law Title</title>
-<ulink url="https://www.gitam.edu/academics/disciplines/law">GITAM School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">GITAM School of Law Title</ulink></title>
+GITAM School of Law
 </sec1>
 </para>
 </entry>
@@ -1632,8 +1597,8 @@
 <entry>
 <para>
 <sec1>
-<title>AMITY Law School Title</title>
-<ulink url="https://www.amity.edu/als/">AMITY Law School</ulink>
+<title><ulink url="https://www.nls.ac.in/">AMITY Law School Title</ulink></title>
+AMITY Law School
 </sec1>
 </para>
 </entry>
@@ -1654,8 +1619,8 @@
 <entry>
 <para>
 <sec1>
-<title>St. Joseph's College of Law Title</title>
-<ulink url="https://www.sjcl.edu.in/">St. Joseph's College of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">St. Joseph's College of Law Title</ulink></title>
+St. Joseph's College of Law
 </sec1>
 </para>
 </entry>
@@ -1676,8 +1641,8 @@
 <entry>
 <para>
 <sec1>
-<title>RV Institute of Legal Studies Title</title>
-<ulink url="https://rvils.edu.in/">RV Institute of Legal Studies</ulink>
+<title><ulink url="https://www.nls.ac.in/">RV Institute of Legal Studies Title</ulink></title>
+RV Institute of Legal Studies
 </sec1>
 </para>
 </entry>
@@ -1698,8 +1663,8 @@
 <entry>
 <para>
 <sec1>
-<title>School of Law, Presidency University Title</title>
-<ulink url="https://presidencyuniversity.in/school/school-of-law">School of Law, Presidency University</ulink>
+<title><ulink url="https://www.nls.ac.in/">School of Law, Presidency University Title</ulink></title>
+School of Law, Presidency University
 </sec1>
 </para>
 </entry>
@@ -1720,8 +1685,8 @@
 <entry>
 <para>
 <sec1>
-<title>Rizvi Law College Title</title>
-<ulink url="https://law.rizvi.edu.in/">Rizvi Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Rizvi Law College Title</ulink></title>
+Rizvi Law College
 </sec1>
 </para>
 </entry>
@@ -1742,8 +1707,8 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty of Law, Integral University Title</title>
-<ulink url="https://www.iul.ac.in/Faculty/Fclt_law.aspx">Faculty of Law, Integral University</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty of Law, Integral University Title</ulink></title>
+Faculty of Law, Integral University
 </sec1>
 </para>
 </entry>
@@ -1764,8 +1729,8 @@
 <entry>
 <para>
 <sec1>
-<title>IMS Law College Title</title>
-<ulink url="https://imslawcollege.com/">IMS Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">IMS Law College Title</ulink></title>
+IMS Law College
 </sec1>
 </para>
 </entry>
@@ -1786,8 +1751,8 @@
 <entry>
 <para>
 <sec1>
-<title>SVKMs Pravin Gandhi College of Law Title</title>
-<ulink url="https://pgcl.ac.in/">SVKMs Pravin Gandhi College of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">SVKMs Pravin Gandhi College of Law Title</ulink></title>
+SVKMs Pravin Gandhi College of Law
 </sec1>
 </para>
 </entry>
@@ -1808,8 +1773,8 @@
 <entry>
 <para>
 <sec1>
-<title>Asian Law College Title</title>
-<ulink url="https://alc.edu.in/">Asian Law College</ulink>
+<title><ulink url="https://www.nls.ac.in/">Asian Law College Title</ulink></title>
+Asian Law College
 </sec1>
 </para>
 </entry>
@@ -1830,8 +1795,8 @@
 <entry>
 <para>
 <sec1>
-<title>Bangalore Institute of Legal Studies Title</title>
-<ulink url="https://bils.ac.in/admission/">Bangalore Institute of Legal Studies</ulink>
+<title><ulink url="https://www.nls.ac.in/">Bangalore Institute of Legal Studies Title</ulink></title>
+Bangalore Institute of Legal Studies
 </sec1>
 </para>
 </entry>
@@ -1852,8 +1817,8 @@
 <entry>
 <para>
 <sec1>
-<title>Saveetha School of Law Title</title>
-<ulink url="https://saveethalaw.com/">Saveetha School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Saveetha School of Law Title</ulink></title>
+Saveetha School of Law
 </sec1>
 </para>
 </entry>
@@ -1874,8 +1839,8 @@
 <entry>
 <para>
 <sec1>
-<title>Acharya School of Law Title</title>
-<ulink url="https://acharyamarathecollege.in/">Acharya School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Acharya School of Law Title</ulink></title>
+Acharya School of Law
 </sec1>
 </para>
 </entry>
@@ -1896,8 +1861,8 @@
 <entry>
 <para>
 <sec1>
-<title>MIT-WPU School of Law Title</title>
-<ulink url="https://mitwpu.edu.in/programmes/school-of-law">MIT-WPU School of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">MIT-WPU School of Law Title</ulink></title>
+MIT-WPU School of Law
 </sec1>
 </para>
 </entry>
@@ -1918,8 +1883,8 @@
 <entry>
 <para>
 <sec1>
-<title>Faculty of Law, Dr. M.G.R Educational and Research Institute Title</title>
-<ulink url="https://www.drmgrdu.ac.in/course-details.php?academic=9&department=36">Faculty of Law, Dr. M.G.R Educational and Research Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">Faculty of Law, Dr. M.G.R Educational and Research Institute Title</ulink></title>
+Faculty of Law, Dr. M.G.R Educational and Research Institute
 </sec1>
 </para>
 </entry>
@@ -1940,8 +1905,8 @@
 <entry>
 <para>
 <sec1>
-<title>Dr. B R Ambedkar College of Law Title</title>
-<ulink url="https://drambedkarcollegeoflaw.com/">Dr. B R Ambedkar College of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Dr. B R Ambedkar College of Law Title</ulink></title>
+Dr. B R Ambedkar College of Law
 </sec1>
 </para>
 </entry>
@@ -1962,8 +1927,8 @@
 <entry>
 <para>
 <sec1>
-<title>Teerthanker Mahaveer College of Law and Legal Studies Title</title>
-<ulink url="https://www.tmu.ac.in/college-of-law-and-legal-studies">Teerthanker Mahaveer College of Law and Legal Studies</ulink>
+<title><ulink url="https://www.nls.ac.in/">Teerthanker Mahaveer College of Law and Legal Studies Title</ulink></title>
+Teerthanker Mahaveer College of Law and Legal Studies
 </sec1>
 </para>
 </entry>
@@ -1984,8 +1949,8 @@
 <entry>
 <para>
 <sec1>
-<title>Geeta Institute of Law Title</title>
-<ulink url="https://www.geetalawcollege.in/%22">Geeta Institute of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Geeta Institute of Law Title</ulink></title>
+Geeta Institute of Law
 </sec1>
 </para>
 </entry>
@@ -2007,12 +1972,12 @@
 <para>
 <anchor id="link-list"/>
 <sec1>
-<title>1.  Title</title>
-<ulink url="https://gnlu.ac.in/Journal-of-Law-Development-And-Politics/Home">1. </ulink>
+<title><ulink url="https://www.nls.ac.in/">1.  Title</ulink></title>
+1. 
 </sec1>
 <sec1>
-<title>GNLU Journal of Law, Development and Politics Title</title>
-<ulink url="https://gnlu.ac.in/Journal-of-Law-Development-And-Politics/Home">GNLU Journal of Law, Development and Politics</ulink>
+<title><ulink url="https://www.nls.ac.in/">GNLU Journal of Law, Development and Politics Title</ulink></title>
+GNLU Journal of Law, Development and Politics
 </sec1>
 - ISSN: 0975-0193
 </para>
@@ -2020,24 +1985,24 @@
 <listitem>
 <para>
 <sec1>
-<title>2.  Title</title>
-<ulink url="https://gnlu.ac.in/The-GNLU-Law-Review/Home">2. </ulink>
+<title><ulink url="https://www.nls.ac.in/">2.  Title</ulink></title>
+2. 
 </sec1>
 <sec1>
-<title>GNLU Law Review Title</title>
-<ulink url="https://gnlu.ac.in/The-GNLU-Law-Review/Home">GNLU Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">GNLU Law Review Title</ulink></title>
+GNLU Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>3.  Title</title>
-<ulink url="https://www.indialawjournal.org/">3. </ulink>
+<title><ulink url="https://www.nls.ac.in/">3.  Title</ulink></title>
+3. 
 </sec1>
 <sec1>
-<title>India Law Journal Title</title>
-<ulink url="https://www.indialawjournal.org/">India Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">India Law Journal Title</ulink></title>
+India Law Journal
 </sec1>
 - ISSN: 0975-0606
 </para>
@@ -2045,12 +2010,12 @@
 <listitem>
 <para>
 <sec1>
-<title>4.  Title</title>
-<ulink url="http://serialspublications.com/journals/journal-detail.php?jid=213">4. </ulink>
+<title><ulink url="https://www.nls.ac.in/">4.  Title</ulink></title>
+4. 
 </sec1>
 <sec1>
-<title>Indian Journal of Human Rights and the Law Title</title>
-<ulink url="http://serialspublications.com/journals/journal-detail.php?jid=213">Indian Journal of Human Rights and the Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Indian Journal of Human Rights and the Law Title</ulink></title>
+Indian Journal of Human Rights and the Law
 </sec1>
 - ISSN: 0973-0818
 </para>
@@ -2058,12 +2023,12 @@
 <listitem>
 <para>
 <sec1>
-<title>5.  Title</title>
-<ulink url="https://www.springer.com/law/international/journal/40901">5. </ulink>
+<title><ulink url="https://www.nls.ac.in/">5.  Title</ulink></title>
+5. 
 </sec1>
 <sec1>
-<title>Indian Journal of International Law Title</title>
-<ulink url="https://www.springer.com/law/international/journal/40901">Indian Journal of International Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Indian Journal of International Law Title</ulink></title>
+Indian Journal of International Law
 </sec1>
 - ISSN: 0019-5294
 </para>
@@ -2071,12 +2036,12 @@
 <listitem>
 <para>
 <sec1>
-<title>6.  Title</title>
-<ulink url="http://www.ijlt.in/">6. </ulink>
+<title><ulink url="https://www.nls.ac.in/">6.  Title</ulink></title>
+6. 
 </sec1>
 <sec1>
-<title>Indian Journal of Law and Technology Title</title>
-<ulink url="http://www.ijlt.in/">Indian Journal of Law and Technology</ulink>
+<title><ulink url="https://www.nls.ac.in/">Indian Journal of Law and Technology Title</ulink></title>
+Indian Journal of Law and Technology
 </sec1>
 - ISSN: 0973-0362
 </para>
@@ -2090,12 +2055,12 @@
 <listitem>
 <para>
 <sec1>
-<title>8.  Title</title>
-<ulink url="https://academic.oup.com/ajj/">8. </ulink>
+<title><ulink url="https://www.nls.ac.in/">8.  Title</ulink></title>
+8. 
 </sec1>
 <sec1>
-<title>International Journal of Jurisprudence and Philosophy of Law Title</title>
-<ulink url="https://academic.oup.com/ajj/">International Journal of Jurisprudence and Philosophy of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">International Journal of Jurisprudence and Philosophy of Law Title</ulink></title>
+International Journal of Jurisprudence and Philosophy of Law
 </sec1>
 - ISSN: 0973-676X
 </para>
@@ -2103,12 +2068,12 @@
 <listitem>
 <para>
 <sec1>
-<title>9.  Title</title>
-<ulink url="https://www.springer.com/law/journal/41020">9. </ulink>
+<title><ulink url="https://www.nls.ac.in/">9.  Title</ulink></title>
+9. 
 </sec1>
 <sec1>
-<title>Jindal Global Law Review Title</title>
-<ulink url="https://www.springer.com/law/journal/41020">Jindal Global Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Jindal Global Law Review Title</ulink></title>
+Jindal Global Law Review
 </sec1>
 - ISSN: 0975-2498
 </para>
@@ -2116,24 +2081,24 @@
 <listitem>
 <para>
 <sec1>
-<title>10.  Title</title>
-<ulink url="https://www.jstor.org/journal/natilawindirevi">10. </ulink>
+<title><ulink url="https://www.nls.ac.in/">10.  Title</ulink></title>
+10. 
 </sec1>
 <sec1>
-<title>National Law School of India Review Title</title>
-<ulink url="https://www.jstor.org/journal/natilawindirevi">National Law School of India Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">National Law School of India Review Title</ulink></title>
+National Law School of India Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>11.  Title</title>
-<ulink url="http://nujslawreview.org/">11. </ulink>
+<title><ulink url="https://www.nls.ac.in/">11.  Title</ulink></title>
+11. 
 </sec1>
 <sec1>
-<title>NUJS Law Review Title</title>
-<ulink url="http://nujslawreview.org/">NUJS Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">NUJS Law Review Title</ulink></title>
+NUJS Law Review
 </sec1>
 - ISSN: 0975-0029
 </para>
@@ -2141,12 +2106,12 @@
 <listitem>
 <para>
 <sec1>
-<title>12.  Title</title>
-<ulink url="http://rsrr.in/">12. </ulink>
+<title><ulink url="https://www.nls.ac.in/">12.  Title</ulink></title>
+12. 
 </sec1>
 <sec1>
-<title>RGNUL Student Research Review [online] Title</title>
-<ulink url="http://rsrr.in/">RGNUL Student Research Review [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">RGNUL Student Research Review [online] Title</ulink></title>
+RGNUL Student Research Review [online]
 </sec1>
 - ISSN: 2349-8285
 </para>
@@ -2157,12 +2122,12 @@
 <para>
 <anchor id="link-list1"/>
 <sec1>
-<title>1.  Title</title>
-<ulink url="https://harvardlawreview.org/">1. </ulink>
+<title><ulink url="https://www.nls.ac.in/">1.  Title</ulink></title>
+1. 
 </sec1>
 <sec1>
-<title>Harvard Law Review Title</title>
-<ulink url="https://harvardlawreview.org/">Harvard Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Harvard Law Review Title</ulink></title>
+Harvard Law Review
 </sec1>
 - ISSN: 0017-811X
 </para>
@@ -2170,12 +2135,12 @@
 <listitem>
 <para>
 <sec1>
-<title>2.  Title</title>
-<ulink url="http://columbialawreview.org/">2. </ulink>
+<title><ulink url="https://www.nls.ac.in/">2.  Title</ulink></title>
+2. 
 </sec1>
 <sec1>
-<title>Columbia Law Review Title</title>
-<ulink url="http://columbialawreview.org/">Columbia Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Columbia Law Review Title</ulink></title>
+Columbia Law Review
 </sec1>
 - ISSN: 0010-1958
 </para>
@@ -2183,12 +2148,12 @@
 <listitem>
 <para>
 <sec1>
-<title>3.  Title</title>
-<ulink url="https://www.stanfordlawreview.org/">3. </ulink>
+<title><ulink url="https://www.nls.ac.in/">3.  Title</ulink></title>
+3. 
 </sec1>
 <sec1>
-<title>Stanford Law Review Title</title>
-<ulink url="https://www.stanfordlawreview.org/">Stanford Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Stanford Law Review Title</ulink></title>
+Stanford Law Review
 </sec1>
 - ISSN: 0038-9765
 </para>
@@ -2196,12 +2161,12 @@
 <listitem>
 <para>
 <sec1>
-<title>4.  Title</title>
-<ulink url="https://www.yalelawjournal.org/">4. </ulink>
+<title><ulink url="https://www.nls.ac.in/">4.  Title</ulink></title>
+4. 
 </sec1>
 <sec1>
-<title>Yale Law Journal Title</title>
-<ulink url="https://www.yalelawjournal.org/">Yale Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Law Journal Title</ulink></title>
+Yale Law Journal
 </sec1>
 - ISSN: 0044-0094
 </para>
@@ -2209,12 +2174,12 @@
 <listitem>
 <para>
 <sec1>
-<title>5.  Title</title>
-<ulink url="https://www.californialawreview.org/">5. </ulink>
+<title><ulink url="https://www.nls.ac.in/">5.  Title</ulink></title>
+5. 
 </sec1>
 <sec1>
-<title>California Law Review Title</title>
-<ulink url="https://www.californialawreview.org/">California Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">California Law Review Title</ulink></title>
+California Law Review
 </sec1>
 - ISSN: 0008-1221
 </para>
@@ -2222,24 +2187,24 @@
 <listitem>
 <para>
 <sec1>
-<title>6.  Title</title>
-<ulink url="https://www.pennlawreview.com/">6. </ulink>
+<title><ulink url="https://www.nls.ac.in/">6.  Title</ulink></title>
+6. 
 </sec1>
 <sec1>
-<title>University of Pennsylvania Law Review Title</title>
-<ulink url="https://www.pennlawreview.com/">University of Pennsylvania Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Pennsylvania Law Review Title</ulink></title>
+University of Pennsylvania Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>7.  Title</title>
-<ulink url="http://michiganlawreview.org/">7. </ulink>
+<title><ulink url="https://www.nls.ac.in/">7.  Title</ulink></title>
+7. 
 </sec1>
 <sec1>
-<title>Michigan Law Review Title</title>
-<ulink url="http://michiganlawreview.org/">Michigan Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Michigan Law Review Title</ulink></title>
+Michigan Law Review
 </sec1>
 - ISSN: 0026-2234
 </para>
@@ -2247,12 +2212,12 @@
 <listitem>
 <para>
 <sec1>
-<title>8.  Title</title>
-<ulink url="https://www.cornelllawreview.org/">8. </ulink>
+<title><ulink url="https://www.nls.ac.in/">8.  Title</ulink></title>
+8. 
 </sec1>
 <sec1>
-<title>Cornell Law Review Title</title>
-<ulink url="https://www.cornelllawreview.org/">Cornell Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Cornell Law Review Title</ulink></title>
+Cornell Law Review
 </sec1>
 - ISSN: 0010-8847
 </para>
@@ -2260,12 +2225,12 @@
 <listitem>
 <para>
 <sec1>
-<title>9.  Title</title>
-<ulink url="https://www.law.georgetown.edu/georgetown-law-journal/">9. </ulink>
+<title><ulink url="https://www.nls.ac.in/">9.  Title</ulink></title>
+9. 
 </sec1>
 <sec1>
-<title>Georgetown Law Journal Title</title>
-<ulink url="https://www.law.georgetown.edu/georgetown-law-journal/">Georgetown Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Georgetown Law Journal Title</ulink></title>
+Georgetown Law Journal
 </sec1>
 - ISSN: 0016-8092
 </para>
@@ -2273,12 +2238,12 @@
 <listitem>
 <para>
 <sec1>
-<title>10.  Title</title>
-<ulink url="https://www.nyulawreview.org/">10. </ulink>
+<title><ulink url="https://www.nls.ac.in/">10.  Title</ulink></title>
+10. 
 </sec1>
 <sec1>
-<title>New York University Law Review Title</title>
-<ulink url="https://www.nyulawreview.org/">New York University Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">New York University Law Review Title</ulink></title>
+New York University Law Review
 </sec1>
 - ISSN: 0028-7881
 </para>
@@ -2286,12 +2251,12 @@
 <listitem>
 <para>
 <sec1>
-<title>11.  Title</title>
-<ulink url="https://dlj.law.duke.edu/">11. </ulink>
+<title><ulink url="https://www.nls.ac.in/">11.  Title</ulink></title>
+11. 
 </sec1>
 <sec1>
-<title>Duke Law Journal Title</title>
-<ulink url="https://dlj.law.duke.edu/">Duke Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Duke Law Journal Title</ulink></title>
+Duke Law Journal
 </sec1>
 - ISSN: 0012-7086
 </para>
@@ -2299,36 +2264,36 @@
 <listitem>
 <para>
 <sec1>
-<title>12.  Title</title>
-<ulink url="https://lawreview.uchicago.edu/">12. </ulink>
+<title><ulink url="https://www.nls.ac.in/">12.  Title</ulink></title>
+12. 
 </sec1>
 <sec1>
-<title>University of Chicago Law Review Title</title>
-<ulink url="https://lawreview.uchicago.edu/">University of Chicago Law Review</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>13.  Title</title>
-<ulink url="https://www.virginialawreview.org/">13. </ulink>
-</sec1>
-<sec1>
-<title>Virginia Law Review Title</title>
-<ulink url="https://www.virginialawreview.org/">Virginia Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Chicago Law Review Title</ulink></title>
+University of Chicago Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>14.  Title</title>
-<ulink url="https://northwesternlawreview.org/">14. </ulink>
+<title><ulink url="https://www.nls.ac.in/">13.  Title</ulink></title>
+13. 
 </sec1>
 <sec1>
-<title>Northwestern University Law Review Title</title>
-<ulink url="https://northwesternlawreview.org/">Northwestern University Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Virginia Law Review Title</ulink></title>
+Virginia Law Review
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">14.  Title</ulink></title>
+14. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Northwestern University Law Review Title</ulink></title>
+Northwestern University Law Review
 </sec1>
 - ISSN: 0029-3571
 </para>
@@ -2336,24 +2301,24 @@
 <listitem>
 <para>
 <sec1>
-<title>15.  Title</title>
-<ulink url="https://www.vanderbiltlawreview.org/">15. </ulink>
+<title><ulink url="https://www.nls.ac.in/">15.  Title</ulink></title>
+15. 
 </sec1>
 <sec1>
-<title>Vanderbilt Law Review Title</title>
-<ulink url="https://www.vanderbiltlawreview.org/">Vanderbilt Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Vanderbilt Law Review Title</ulink></title>
+Vanderbilt Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>16.  Title</title>
-<ulink url="https://minnesotalawreview.org/">16. </ulink>
+<title><ulink url="https://www.nls.ac.in/">16.  Title</ulink></title>
+16. 
 </sec1>
 <sec1>
-<title>Minnesota Law Review Title</title>
-<ulink url="https://minnesotalawreview.org/">Minnesota Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Minnesota Law Review Title</ulink></title>
+Minnesota Law Review
 </sec1>
 - ISSN: 0026-5535
 </para>
@@ -2361,12 +2326,12 @@
 <listitem>
 <para>
 <sec1>
-<title>17.  Title</title>
-<ulink url="https://ilr.law.uiowa.edu/">17. </ulink>
+<title><ulink url="https://www.nls.ac.in/">17.  Title</ulink></title>
+17. 
 </sec1>
 <sec1>
-<title>Iowa Law Review Title</title>
-<ulink url="https://ilr.law.uiowa.edu/">Iowa Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Iowa Law Review Title</ulink></title>
+Iowa Law Review
 </sec1>
 - ISSN: 0021-0552
 </para>
@@ -2374,12 +2339,12 @@
 <listitem>
 <para>
 <sec1>
-<title>18.  Title</title>
-<ulink url="http://www.bu.edu/bulawreview/">18. </ulink>
+<title><ulink url="https://www.nls.ac.in/">18.  Title</ulink></title>
+18. 
 </sec1>
 <sec1>
-<title>Boston University Law Review Title</title>
-<ulink url="http://www.bu.edu/bulawreview/">Boston University Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Boston University Law Review Title</ulink></title>
+Boston University Law Review
 </sec1>
 - ISSN: 0006-8047
 </para>
@@ -2387,12 +2352,12 @@
 <listitem>
 <para>
 <sec1>
-<title>19.  Title</title>
-<ulink url="http://fordhamlawreview.org/">19. </ulink>
+<title><ulink url="https://www.nls.ac.in/">19.  Title</ulink></title>
+19. 
 </sec1>
 <sec1>
-<title>Fordham Law Review Title</title>
-<ulink url="http://fordhamlawreview.org/">Fordham Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Fordham Law Review Title</ulink></title>
+Fordham Law Review
 </sec1>
 - ISSN: 0015-704X
 </para>
@@ -2400,24 +2365,24 @@
 <listitem>
 <para>
 <sec1>
-<title>20.  Title</title>
-<ulink url="https://www.uclalawreview.org/">20. </ulink>
+<title><ulink url="https://www.nls.ac.in/">20.  Title</ulink></title>
+20. 
 </sec1>
 <sec1>
-<title>UCLA Law Review Title</title>
-<ulink url="https://www.uclalawreview.org/">UCLA Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">UCLA Law Review Title</ulink></title>
+UCLA Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>21.  Title</title>
-<ulink url="https://www.bc.edu/bc-web/schools/law/academics-faculty/law-reviews/bclr.html">21. </ulink>
+<title><ulink url="https://www.nls.ac.in/">21.  Title</ulink></title>
+21. 
 </sec1>
 <sec1>
-<title>Boston College Law Review Title</title>
-<ulink url="https://www.bc.edu/bc-web/schools/law/academics-faculty/law-reviews/bclr.html">Boston College Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Boston College Law Review Title</ulink></title>
+Boston College Law Review
 </sec1>
 - ISSN: 0161-6587
 </para>
@@ -2425,24 +2390,24 @@
 <listitem>
 <para>
 <sec1>
-<title>22.  Title</title>
-<ulink url="https://texaslawreview.org/">22. </ulink>
+<title><ulink url="https://www.nls.ac.in/">22.  Title</ulink></title>
+22. 
 </sec1>
 <sec1>
-<title>Texas Law Review Title</title>
-<ulink url="https://texaslawreview.org/">Texas Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Texas Law Review Title</ulink></title>
+Texas Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>23.  Title</title>
-<ulink url="http://ilj.law.indiana.edu/">23. </ulink>
+<title><ulink url="https://www.nls.ac.in/">23.  Title</ulink></title>
+23. 
 </sec1>
 <sec1>
-<title>Indiana Law Journal Title</title>
-<ulink url="http://ilj.law.indiana.edu/">Indiana Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Indiana Law Journal Title</ulink></title>
+Indiana Law Journal
 </sec1>
 - ISSN: 0019-6665
 </para>
@@ -2450,12 +2415,12 @@
 <listitem>
 <para>
 <sec1>
-<title>24.  Title</title>
-<ulink url="http://ndlawreview.org/">24. </ulink>
+<title><ulink url="https://www.nls.ac.in/">24.  Title</ulink></title>
+24. 
 </sec1>
 <sec1>
-<title>Notre Dame Law Review Title</title>
-<ulink url="http://ndlawreview.org/">Notre Dame Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Notre Dame Law Review Title</ulink></title>
+Notre Dame Law Review
 </sec1>
 - ISSN: 0745-3515
 </para>
@@ -2463,12 +2428,12 @@
 <listitem>
 <para>
 <sec1>
-<title>25.  Title</title>
-<ulink url="https://www.yalelawjournal.org/forum">25. </ulink>
+<title><ulink url="https://www.nls.ac.in/">25.  Title</ulink></title>
+25. 
 </sec1>
 <sec1>
-<title>Yale Law Journal Forum Title</title>
-<ulink url="https://www.yalelawjournal.org/forum">Yale Law Journal Forum</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Law Journal Forum Title</ulink></title>
+Yale Law Journal Forum
 </sec1>
 - ISSN: 1939-8611
 </para>
@@ -2476,24 +2441,24 @@
 <listitem>
 <para>
 <sec1>
-<title>26.  Title</title>
-<ulink url="https://lawreview.law.ucdavis.edu/">26. </ulink>
+<title><ulink url="https://www.nls.ac.in/">26.  Title</ulink></title>
+26. 
 </sec1>
 <sec1>
-<title>UC Davis Law Review Title</title>
-<ulink url="https://lawreview.law.ucdavis.edu/">UC Davis Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">UC Davis Law Review Title</ulink></title>
+UC Davis Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>27.  Title</title>
-<ulink url="https://wustllawreview.org/">27. </ulink>
+<title><ulink url="https://www.nls.ac.in/">27.  Title</ulink></title>
+27. 
 </sec1>
 <sec1>
-<title>Washington University Law Review Title</title>
-<ulink url="https://wustllawreview.org/">Washington University Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Washington University Law Review Title</ulink></title>
+Washington University Law Review
 </sec1>
 - ISSN: 2166-7993
 </para>
@@ -2501,12 +2466,12 @@
 <listitem>
 <para>
 <sec1>
-<title>28.  Title</title>
-<ulink url="https://www.yalejreg.com/">28. </ulink>
+<title><ulink url="https://www.nls.ac.in/">28.  Title</ulink></title>
+28. 
 </sec1>
 <sec1>
-<title>Yale Journal on Regulation Title</title>
-<ulink url="https://www.yalejreg.com/">Yale Journal on Regulation</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Journal on Regulation Title</ulink></title>
+Yale Journal on Regulation
 </sec1>
 - ISSN: 0741-9457
 </para>
@@ -2514,12 +2479,12 @@
 <listitem>
 <para>
 <sec1>
-<title>29.  Title</title>
-<ulink url="https://southerncalifornialawreview.com/">29. </ulink>
+<title><ulink url="https://www.nls.ac.in/">29.  Title</ulink></title>
+29. 
 </sec1>
 <sec1>
-<title>Southern California Law Review Title</title>
-<ulink url="https://southerncalifornialawreview.com/">Southern California Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Southern California Law Review Title</ulink></title>
+Southern California Law Review
 </sec1>
 - ISSN: 0038-3910
 </para>
@@ -2527,12 +2492,12 @@
 <listitem>
 <para>
 <sec1>
-<title>30.  Title</title>
-<ulink url="http://www.gwlr.org/">30. </ulink>
+<title><ulink url="https://www.nls.ac.in/">30.  Title</ulink></title>
+30. 
 </sec1>
 <sec1>
-<title>George Washington Law Review Title</title>
-<ulink url="http://www.gwlr.org/">George Washington Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">George Washington Law Review Title</ulink></title>
+George Washington Law Review
 </sec1>
 - ISSN: 0016-8076
 </para>
@@ -2540,24 +2505,24 @@
 <listitem>
 <para>
 <sec1>
-<title>31.  Title</title>
-<ulink url="https://www.illinoislawreview.org/">31. </ulink>
+<title><ulink url="https://www.nls.ac.in/">31.  Title</ulink></title>
+31. 
 </sec1>
 <sec1>
-<title>University of Illinois Law Review Title</title>
-<ulink url="https://www.illinoislawreview.org/">University of Illinois Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Illinois Law Review Title</ulink></title>
+University of Illinois Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>32.  Title</title>
-<ulink url="http://www.floridalawreview.com/">32. </ulink>
+<title><ulink url="https://www.nls.ac.in/">32.  Title</ulink></title>
+32. 
 </sec1>
 <sec1>
-<title>Florida Law Review Title</title>
-<ulink url="http://www.floridalawreview.com/">Florida Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Florida Law Review Title</ulink></title>
+Florida Law Review
 </sec1>
 - ISSN: 1045-4241
 </para>
@@ -2565,12 +2530,12 @@
 <listitem>
 <para>
 <sec1>
-<title>33.  Title</title>
-<ulink url="https://law.stanford.edu/stanford-technology-law-review-stlr/">33. </ulink>
+<title><ulink url="https://www.nls.ac.in/">33.  Title</ulink></title>
+33. 
 </sec1>
 <sec1>
-<title>Stanford Technology Law Review [online] Title</title>
-<ulink url="https://law.stanford.edu/stanford-technology-law-review-stlr/">Stanford Technology Law Review [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">Stanford Technology Law Review [online] Title</ulink></title>
+Stanford Technology Law Review [online]
 </sec1>
 - ISSN: 1098-4267
 </para>
@@ -2578,12 +2543,12 @@
 <listitem>
 <para>
 <sec1>
-<title>34.  Title</title>
-<ulink url="https://asil.org/resources/american-journal-international-law">34. </ulink>
+<title><ulink url="https://www.nls.ac.in/">34.  Title</ulink></title>
+34. 
 </sec1>
 <sec1>
-<title>American Journal of International Law Title</title>
-<ulink url="https://asil.org/resources/american-journal-international-law">American Journal of International Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">American Journal of International Law Title</ulink></title>
+American Journal of International Law
 </sec1>
 - ISSN: 0002-9300
 </para>
@@ -2591,36 +2556,36 @@
 <listitem>
 <para>
 <sec1>
-<title>35.  Title</title>
-<ulink url="https://www.law.uw.edu/wlr">35. </ulink>
+<title><ulink url="https://www.nls.ac.in/">35.  Title</ulink></title>
+35. 
 </sec1>
 <sec1>
-<title>Washington Law Review Title</title>
-<ulink url="https://www.law.uw.edu/wlr">Washington Law Review</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>36.  Title</title>
-<ulink url="https://scholarship.law.wm.edu/wmlr/">36. </ulink>
-</sec1>
-<sec1>
-<title>William & Mary Law Review Title</title>
-<ulink url="https://scholarship.law.wm.edu/wmlr/">William & Mary Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Washington Law Review Title</ulink></title>
+Washington Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>37.  Title</title>
-<ulink url="https://wlr.law.wisc.edu/">37. </ulink>
+<title><ulink url="https://www.nls.ac.in/">36.  Title</ulink></title>
+36. 
 </sec1>
 <sec1>
-<title>Wisconsin Law Review Title</title>
-<ulink url="https://wlr.law.wisc.edu/">Wisconsin Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">William & Mary Law Review Title</ulink></title>
+William & Mary Law Review
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">37.  Title</ulink></title>
+37. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Wisconsin Law Review Title</ulink></title>
+Wisconsin Law Review
 </sec1>
 - ISSN: 0043-650X
 </para>
@@ -2628,12 +2593,12 @@
 <listitem>
 <para>
 <sec1>
-<title>38.  Title</title>
-<ulink url="http://www.cardozolawreview.com/">38. </ulink>
+<title><ulink url="https://www.nls.ac.in/">38.  Title</ulink></title>
+38. 
 </sec1>
 <sec1>
-<title>Cardozo Law Review Title</title>
-<ulink url="http://www.cardozolawreview.com/">Cardozo Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Cardozo Law Review Title</ulink></title>
+Cardozo Law Review
 </sec1>
 - ISSN: 0270-5192
 </para>
@@ -2641,24 +2606,24 @@
 <listitem>
 <para>
 <sec1>
-<title>39.  Title</title>
-<ulink url="https://www.law.uci.edu/lawreview/">39. </ulink>
+<title><ulink url="https://www.nls.ac.in/">39.  Title</ulink></title>
+39. 
 </sec1>
 <sec1>
-<title>U.C. Irvine Law Review Title</title>
-<ulink url="https://www.law.uci.edu/lawreview/">U.C. Irvine Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">U.C. Irvine Law Review Title</ulink></title>
+U.C. Irvine Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>40.  Title</title>
-<ulink url="https://harvardlawreview.org/forum/">40. </ulink>
+<title><ulink url="https://www.nls.ac.in/">40.  Title</ulink></title>
+40. 
 </sec1>
 <sec1>
-<title>Harvard Law Review Forum [online] Title</title>
-<ulink url="https://harvardlawreview.org/forum/">Harvard Law Review Forum [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">Harvard Law Review Forum [online] Title</ulink></title>
+Harvard Law Review Forum [online]
 </sec1>
 - ISSN: 2161-976X
 </para>
@@ -2666,12 +2631,12 @@
 <listitem>
 <para>
 <sec1>
-<title>41.  Title</title>
-<ulink url="https://www.law.ua.edu/lawreview/">41. </ulink>
+<title><ulink url="https://www.nls.ac.in/">41.  Title</ulink></title>
+41. 
 </sec1>
 <sec1>
-<title>Alabama Law Review Title</title>
-<ulink url="https://www.law.ua.edu/lawreview/">Alabama Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Alabama Law Review Title</ulink></title>
+Alabama Law Review
 </sec1>
 - ISSN: 0002-4279
 </para>
@@ -2679,12 +2644,12 @@
 <listitem>
 <para>
 <sec1>
-<title>42.  Title</title>
-<ulink url="http://jolt.law.harvard.edu/">42. </ulink>
+<title><ulink url="https://www.nls.ac.in/">42.  Title</ulink></title>
+42. 
 </sec1>
 <sec1>
-<title>Harvard Journal of Law & Technology Title</title>
-<ulink url="http://jolt.law.harvard.edu/">Harvard Journal of Law & Technology</ulink>
+<title><ulink url="https://www.nls.ac.in/">Harvard Journal of Law & Technology Title</ulink></title>
+Harvard Journal of Law & Technology
 </sec1>
 - ISSN: 0897-3393
 </para>
@@ -2692,12 +2657,12 @@
 <listitem>
 <para>
 <sec1>
-<title>43.  Title</title>
-<ulink url="https://repository.uclawsf.edu/hastings_law_journal/">43. </ulink>
+<title><ulink url="https://www.nls.ac.in/">43.  Title</ulink></title>
+43. 
 </sec1>
 <sec1>
-<title>UC Law Journal (Hastings Law Journal 1949-2023) Title</title>
-<ulink url="https://repository.uclawsf.edu/hastings_law_journal/">UC Law Journal (Hastings Law Journal 1949-2023)</ulink>
+<title><ulink url="https://www.nls.ac.in/">UC Law Journal (Hastings Law Journal 1949-2023) Title</ulink></title>
+UC Law Journal (Hastings Law Journal 1949-2023)
 </sec1>
 - ISSN: 0017-8322
 </para>
@@ -2705,12 +2670,12 @@
 <listitem>
 <para>
 <sec1>
-<title>44.  Title</title>
-<ulink url="https://northcarolinalawreview.org/">44. </ulink>
+<title><ulink url="https://www.nls.ac.in/">44.  Title</ulink></title>
+44. 
 </sec1>
 <sec1>
-<title>North Carolina Law Review Title</title>
-<ulink url="https://northcarolinalawreview.org/">North Carolina Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">North Carolina Law Review Title</ulink></title>
+North Carolina Law Review
 </sec1>
 - ISSN: 0029-2524
 </para>
@@ -2718,12 +2683,12 @@
 <listitem>
 <para>
 <sec1>
-<title>45.  Title</title>
-<ulink url="https://www.law.uchicago.edu/supremecourt/supremecourt.html">45. </ulink>
+<title><ulink url="https://www.nls.ac.in/">45.  Title</ulink></title>
+45. 
 </sec1>
 <sec1>
-<title>Supreme Court Review Title</title>
-<ulink url="https://www.law.uchicago.edu/supremecourt/supremecourt.html">Supreme Court Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Supreme Court Review Title</ulink></title>
+Supreme Court Review
 </sec1>
 - ISSN: 0081-9557
 </para>
@@ -2731,12 +2696,12 @@
 <listitem>
 <para>
 <sec1>
-<title>46.  Title</title>
-<ulink url="https://journals.law.harvard.edu/crcl/">46. </ulink>
+<title><ulink url="https://www.nls.ac.in/">46.  Title</ulink></title>
+46. 
 </sec1>
 <sec1>
-<title>Harvard Civil Rights-Civil Liberties Law Review Title</title>
-<ulink url="https://journals.law.harvard.edu/crcl/">Harvard Civil Rights-Civil Liberties Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Harvard Civil Rights-Civil Liberties Law Review Title</ulink></title>
+Harvard Civil Rights-Civil Liberties Law Review
 </sec1>
 - ISSN: 0017-8039
 </para>
@@ -2744,12 +2709,12 @@
 <listitem>
 <para>
 <sec1>
-<title>47.  Title</title>
-<ulink url="https://jclc.law.northwestern.edu/">47. </ulink>
+<title><ulink url="https://www.nls.ac.in/">47.  Title</ulink></title>
+47. 
 </sec1>
 <sec1>
-<title>Journal of Criminal Law and Criminology Title</title>
-<ulink url="https://jclc.law.northwestern.edu/">Journal of Criminal Law and Criminology</ulink>
+<title><ulink url="https://www.nls.ac.in/">Journal of Criminal Law and Criminology Title</ulink></title>
+Journal of Criminal Law and Criminology
 </sec1>
 - ISSN: 0091-4169
 </para>
@@ -2757,12 +2722,12 @@
 <listitem>
 <para>
 <sec1>
-<title>48.  Title</title>
-<ulink url="http://www.btlj.org/">48. </ulink>
+<title><ulink url="https://www.nls.ac.in/">48.  Title</ulink></title>
+48. 
 </sec1>
 <sec1>
-<title>Berkeley Technology Law Journal Title</title>
-<ulink url="http://www.btlj.org/">Berkeley Technology Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Berkeley Technology Law Journal Title</ulink></title>
+Berkeley Technology Law Journal
 </sec1>
 - ISSN: 1086-3818
 </para>
@@ -2770,12 +2735,12 @@
 <listitem>
 <para>
 <sec1>
-<title>49.  Title</title>
-<ulink url="http://arizonalawreview.org/">49. </ulink>
+<title><ulink url="https://www.nls.ac.in/">49.  Title</ulink></title>
+49. 
 </sec1>
 <sec1>
-<title>Arizona Law Review Title</title>
-<ulink url="http://arizonalawreview.org/">Arizona Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Arizona Law Review Title</ulink></title>
+Arizona Law Review
 </sec1>
 - ISSN: 0004-153X
 </para>
@@ -2783,12 +2748,12 @@
 <listitem>
 <para>
 <sec1>
-<title>50.  Title</title>
-<ulink url="https://moritzlaw.osu.edu/study/journals/oslj-ohio-state-law-journal">50. </ulink>
+<title><ulink url="https://www.nls.ac.in/">50.  Title</ulink></title>
+50. 
 </sec1>
 <sec1>
-<title>Ohio State Law Journal Title</title>
-<ulink url="https://moritzlaw.osu.edu/study/journals/oslj-ohio-state-law-journal">Ohio State Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Ohio State Law Journal Title</ulink></title>
+Ohio State Law Journal
 </sec1>
 - ISSN: 0048-1572
 </para>
@@ -2796,12 +2761,12 @@
 <listitem>
 <para>
 <sec1>
-<title>51.  Title</title>
-<ulink url="https://dc.law.utah.edu/ulr/">51. </ulink>
+<title><ulink url="https://www.nls.ac.in/">51.  Title</ulink></title>
+51. 
 </sec1>
 <sec1>
-<title>Utah Law Review Title</title>
-<ulink url="https://dc.law.utah.edu/ulr/">Utah Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Utah Law Review Title</ulink></title>
+Utah Law Review
 </sec1>
 - ISSN: 0042-1448
 </para>
@@ -2809,12 +2774,12 @@
 <listitem>
 <para>
 <sec1>
-<title>52.  Title</title>
-<ulink url="https://www.georgialawreview.org/">52. </ulink>
+<title><ulink url="https://www.nls.ac.in/">52.  Title</ulink></title>
+52. 
 </sec1>
 <sec1>
-<title>Georgia Law Review Title</title>
-<ulink url="https://www.georgialawreview.org/">Georgia Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Georgia Law Review Title</ulink></title>
+Georgia Law Review
 </sec1>
 - ISSN: 0016-8300
 </para>
@@ -2822,12 +2787,12 @@
 <listitem>
 <para>
 <sec1>
-<title>53.  Title</title>
-<ulink url="https://www.stanfordlawreview.org/online/">53. </ulink>
+<title><ulink url="https://www.nls.ac.in/">53.  Title</ulink></title>
+53. 
 </sec1>
 <sec1>
-<title>Stanford Law Review Online Title</title>
-<ulink url="https://www.stanfordlawreview.org/online/">Stanford Law Review Online</ulink>
+<title><ulink url="https://www.nls.ac.in/">Stanford Law Review Online Title</ulink></title>
+Stanford Law Review Online
 </sec1>
 - ISSN: 1939-8581
 </para>
@@ -2835,12 +2800,12 @@
 <listitem>
 <para>
 <sec1>
-<title>54.  Title</title>
-<ulink url="https://scholarlycommons.law.emory.edu/elj/">54. </ulink>
+<title><ulink url="https://www.nls.ac.in/">54.  Title</ulink></title>
+54. 
 </sec1>
 <sec1>
-<title>Emory Law Journal Title</title>
-<ulink url="https://scholarlycommons.law.emory.edu/elj/">Emory Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Emory Law Journal Title</ulink></title>
+Emory Law Journal
 </sec1>
 - ISSN: 0094-4076
 </para>
@@ -2848,12 +2813,12 @@
 <listitem>
 <para>
 <sec1>
-<title>55.  Title</title>
-<ulink url="http://www.aulawreview.org/">55. </ulink>
+<title><ulink url="https://www.nls.ac.in/">55.  Title</ulink></title>
+55. 
 </sec1>
 <sec1>
-<title>American University Law Review Title</title>
-<ulink url="http://www.aulawreview.org/">American University Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">American University Law Review Title</ulink></title>
+American University Law Review
 </sec1>
 - ISSN: 0003-1453
 </para>
@@ -2861,12 +2826,12 @@
 <listitem>
 <para>
 <sec1>
-<title>56.  Title</title>
-<ulink url="https://law.lclark.edu/law_reviews/lewis_and_clark_law_review/">56. </ulink>
+<title><ulink url="https://www.nls.ac.in/">56.  Title</ulink></title>
+56. 
 </sec1>
 <sec1>
-<title>Lewis & Clark Law Review Title</title>
-<ulink url="https://law.lclark.edu/law_reviews/lewis_and_clark_law_review/">Lewis & Clark Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Lewis & Clark Law Review Title</ulink></title>
+Lewis & Clark Law Review
 </sec1>
 - ISSN: 1557-6582
 </para>
@@ -2874,12 +2839,12 @@
 <listitem>
 <para>
 <sec1>
-<title>57.  Title</title>
-<ulink url="https://www.administrativelawreview.org/">57. </ulink>
+<title><ulink url="https://www.nls.ac.in/">57.  Title</ulink></title>
+57. 
 </sec1>
 <sec1>
-<title>Administrative Law Review Title</title>
-<ulink url="https://www.administrativelawreview.org/">Administrative Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Administrative Law Review Title</ulink></title>
+Administrative Law Review
 </sec1>
 - ISSN: 0001-8368
 </para>
@@ -2887,12 +2852,12 @@
 <listitem>
 <para>
 <sec1>
-<title>58.  Title</title>
-<ulink url="https://digitalcommons.law.byu.edu/lawreview/">58. </ulink>
+<title><ulink url="https://www.nls.ac.in/">58.  Title</ulink></title>
+58. 
 </sec1>
 <sec1>
-<title>Brigham Young University Law Review Title</title>
-<ulink url="https://digitalcommons.law.byu.edu/lawreview/">Brigham Young University Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Brigham Young University Law Review Title</ulink></title>
+Brigham Young University Law Review
 </sec1>
 - ISSN: 0360-151X
 </para>
@@ -2900,12 +2865,12 @@
 <listitem>
 <para>
 <sec1>
-<title>59.  Title</title>
-<ulink url="https://digitalcommons.law.umaryland.edu/mlr/">59. </ulink>
+<title><ulink url="https://www.nls.ac.in/">59.  Title</ulink></title>
+59. 
 </sec1>
 <sec1>
-<title>Maryland Law Review Title</title>
-<ulink url="https://digitalcommons.law.umaryland.edu/mlr/">Maryland Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Maryland Law Review Title</ulink></title>
+Maryland Law Review
 </sec1>
 - ISSN: 0025-4282
 </para>
@@ -2913,12 +2878,12 @@
 <listitem>
 <para>
 <sec1>
-<title>60.  Title</title>
-<ulink url="https://www.harvard-jlpp.com/">60. </ulink>
+<title><ulink url="https://www.nls.ac.in/">60.  Title</ulink></title>
+60. 
 </sec1>
 <sec1>
-<title>Harvard Journal of Law & Public Policy Title</title>
-<ulink url="https://www.harvard-jlpp.com/">Harvard Journal of Law & Public Policy</ulink>
+<title><ulink url="https://www.nls.ac.in/">Harvard Journal of Law & Public Policy Title</ulink></title>
+Harvard Journal of Law & Public Policy
 </sec1>
 - ISSN: 0193-4872
 </para>
@@ -2926,12 +2891,12 @@
 <listitem>
 <para>
 <sec1>
-<title>61.  Title</title>
-<ulink url="http://www.wakeforestlawreview.com/">61. </ulink>
+<title><ulink url="https://www.nls.ac.in/">61.  Title</ulink></title>
+61. 
 </sec1>
 <sec1>
-<title>Wake Forest Law Review Title</title>
-<ulink url="http://www.wakeforestlawreview.com/">Wake Forest Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Wake Forest Law Review Title</ulink></title>
+Wake Forest Law Review
 </sec1>
 - ISSN: 0043-003X
 </para>
@@ -2939,24 +2904,24 @@
 <listitem>
 <para>
 <sec1>
-<title>62.  Title</title>
-<ulink url="https://lawreview.colorado.edu/">62. </ulink>
+<title><ulink url="https://www.nls.ac.in/">62.  Title</ulink></title>
+62. 
 </sec1>
 <sec1>
-<title>University of Colorado Law Review Title</title>
-<ulink url="https://lawreview.colorado.edu/">University of Colorado Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Colorado Law Review Title</ulink></title>
+University of Colorado Law Review
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>63.  Title</title>
-<ulink url="https://onlinelibrary.wiley.com/journal/17441714">63. </ulink>
+<title><ulink url="https://www.nls.ac.in/">63.  Title</ulink></title>
+63. 
 </sec1>
 <sec1>
-<title>American Business Law Journal Title</title>
-<ulink url="https://onlinelibrary.wiley.com/journal/17441714">American Business Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">American Business Law Journal Title</ulink></title>
+American Business Law Journal
 </sec1>
 - ISSN: 0002-7766
 </para>
@@ -2964,12 +2929,12 @@
 <listitem>
 <para>
 <sec1>
-<title>64.  Title</title>
-<ulink url="https://connecticutlawreview.law.uconn.edu/">64. </ulink>
+<title><ulink url="https://www.nls.ac.in/">64.  Title</ulink></title>
+64. 
 </sec1>
 <sec1>
-<title>Connecticut Law Review Title</title>
-<ulink url="https://connecticutlawreview.law.uconn.edu/">Connecticut Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Connecticut Law Review Title</ulink></title>
+Connecticut Law Review
 </sec1>
 - ISSN: 0010-6151
 </para>
@@ -2977,12 +2942,12 @@
 <listitem>
 <para>
 <sec1>
-<title>65.  Title</title>
-<ulink url="https://cblr.columbia.edu/">65. </ulink>
+<title><ulink url="https://www.nls.ac.in/">65.  Title</ulink></title>
+65. 
 </sec1>
 <sec1>
-<title>Columbia Business Law Review Title</title>
-<ulink url="https://cblr.columbia.edu/">Columbia Business Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Columbia Business Law Review Title</ulink></title>
+Columbia Business Law Review
 </sec1>
 - ISSN: 0898-0721
 </para>
@@ -2990,12 +2955,12 @@
 <listitem>
 <para>
 <sec1>
-<title>66.  Title</title>
-<ulink url="http://www.yjolt.org/">66. </ulink>
+<title><ulink url="https://www.nls.ac.in/">66.  Title</ulink></title>
+66. 
 </sec1>
 <sec1>
-<title>Yale Journal of Law & Technology [online] Title</title>
-<ulink url="http://www.yjolt.org/">Yale Journal of Law & Technology [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Journal of Law & Technology [online] Title</ulink></title>
+Yale Journal of Law & Technology [online]
 </sec1>
 - ISSN: 2766-2403
 </para>
@@ -3003,12 +2968,12 @@
 <listitem>
 <para>
 <sec1>
-<title>67.  Title</title>
-<ulink url="https://djclpp.law.duke.edu/">67. </ulink>
+<title><ulink url="https://www.nls.ac.in/">67.  Title</ulink></title>
+67. 
 </sec1>
 <sec1>
-<title>Duke Journal of Constitutional Law & Public Policy Title</title>
-<ulink url="https://djclpp.law.duke.edu/">Duke Journal of Constitutional Law & Public Policy</ulink>
+<title><ulink url="https://www.nls.ac.in/">Duke Journal of Constitutional Law & Public Policy Title</ulink></title>
+Duke Journal of Constitutional Law & Public Policy
 </sec1>
 - ISSN: 1937-9439
 </para>
@@ -3016,12 +2981,12 @@
 <listitem>
 <para>
 <sec1>
-<title>68.  Title</title>
-<ulink url="https://arizonastatelawjournal.org/">68. </ulink>
+<title><ulink url="https://www.nls.ac.in/">68.  Title</ulink></title>
+68. 
 </sec1>
 <sec1>
-<title>Arizona State Law Journal Title</title>
-<ulink url="https://arizonastatelawjournal.org/">Arizona State Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Arizona State Law Journal Title</ulink></title>
+Arizona State Law Journal
 </sec1>
 - ISSN: 0164-4297
 </para>
@@ -3029,12 +2994,12 @@
 <listitem>
 <para>
 <sec1>
-<title>69.  Title</title>
-<ulink url="https://socialchangenyu.com/">69. </ulink>
+<title><ulink url="https://www.nls.ac.in/">69.  Title</ulink></title>
+69. 
 </sec1>
 <sec1>
-<title>New York University Review of Law & Social Change Title</title>
-<ulink url="https://socialchangenyu.com/">New York University Review of Law & Social Change</ulink>
+<title><ulink url="https://www.nls.ac.in/">New York University Review of Law & Social Change Title</ulink></title>
+New York University Review of Law & Social Change
 </sec1>
 - ISSN: 0048-7481
 </para>
@@ -3042,12 +3007,12 @@
 <listitem>
 <para>
 <sec1>
-<title>70.  Title</title>
-<ulink url="https://law.stanford.edu/stanford-journal-of-civil-rights-civil-liberties-sjcrcl/">70. </ulink>
+<title><ulink url="https://www.nls.ac.in/">70.  Title</ulink></title>
+70. 
 </sec1>
 <sec1>
-<title>Stanford Journal of Civil Rights and Civil Liberties Title</title>
-<ulink url="https://law.stanford.edu/stanford-journal-of-civil-rights-civil-liberties-sjcrcl/">Stanford Journal of Civil Rights and Civil Liberties</ulink>
+<title><ulink url="https://www.nls.ac.in/">Stanford Journal of Civil Rights and Civil Liberties Title</ulink></title>
+Stanford Journal of Civil Rights and Civil Liberties
 </sec1>
 - ISSN: 1553-7226
 </para>
@@ -3055,12 +3020,12 @@
 <listitem>
 <para>
 <sec1>
-<title>71.  Title</title>
-<ulink url="https://lawreview.wlulaw.wlu.edu/">71. </ulink>
+<title><ulink url="https://www.nls.ac.in/">71.  Title</ulink></title>
+71. 
 </sec1>
 <sec1>
-<title>Washington and Lee Law Review Title</title>
-<ulink url="https://lawreview.wlulaw.wlu.edu/">Washington and Lee Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Washington and Lee Law Review Title</ulink></title>
+Washington and Lee Law Review
 </sec1>
 - ISSN: 0043-0463
 </para>
@@ -3068,12 +3033,12 @@
 <listitem>
 <para>
 <sec1>
-<title>72.  Title</title>
-<ulink url="https://jcl.law.uiowa.edu/">72. </ulink>
+<title><ulink url="https://www.nls.ac.in/">72.  Title</ulink></title>
+72. 
 </sec1>
 <sec1>
-<title>Journal of Corporation Law Title</title>
-<ulink url="https://jcl.law.uiowa.edu/">Journal of Corporation Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Journal of Corporation Law Title</ulink></title>
+Journal of Corporation Law
 </sec1>
 - ISSN: 0360-795X
 </para>
@@ -3081,12 +3046,12 @@
 <listitem>
 <para>
 <sec1>
-<title>73.  Title</title>
-<ulink url="https://digitalcommons.law.buffalo.edu/buffalolawreview/">73. </ulink>
+<title><ulink url="https://www.nls.ac.in/">73.  Title</ulink></title>
+73. 
 </sec1>
 <sec1>
-<title>Buffalo Law Review Title</title>
-<ulink url="https://digitalcommons.law.buffalo.edu/buffalolawreview/">Buffalo Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Buffalo Law Review Title</ulink></title>
+Buffalo Law Review
 </sec1>
 - ISSN: 0023-9356
 </para>
@@ -3094,12 +3059,12 @@
 <listitem>
 <para>
 <sec1>
-<title>74.  Title</title>
-<ulink url="https://scholar.smu.edu/smulr/">74. </ulink>
+<title><ulink url="https://www.nls.ac.in/">74.  Title</ulink></title>
+74. 
 </sec1>
 <sec1>
-<title>SMU Law Review Title</title>
-<ulink url="https://scholar.smu.edu/smulr/">SMU Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">SMU Law Review Title</ulink></title>
+SMU Law Review
 </sec1>
 - ISSN: 1066-1271
 </para>
@@ -3107,12 +3072,12 @@
 <listitem>
 <para>
 <sec1>
-<title>75.  Title</title>
-<ulink url="https://www.denverlawrev.org/">75. </ulink>
+<title><ulink url="https://www.nls.ac.in/">75.  Title</ulink></title>
+75. 
 </sec1>
 <sec1>
-<title>Denver Law Review Title</title>
-<ulink url="https://www.denverlawrev.org/">Denver Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Denver Law Review Title</ulink></title>
+Denver Law Review
 </sec1>
 - ISSN: 2469-6463
 </para>
@@ -3120,12 +3085,12 @@
 <listitem>
 <para>
 <sec1>
-<title>76.  Title</title>
-<ulink url="https://www.michiganstatelawreview.org/">76. </ulink>
+<title><ulink url="https://www.nls.ac.in/">76.  Title</ulink></title>
+76. 
 </sec1>
 <sec1>
-<title>Michigan State Law Review Title</title>
-<ulink url="https://www.michiganstatelawreview.org/">Michigan State Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Michigan State Law Review Title</ulink></title>
+Michigan State Law Review
 </sec1>
 - ISSN: 1087-5468
 </para>
@@ -3133,12 +3098,12 @@
 <listitem>
 <para>
 <sec1>
-<title>77.  Title</title>
-<ulink url="https://www.yjil.yale.edu/">77. </ulink>
+<title><ulink url="https://www.nls.ac.in/">77.  Title</ulink></title>
+77. 
 </sec1>
 <sec1>
-<title>Yale Journal of International Law Title</title>
-<ulink url="https://www.yjil.yale.edu/">Yale Journal of International Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Journal of International Law Title</ulink></title>
+Yale Journal of International Law
 </sec1>
 - ISSN: 0889-7743
 </para>
@@ -3146,24 +3111,24 @@
 <listitem>
 <para>
 <sec1>
-<title>78.  Title</title>
-<ulink url="https://www.virginialawreview.org/online/">78. </ulink>
+<title><ulink url="https://www.nls.ac.in/">78.  Title</ulink></title>
+78. 
 </sec1>
 <sec1>
-<title>Virginia Law Review Online [online] Title</title>
-<ulink url="https://www.virginialawreview.org/online/">Virginia Law Review Online [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">Virginia Law Review Online [online] Title</ulink></title>
+Virginia Law Review Online [online]
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>79.  Title</title>
-<ulink url="https://www.law.georgetown.edu/american-criminal-law-review/">79. </ulink>
+<title><ulink url="https://www.nls.ac.in/">79.  Title</ulink></title>
+79. 
 </sec1>
 <sec1>
-<title>American Criminal Law Review Title</title>
-<ulink url="https://www.law.georgetown.edu/american-criminal-law-review/">American Criminal Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">American Criminal Law Review Title</ulink></title>
+American Criminal Law Review
 </sec1>
 - ISSN: 0164-0364
 </para>
@@ -3171,12 +3136,12 @@
 <listitem>
 <para>
 <sec1>
-<title>80.  Title</title>
-<ulink url="https://ir.lawnet.fordham.edu/ulj/">80. </ulink>
+<title><ulink url="https://www.nls.ac.in/">80.  Title</ulink></title>
+80. 
 </sec1>
 <sec1>
-<title>Fordham Urban Law Journal Title</title>
-<ulink url="https://ir.lawnet.fordham.edu/ulj/">Fordham Urban Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Fordham Urban Law Journal Title</ulink></title>
+Fordham Urban Law Journal
 </sec1>
 - ISSN: 0199-4646
 </para>
@@ -3184,12 +3149,12 @@
 <listitem>
 <para>
 <sec1>
-<title>81.  Title</title>
-<ulink url="https://lcp.law.duke.edu/">81. </ulink>
+<title><ulink url="https://www.nls.ac.in/">81.  Title</ulink></title>
+81. 
 </sec1>
 <sec1>
-<title>Law and Contemporary Problems Title</title>
-<ulink url="https://lcp.law.duke.edu/">Law and Contemporary Problems</ulink>
+<title><ulink url="https://www.nls.ac.in/">Law and Contemporary Problems Title</ulink></title>
+Law and Contemporary Problems
 </sec1>
 - ISSN: 0023-9186
 </para>
@@ -3197,12 +3162,12 @@
 <listitem>
 <para>
 <sec1>
-<title>82.  Title</title>
-<ulink url="https://journals.law.harvard.edu/jol/">82. </ulink>
+<title><ulink url="https://www.nls.ac.in/">82.  Title</ulink></title>
+82. 
 </sec1>
 <sec1>
-<title>Harvard Journal on Legislation Title</title>
-<ulink url="https://journals.law.harvard.edu/jol/">Harvard Journal on Legislation</ulink>
+<title><ulink url="https://www.nls.ac.in/">Harvard Journal on Legislation Title</ulink></title>
+Harvard Journal on Legislation
 </sec1>
 - ISSN: 0017-808X
 </para>
@@ -3210,12 +3175,12 @@
 <listitem>
 <para>
 <sec1>
-<title>83.  Title</title>
-<ulink url="https://law.unlv.edu/nevada-law-journal">83. </ulink>
+<title><ulink url="https://www.nls.ac.in/">83.  Title</ulink></title>
+83. 
 </sec1>
 <sec1>
-<title>Nevada Law Journal Title</title>
-<ulink url="https://law.unlv.edu/nevada-law-journal">Nevada Law Journal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Nevada Law Journal Title</ulink></title>
+Nevada Law Journal
 </sec1>
 - ISSN: 2157-1899
 </para>
@@ -3223,12 +3188,12 @@
 <listitem>
 <para>
 <sec1>
-<title>84.  Title</title>
-<ulink url="https://yaleconnect.yale.edu/yjhple/home/">84. </ulink>
+<title><ulink url="https://www.nls.ac.in/">84.  Title</ulink></title>
+84. 
 </sec1>
 <sec1>
-<title>Yale Journal of Health Policy, Law, and Ethics Title</title>
-<ulink url="https://yaleconnect.yale.edu/yjhple/home/">Yale Journal of Health Policy, Law, and Ethics</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Journal of Health Policy, Law, and Ethics Title</ulink></title>
+Yale Journal of Health Policy, Law, and Ethics
 </sec1>
 - ISSN: 1535-3532
 </para>
@@ -3236,12 +3201,12 @@
 <listitem>
 <para>
 <sec1>
-<title>85.  Title</title>
-<ulink url="https://scholarship.law.marquette.edu/mulr/">85. </ulink>
+<title><ulink url="https://www.nls.ac.in/">85.  Title</ulink></title>
+85. 
 </sec1>
 <sec1>
-<title>Marquette Law Review Title</title>
-<ulink url="https://scholarship.law.marquette.edu/mulr/">Marquette Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Marquette Law Review Title</ulink></title>
+Marquette Law Review
 </sec1>
 - ISSN: 0025-3987
 </para>
@@ -3249,12 +3214,12 @@
 <listitem>
 <para>
 <sec1>
-<title>86.  Title</title>
-<ulink url="https://www.tulanelawreview.org/">86. </ulink>
+<title><ulink url="https://www.nls.ac.in/">86.  Title</ulink></title>
+86. 
 </sec1>
 <sec1>
-<title>Tulane Law Review Title</title>
-<ulink url="https://www.tulanelawreview.org/">Tulane Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Tulane Law Review Title</ulink></title>
+Tulane Law Review
 </sec1>
 - ISSN: 0041-3992
 </para>
@@ -3262,12 +3227,12 @@
 <listitem>
 <para>
 <sec1>
-<title>87.  Title</title>
-<ulink url="https://www.pennlawreview.com/online/">87. </ulink>
+<title><ulink url="https://www.nls.ac.in/">87.  Title</ulink></title>
+87. 
 </sec1>
 <sec1>
-<title>University of Pennsylvania Law Review Online [online] Title</title>
-<ulink url="https://www.pennlawreview.com/online/">University of Pennsylvania Law Review Online [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Pennsylvania Law Review Online [online] Title</ulink></title>
+University of Pennsylvania Law Review Online [online]
 </sec1>
 - ISSN: 1942-8537
 </para>
@@ -3275,12 +3240,12 @@
 <listitem>
 <para>
 <sec1>
-<title>88.  Title</title>
-<ulink url="https://www.americanbar.org/groups/business_law/publications/the_business_lawyer/">88. </ulink>
+<title><ulink url="https://www.nls.ac.in/">88.  Title</ulink></title>
+88. 
 </sec1>
 <sec1>
-<title>Business Lawyer Title</title>
-<ulink url="https://www.americanbar.org/groups/business_law/publications/the_business_lawyer/">Business Lawyer</ulink>
+<title><ulink url="https://www.nls.ac.in/">Business Lawyer Title</ulink></title>
+Business Lawyer
 </sec1>
 - ISSN: 0007-6899
 </para>
@@ -3288,12 +3253,12 @@
 <listitem>
 <para>
 <sec1>
-<title>89.  Title</title>
-<ulink url="https://academic.oup.com/jla">89. </ulink>
+<title><ulink url="https://www.nls.ac.in/">89.  Title</ulink></title>
+89. 
 </sec1>
 <sec1>
-<title>Journal of Legal Analysis Title</title>
-<ulink url="https://academic.oup.com/jla">Journal of Legal Analysis</ulink>
+<title><ulink url="https://www.nls.ac.in/">Journal of Legal Analysis Title</ulink></title>
+Journal of Legal Analysis
 </sec1>
 - ISSN: 2161-7201
 </para>
@@ -3301,12 +3266,12 @@
 <listitem>
 <para>
 <sec1>
-<title>90.  Title</title>
-<ulink url="https://cjrl.columbia.edu/">90. </ulink>
+<title><ulink url="https://www.nls.ac.in/">90.  Title</ulink></title>
+90. 
 </sec1>
 <sec1>
-<title>Columbia Journal of Race and Law [online] Title</title>
-<ulink url="https://cjrl.columbia.edu/">Columbia Journal of Race and Law [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">Columbia Journal of Race and Law [online] Title</ulink></title>
+Columbia Journal of Race and Law [online]
 </sec1>
 - ISSN: 2155-2401
 </para>
@@ -3314,12 +3279,12 @@
 <listitem>
 <para>
 <sec1>
-<title>91.  Title</title>
-<ulink url="https://law.stanford.edu/stanford-law-policy-review-slpr/">91. </ulink>
+<title><ulink url="https://www.nls.ac.in/">91.  Title</ulink></title>
+91. 
 </sec1>
 <sec1>
-<title>Stanford Law & Policy Review Title</title>
-<ulink url="https://law.stanford.edu/stanford-law-policy-review-slpr/">Stanford Law & Policy Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Stanford Law & Policy Review Title</ulink></title>
+Stanford Law & Policy Review
 </sec1>
 - ISSN: 1044-4386
 </para>
@@ -3327,12 +3292,12 @@
 <listitem>
 <para>
 <sec1>
-<title>92.  Title</title>
-<ulink url="https://mjlr.org/">92. </ulink>
+<title><ulink url="https://www.nls.ac.in/">92.  Title</ulink></title>
+92. 
 </sec1>
 <sec1>
-<title>University of Michigan Journal of Law Reform Title</title>
-<ulink url="https://mjlr.org/">University of Michigan Journal of Law Reform</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Michigan Journal of Law Reform Title</ulink></title>
+University of Michigan Journal of Law Reform
 </sec1>
 - ISSN: 0033-1546
 </para>
@@ -3340,24 +3305,24 @@
 <listitem>
 <para>
 <sec1>
-<title>93.  Title</title>
-<ulink url="https://www.law.georgetown.edu/georgetown-law-journal/glj-online/">93. </ulink>
+<title><ulink url="https://www.nls.ac.in/">93.  Title</ulink></title>
+93. 
 </sec1>
 <sec1>
-<title>Georgetown Law Journal Online [online] Title</title>
-<ulink url="https://www.law.georgetown.edu/georgetown-law-journal/glj-online/">Georgetown Law Journal Online [online]</ulink>
+<title><ulink url="https://www.nls.ac.in/">Georgetown Law Journal Online [online] Title</ulink></title>
+Georgetown Law Journal Online [online]
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>94.  Title</title>
-<ulink url="https://www.cato.org/search/category/reviews-journals+supreme-court-review/type/serial-issue">94. </ulink>
+<title><ulink url="https://www.nls.ac.in/">94.  Title</ulink></title>
+94. 
 </sec1>
 <sec1>
-<title>Cato Supreme Court Review Title</title>
-<ulink url="https://www.cato.org/search/category/reviews-journals+supreme-court-review/type/serial-issue">Cato Supreme Court Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Cato Supreme Court Review Title</ulink></title>
+Cato Supreme Court Review
 </sec1>
 - ISSN: 1936-0398
 </para>
@@ -3365,12 +3330,12 @@
 <listitem>
 <para>
 <sec1>
-<title>95.  Title</title>
-<ulink url="https://scholarship.law.unc.edu/ncjolt/">95. </ulink>
+<title><ulink url="https://www.nls.ac.in/">95.  Title</ulink></title>
+95. 
 </sec1>
 <sec1>
-<title>North Carolina Journal of Law & Technology Title</title>
-<ulink url="https://scholarship.law.unc.edu/ncjolt/">North Carolina Journal of Law & Technology</ulink>
+<title><ulink url="https://www.nls.ac.in/">North Carolina Journal of Law & Technology Title</ulink></title>
+North Carolina Journal of Law & Technology
 </sec1>
 - ISSN: 1542-5177
 </para>
@@ -3378,12 +3343,12 @@
 <listitem>
 <para>
 <sec1>
-<title>96.  Title</title>
-<ulink url="https://www.law.upenn.edu/journals/jbl/">96. </ulink>
+<title><ulink url="https://www.nls.ac.in/">96.  Title</ulink></title>
+96. 
 </sec1>
 <sec1>
-<title>University of Pennsylvania Journal of Business Law Title</title>
-<ulink url="https://www.law.upenn.edu/journals/jbl/">University of Pennsylvania Journal of Business Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">University of Pennsylvania Journal of Business Law Title</ulink></title>
+University of Pennsylvania Journal of Business Law
 </sec1>
 - ISSN: 1940-8064
 </para>
@@ -3391,12 +3356,12 @@
 <listitem>
 <para>
 <sec1>
-<title>97.  Title</title>
-<ulink url="http://www.cunylawreview.org/">97. </ulink>
+<title><ulink url="https://www.nls.ac.in/">97.  Title</ulink></title>
+97. 
 </sec1>
 <sec1>
-<title>City University of New York (CUNY) Law Review Title</title>
-<ulink url="http://www.cunylawreview.org/">City University of New York (CUNY) Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">City University of New York (CUNY) Law Review Title</ulink></title>
+City University of New York (CUNY) Law Review
 </sec1>
 - ISSN: 2572-7796
 </para>
@@ -3404,12 +3369,12 @@
 <listitem>
 <para>
 <sec1>
-<title>98.  Title</title>
-<ulink url="https://ylpr.yale.edu/">98. </ulink>
+<title><ulink url="https://www.nls.ac.in/">98.  Title</ulink></title>
+98. 
 </sec1>
 <sec1>
-<title>Yale Law & Policy Review Title</title>
-<ulink url="https://ylpr.yale.edu/">Yale Law & Policy Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Yale Law & Policy Review Title</ulink></title>
+Yale Law & Policy Review
 </sec1>
 - ISSN: 0740-8048
 </para>
@@ -3417,12 +3382,12 @@
 <listitem>
 <para>
 <sec1>
-<title>99.  Title</title>
-<ulink url="https://brooklynworks.brooklaw.edu/blr/">99. </ulink>
+<title><ulink url="https://www.nls.ac.in/">99.  Title</ulink></title>
+99. 
 </sec1>
 <sec1>
-<title>Brooklyn Law Review Title</title>
-<ulink url="https://brooklynworks.brooklaw.edu/blr/">Brooklyn Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Brooklyn Law Review Title</ulink></title>
+Brooklyn Law Review
 </sec1>
 - ISSN: 0007-2362
 </para>
@@ -3430,12 +3395,12 @@
 <listitem>
 <para>
 <sec1>
-<title>100.  Title</title>
-<ulink url="https://scholarship.shu.edu/shlr/">100. </ulink>
+<title><ulink url="https://www.nls.ac.in/">100.  Title</ulink></title>
+100. 
 </sec1>
 <sec1>
-<title>Seton Hall Law Review Title</title>
-<ulink url="https://scholarship.shu.edu/shlr/">Seton Hall Law Review</ulink>
+<title><ulink url="https://www.nls.ac.in/">Seton Hall Law Review Title</ulink></title>
+Seton Hall Law Review
 </sec1>
 - ISSN: 0586-5964
 </para>
@@ -3446,276 +3411,276 @@
 <para>
 <anchor id="link-list2"/>
 <sec1>
-<title>1.  Title</title>
-<ulink url="http://supremecourtofindia.nic.in/">1. </ulink>
+<title><ulink url="https://www.nls.ac.in/">1.  Title</ulink></title>
+1. 
 </sec1>
 <sec1>
-<title>Supreme Court of India Title</title>
-<ulink url="http://supremecourtofindia.nic.in/">Supreme Court of India</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>2.  Title</title>
-<ulink url="http://www.allahabadhighcourt.in/">2. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Allahabad Title</title>
-<ulink url="http://www.allahabadhighcourt.in/">High Court of Allahabad</ulink>
+<title><ulink url="https://www.nls.ac.in/">Supreme Court of India Title</ulink></title>
+Supreme Court of India
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>3.  Title</title>
-<ulink url="https://aphc.gov.in/">3. </ulink>
+<title><ulink url="https://www.nls.ac.in/">2.  Title</ulink></title>
+2. 
 </sec1>
 <sec1>
-<title>High Court of Andhra Pradesh Title</title>
-<ulink url="https://aphc.gov.in/">High Court of Andhra Pradesh</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>4.  Title</title>
-<ulink url="http://bombayhighcourt.nic.in/">4. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Bombay Title</title>
-<ulink url="http://bombayhighcourt.nic.in/">High Court of Bombay</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Allahabad Title</ulink></title>
+High Court of Allahabad
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>5.  Title</title>
-<ulink url="http://www.hcbombayatgoa.nic.in/">5. </ulink>
+<title><ulink url="https://www.nls.ac.in/">3.  Title</ulink></title>
+3. 
 </sec1>
 <sec1>
-<title>High Court of Bombay at goa Title</title>
-<ulink url="http://www.hcbombayatgoa.nic.in/">High Court of Bombay at goa</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>6.  Title</title>
-<ulink url="https://www.calcuttahighcourt.gov.in/">6. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Calcutta Title</title>
-<ulink url="https://www.calcuttahighcourt.gov.in/">High Court of Calcutta</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Andhra Pradesh Title</ulink></title>
+High Court of Andhra Pradesh
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>7.  Title</title>
-<ulink url="https://highcourt.cg.gov.in/">7. </ulink>
+<title><ulink url="https://www.nls.ac.in/">4.  Title</ulink></title>
+4. 
 </sec1>
 <sec1>
-<title>High Court of Chhattisgarh Title</title>
-<ulink url="https://highcourt.cg.gov.in/">High Court of Chhattisgarh</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>8.  Title</title>
-<ulink url="http://delhihighcourt.nic.in/">8. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Delhi Title</title>
-<ulink url="http://delhihighcourt.nic.in/">High Court of Delhi</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Bombay Title</ulink></title>
+High Court of Bombay
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>9.  Title</title>
-<ulink url="https://ghconline.gov.in/">9. </ulink>
+<title><ulink url="https://www.nls.ac.in/">5.  Title</ulink></title>
+5. 
 </sec1>
 <sec1>
-<title>High Court of Gauhati Title</title>
-<ulink url="https://ghconline.gov.in/">High Court of Gauhati</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>10.  Title</title>
-<ulink url="http://gujarathighcourt.nic.in/index.asp">10. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Gujarat Title</title>
-<ulink url="http://gujarathighcourt.nic.in/index.asp">High Court of Gujarat</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Bombay at goa Title</ulink></title>
+High Court of Bombay at goa
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>11.  Title</title>
-<ulink url="http://hphighcourt.nic.in/">11. </ulink>
+<title><ulink url="https://www.nls.ac.in/">6.  Title</ulink></title>
+6. 
 </sec1>
 <sec1>
-<title>High Court of Himachal Pradesh Title</title>
-<ulink url="http://hphighcourt.nic.in/">High Court of Himachal Pradesh</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>12.  Title</title>
-<ulink url="http://www.jkhighcourt.nic.in/">12. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Jammu & Kashmir Title</title>
-<ulink url="http://www.jkhighcourt.nic.in/">High Court of Jammu & Kashmir</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Calcutta Title</ulink></title>
+High Court of Calcutta
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>13.  Title</title>
-<ulink url="http://www.jharkhandhighcourt.nic.in/">13. </ulink>
+<title><ulink url="https://www.nls.ac.in/">7.  Title</ulink></title>
+7. 
 </sec1>
 <sec1>
-<title>High Court of Jharkhand Title</title>
-<ulink url="http://www.jharkhandhighcourt.nic.in/">High Court of Jharkhand</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>14.  Title</title>
-<ulink url="http://karnatakajudiciary.kar.nic.in/">14. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Karnataka Title</title>
-<ulink url="http://karnatakajudiciary.kar.nic.in/">High Court of Karnataka</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Chhattisgarh Title</ulink></title>
+High Court of Chhattisgarh
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>15.  Title</title>
-<ulink url="https://highcourt.kerala.gov.in/">15. </ulink>
+<title><ulink url="https://www.nls.ac.in/">8.  Title</ulink></title>
+8. 
 </sec1>
 <sec1>
-<title>High Court of Kerala Title</title>
-<ulink url="https://highcourt.kerala.gov.in/">High Court of Kerala</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>16.  Title</title>
-<ulink url="https://hcmadras.tn.gov.in/">16. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Madras Title</title>
-<ulink url="https://hcmadras.tn.gov.in/">High Court of Madras</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Delhi Title</ulink></title>
+High Court of Delhi
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>17.  Title</title>
-<ulink url="https://mphc.gov.in//">17. </ulink>
+<title><ulink url="https://www.nls.ac.in/">9.  Title</ulink></title>
+9. 
 </sec1>
 <sec1>
-<title>High Court of Madya Pradesh  Title</title>
-<ulink url="https://mphc.gov.in//">High Court of Madya Pradesh </ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>18.  Title</title>
-<ulink url="https://www.orissahighcourt.nic.in/">18. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Orissa Title</title>
-<ulink url="https://www.orissahighcourt.nic.in/">High Court of Orissa</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Gauhati Title</ulink></title>
+High Court of Gauhati
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>19.  Title</title>
-<ulink url="https://patnahighcourt.gov.in/">19. </ulink>
+<title><ulink url="https://www.nls.ac.in/">10.  Title</ulink></title>
+10. 
 </sec1>
 <sec1>
-<title>High Court of Patna Title</title>
-<ulink url="https://patnahighcourt.gov.in/">High Court of Patna</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>20.  Title</title>
-<ulink url="http://highcourtchd.gov.in/">20. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Punjab & Haryana Title</title>
-<ulink url="http://highcourtchd.gov.in/">High Court of Punjab & Haryana</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Gujarat Title</ulink></title>
+High Court of Gujarat
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>21.  Title</title>
-<ulink url="https://hcraj.nic.in/">21. </ulink>
+<title><ulink url="https://www.nls.ac.in/">11.  Title</ulink></title>
+11. 
 </sec1>
 <sec1>
-<title>High Court of Rajasthan Title</title>
-<ulink url="https://hcraj.nic.in/">High Court of Rajasthan</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>22.  Title</title>
-<ulink url="https://hcs.gov.in/">22. </ulink>
-</sec1>
-<sec1>
-<title>High Court of Sikkim Title</title>
-<ulink url="https://hcs.gov.in/">High Court of Sikkim</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Himachal Pradesh Title</ulink></title>
+High Court of Himachal Pradesh
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>23.  Title</title>
-<ulink url="http://highcourtofuttarakhand.gov.in/">23. </ulink>
+<title><ulink url="https://www.nls.ac.in/">12.  Title</ulink></title>
+12. 
 </sec1>
 <sec1>
-<title>High Court of Uttaranchal Title</title>
-<ulink url="http://highcourtofuttarakhand.gov.in/">High Court of Uttaranchal</ulink>
+<title><ulink url="https://www.nls.ac.in/">High Court of Jammu & Kashmir Title</ulink></title>
+High Court of Jammu & Kashmir
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">13.  Title</ulink></title>
+13. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Jharkhand Title</ulink></title>
+High Court of Jharkhand
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">14.  Title</ulink></title>
+14. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Karnataka Title</ulink></title>
+High Court of Karnataka
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">15.  Title</ulink></title>
+15. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Kerala Title</ulink></title>
+High Court of Kerala
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">16.  Title</ulink></title>
+16. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Madras Title</ulink></title>
+High Court of Madras
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">17.  Title</ulink></title>
+17. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Madya Pradesh  Title</ulink></title>
+High Court of Madya Pradesh 
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">18.  Title</ulink></title>
+18. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Orissa Title</ulink></title>
+High Court of Orissa
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">19.  Title</ulink></title>
+19. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Patna Title</ulink></title>
+High Court of Patna
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">20.  Title</ulink></title>
+20. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Punjab & Haryana Title</ulink></title>
+High Court of Punjab & Haryana
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">21.  Title</ulink></title>
+21. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Rajasthan Title</ulink></title>
+High Court of Rajasthan
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">22.  Title</ulink></title>
+22. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Sikkim Title</ulink></title>
+High Court of Sikkim
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">23.  Title</ulink></title>
+23. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">High Court of Uttaranchal Title</ulink></title>
+High Court of Uttaranchal
 </sec1>
 </para>
 </listitem>
@@ -3728,72 +3693,72 @@ Other Courts & Tribunal
 <listitem>
 <para>
 <sec1>
-<title>24.  Title</title>
-<ulink url="http://cgat.gov.in/">24. </ulink>
+<title><ulink url="https://www.nls.ac.in/">24.  Title</ulink></title>
+24. 
 </sec1>
 <sec1>
-<title>Central Administrative Tribunal (CAT) Title</title>
-<ulink url="http://cgat.gov.in/">Central Administrative Tribunal (CAT)</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>25.  Title</title>
-<ulink url="http://clb.gov.in/default.html">25. </ulink>
-</sec1>
-<sec1>
-<title>Company Law Board Title</title>
-<ulink url="http://clb.gov.in/default.html">Company Law Board</ulink>
+<title><ulink url="https://www.nls.ac.in/">Central Administrative Tribunal (CAT) Title</ulink></title>
+Central Administrative Tribunal (CAT)
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>26.  Title</title>
-<ulink url="http://cestat.gov.in/">26. </ulink>
+<title><ulink url="https://www.nls.ac.in/">25.  Title</ulink></title>
+25. 
 </sec1>
 <sec1>
-<title>Customs, Excise and Service Tax Appellate Tribunal (CESTAT) Title</title>
-<ulink url="http://cestat.gov.in/">Customs, Excise and Service Tax Appellate Tribunal (CESTAT)</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>27.  Title</title>
-<ulink url="http://itat.nic.in/">27. </ulink>
-</sec1>
-<sec1>
-<title>Income Tax Appellate Tribunal (ITAT) Title</title>
-<ulink url="http://itat.nic.in/">Income Tax Appellate Tribunal (ITAT)</ulink>
+<title><ulink url="https://www.nls.ac.in/">Company Law Board Title</ulink></title>
+Company Law Board
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>28.  Title</title>
-<ulink url="https://drt.gov.in/">28. </ulink>
+<title><ulink url="https://www.nls.ac.in/">26.  Title</ulink></title>
+26. 
 </sec1>
 <sec1>
-<title>Debt Recovery Tribunals (DRTs)  Title</title>
-<ulink url="https://drt.gov.in/">Debt Recovery Tribunals (DRTs) </ulink>
+<title><ulink url="https://www.nls.ac.in/">Customs, Excise and Service Tax Appellate Tribunal (CESTAT) Title</ulink></title>
+Customs, Excise and Service Tax Appellate Tribunal (CESTAT)
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>29.  Title</title>
-<ulink url="https://nclt.gov.in/national-company-law-tribunal-benches">29. </ulink>
+<title><ulink url="https://www.nls.ac.in/">27.  Title</ulink></title>
+27. 
 </sec1>
 <sec1>
-<title>National Company Law Tribunal Benches  Title</title>
-<ulink url="https://nclt.gov.in/national-company-law-tribunal-benches">National Company Law Tribunal Benches </ulink>
+<title><ulink url="https://www.nls.ac.in/">Income Tax Appellate Tribunal (ITAT) Title</ulink></title>
+Income Tax Appellate Tribunal (ITAT)
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">28.  Title</ulink></title>
+28. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Debt Recovery Tribunals (DRTs)  Title</ulink></title>
+Debt Recovery Tribunals (DRTs) 
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">29.  Title</ulink></title>
+29. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">National Company Law Tribunal Benches  Title</ulink></title>
+National Company Law Tribunal Benches 
 </sec1>
 </para>
 </listitem>
@@ -3803,24 +3768,24 @@ Other Courts & Tribunal
 <para>
 <anchor id="link-list3"/>
 <sec1>
-<title>1. Title</title>
-<ulink url="https://www.allahabadhighcourt.in/">1.</ulink>
+<title><ulink url="https://www.nls.ac.in/">1. Title</ulink></title>
+1.
 </sec1>
 <sec1>
-<title> Allahabad High Court Title</title>
-<ulink url="https://www.allahabadhighcourt.in/"> Allahabad High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Allahabad High Court Title</ulink></title>
+ Allahabad High Court
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>2. Title</title>
-<ulink url="https://aphc.gov.in/">2.</ulink>
+<title><ulink url="https://www.nls.ac.in/">2. Title</ulink></title>
+2.
 </sec1>
 <sec1>
-<title> Andhra Pradesh High Court Title</title>
-<ulink url="https://aphc.gov.in/"> Andhra Pradesh High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Andhra Pradesh High Court Title</ulink></title>
+ Andhra Pradesh High Court
 </sec1>
 <note>
 <remark>Updated URL</remark>
@@ -3830,36 +3795,36 @@ Other Courts & Tribunal
 <listitem>
 <para>
 <sec1>
-<title>3. Title</title>
-<ulink url="https://www.barcouncilofindia.org/">3.</ulink>
+<title><ulink url="https://www.nls.ac.in/">3. Title</ulink></title>
+3.
 </sec1>
 <sec1>
-<title> Bar Council of India Title</title>
-<ulink url="https://www.barcouncilofindia.org/"> Bar Council of India</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>4. Title</title>
-<ulink url="https://bombayhighcourt.nic.in/">4.</ulink>
-</sec1>
-<sec1>
-<title> Bombay High Court Title</title>
-<ulink url="https://bombayhighcourt.nic.in/"> Bombay High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Bar Council of India Title</ulink></title>
+ Bar Council of India
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>5. Title</title>
-<ulink url="https://www.calcuttahighcourt.gov.in/">5.</ulink>
+<title><ulink url="https://www.nls.ac.in/">4. Title</ulink></title>
+4.
 </sec1>
 <sec1>
-<title> Calcutta High Court Title</title>
-<ulink url="https://www.calcuttahighcourt.gov.in/"> Calcutta High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Bombay High Court Title</ulink></title>
+ Bombay High Court
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">5. Title</ulink></title>
+5.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/"> Calcutta High Court Title</ulink></title>
+ Calcutta High Court
 </sec1>
 <note>
 <remark>Updated URL</remark>
@@ -3869,48 +3834,48 @@ Other Courts & Tribunal
 <listitem>
 <para>
 <sec1>
-<title>6. Title</title>
-<ulink url="https://delhihighcourt.nic.in/">6.</ulink>
+<title><ulink url="https://www.nls.ac.in/">6. Title</ulink></title>
+6.
 </sec1>
 <sec1>
-<title> Delhi High Court Title</title>
-<ulink url="https://delhihighcourt.nic.in/"> Delhi High Court</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>7. Title</title>
-<ulink url="https://gujarathighcourt.nic.in/">7.</ulink>
-</sec1>
-<sec1>
-<title> Gujarat High Court Title</title>
-<ulink url="https://gujarathighcourt.nic.in/"> Gujarat High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Delhi High Court Title</ulink></title>
+ Delhi High Court
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>8. Title</title>
-<ulink url="https://hphighcourt.nic.in/">8.</ulink>
+<title><ulink url="https://www.nls.ac.in/">7. Title</ulink></title>
+7.
 </sec1>
 <sec1>
-<title> Himachal Pradesh High Court Title</title>
-<ulink url="https://hphighcourt.nic.in/"> Himachal Pradesh High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Gujarat High Court Title</ulink></title>
+ Gujarat High Court
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>9. Title</title>
-<ulink url="https://orissahighcourt.nic.in/">9.</ulink>
+<title><ulink url="https://www.nls.ac.in/">8. Title</ulink></title>
+8.
 </sec1>
 <sec1>
-<title> Orissa High Court Title</title>
-<ulink url="https://orissahighcourt.nic.in/"> Orissa High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Himachal Pradesh High Court Title</ulink></title>
+ Himachal Pradesh High Court
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">9. Title</ulink></title>
+9.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/"> Orissa High Court Title</ulink></title>
+ Orissa High Court
 </sec1>
 <note>
 <remark>Updated URL</remark>
@@ -3920,60 +3885,60 @@ Other Courts & Tribunal
 <listitem>
 <para>
 <sec1>
-<title>10. Title</title>
-<ulink url="https://highcourtchd.gov.in/">10.</ulink>
+<title><ulink url="https://www.nls.ac.in/">10. Title</ulink></title>
+10.
 </sec1>
 <sec1>
-<title> Punjab and Haryana High Court Title</title>
-<ulink url="https://highcourtchd.gov.in/"> Punjab and Haryana High Court</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>11. Title</title>
-<ulink url="https://www.indiacode.nic.in/">11.</ulink>
-</sec1>
-<sec1>
-<title> India Code Title</title>
-<ulink url="https://www.indiacode.nic.in/"> India Code</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Punjab and Haryana High Court Title</ulink></title>
+ Punjab and Haryana High Court
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>12. Title</title>
-<ulink url="https://jharkhandhighcourt.nic.in/">12.</ulink>
+<title><ulink url="https://www.nls.ac.in/">11. Title</ulink></title>
+11.
 </sec1>
 <sec1>
-<title> Jharkhand High Court Title</title>
-<ulink url="https://jharkhandhighcourt.nic.in/"> Jharkhand High Court</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>13. Title</title>
-<ulink url="https://karnatakajudiciary.kar.nic.in/">13.</ulink>
-</sec1>
-<sec1>
-<title> Karnataka High Court Title</title>
-<ulink url="https://karnatakajudiciary.kar.nic.in/"> Karnataka High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> India Code Title</ulink></title>
+ India Code
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>14. Title</title>
-<ulink url="https://highcourt.kerala.gov.in/">14.</ulink>
+<title><ulink url="https://www.nls.ac.in/">12. Title</ulink></title>
+12.
 </sec1>
 <sec1>
-<title> Kerala High Court Title</title>
-<ulink url="https://highcourt.kerala.gov.in/"> Kerala High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Jharkhand High Court Title</ulink></title>
+ Jharkhand High Court
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">13. Title</ulink></title>
+13.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/"> Karnataka High Court Title</ulink></title>
+ Karnataka High Court
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">14. Title</ulink></title>
+14.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/"> Kerala High Court Title</ulink></title>
+ Kerala High Court
 </sec1>
 <note>
 <remark>Updated URL</remark>
@@ -3983,48 +3948,48 @@ Other Courts & Tribunal
 <listitem>
 <para>
 <sec1>
-<title>15. Title</title>
-<ulink url="https://lawcommissionofindia.nic.in/">15.</ulink>
+<title><ulink url="https://www.nls.ac.in/">15. Title</ulink></title>
+15.
 </sec1>
 <sec1>
-<title> Law Commission of India Title</title>
-<ulink url="https://lawcommissionofindia.nic.in/"> Law Commission of India</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>16. Title</title>
-<ulink url="https://lawmin.gov.in/">16.</ulink>
-</sec1>
-<sec1>
-<title>. Ministry of Law and Justice Title</title>
-<ulink url="https://lawmin.gov.in/">. Ministry of Law and Justice</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Law Commission of India Title</ulink></title>
+ Law Commission of India
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>17. Title</title>
-<ulink url="https://legislative.gov.in/">17.</ulink>
+<title><ulink url="https://www.nls.ac.in/">16. Title</ulink></title>
+16.
 </sec1>
 <sec1>
-<title> Legislative Department Title</title>
-<ulink url="https://legislative.gov.in/"> Legislative Department</ulink>
+<title><ulink url="https://www.nls.ac.in/">. Ministry of Law and Justice Title</ulink></title>
+. Ministry of Law and Justice
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>18. Title</title>
-<ulink url="https://www.mhc.tn.gov.in/">18.</ulink>
+<title><ulink url="https://www.nls.ac.in/">17. Title</ulink></title>
+17.
 </sec1>
 <sec1>
-<title>Madras High Court Title</title>
-<ulink url="https://www.mhc.tn.gov.in/">Madras High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/"> Legislative Department Title</ulink></title>
+ Legislative Department
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">18. Title</ulink></title>
+18.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Madras High Court Title</ulink></title>
+Madras High Court
 </sec1>
 <note>
 <remark>Updated URL</remark>
@@ -4034,60 +3999,60 @@ Other Courts & Tribunal
 <listitem>
 <para>
 <sec1>
-<title>19. Title</title>
-<ulink url="https://mphc.gov.in/">19.</ulink>
+<title><ulink url="https://www.nls.ac.in/">19. Title</ulink></title>
+19.
 </sec1>
 <sec1>
-<title>Madhya Pradesh High Court Title</title>
-<ulink url="https://mphc.gov.in/">Madhya Pradesh High Court</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>20. Title</title>
-<ulink url="https://patnahighcourt.gov.in/">20.</ulink>
-</sec1>
-<sec1>
-<title>Patna High Court Title</title>
-<ulink url="https://patnahighcourt.gov.in/">Patna High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/">Madhya Pradesh High Court Title</ulink></title>
+Madhya Pradesh High Court
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>21. Title</title>
-<ulink url="https://hcraj.nic.in/">21.</ulink>
+<title><ulink url="https://www.nls.ac.in/">20. Title</ulink></title>
+20.
 </sec1>
 <sec1>
-<title>Rajasthan High Court Title</title>
-<ulink url="https://hcraj.nic.in/">Rajasthan High Court</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>22. Title</title>
-<ulink url="https://main.sci.gov.in/">22.</ulink>
-</sec1>
-<sec1>
-<title>Supreme Court of India Title</title>
-<ulink url="https://main.sci.gov.in/">Supreme Court of India</ulink>
+<title><ulink url="https://www.nls.ac.in/">Patna High Court Title</ulink></title>
+Patna High Court
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>23. Title</title>
-<ulink url="https://tshc.gov.in/">23.</ulink>
+<title><ulink url="https://www.nls.ac.in/">21. Title</ulink></title>
+21.
 </sec1>
 <sec1>
-<title>Telangana High Court Title</title>
-<ulink url="https://tshc.gov.in/">Telangana High Court</ulink>
+<title><ulink url="https://www.nls.ac.in/">Rajasthan High Court Title</ulink></title>
+Rajasthan High Court
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">22. Title</ulink></title>
+22.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Supreme Court of India Title</ulink></title>
+Supreme Court of India
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">23. Title</ulink></title>
+23.
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Telangana High Court Title</ulink></title>
+Telangana High Court
 </sec1>
 <note>
 <remark>Updated URL</remark>
@@ -4100,540 +4065,540 @@ Other Courts & Tribunal
 <para>
 <anchor id="link-list4"/>
 <sec1>
-<title>1.  Title</title>
-<ulink url="https://www.saflii.org/%22">1. </ulink>
+<title><ulink url="https://www.nls.ac.in/">1.  Title</ulink></title>
+1. 
 </sec1>
 <sec1>
-<title>AfricanLII - African Legal Information Institute Title</title>
-<ulink url="https://www.saflii.org/%22">AfricanLII - African Legal Information Institute</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>2.  Title</title>
-<ulink url="http://www.asianlii.org/">2. </ulink>
-</sec1>
-<sec1>
-<title>AsianLII - Asian Legal Information Institute Title</title>
-<ulink url="http://www.asianlii.org/">AsianLII - Asian Legal Information Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">AfricanLII - African Legal Information Institute Title</ulink></title>
+AfricanLII - African Legal Information Institute
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>3.  Title</title>
-<ulink url="https://www.austlii.edu.au/">3. </ulink>
+<title><ulink url="https://www.nls.ac.in/">2.  Title</ulink></title>
+2. 
 </sec1>
 <sec1>
-<title>AustLII - Australasian Legal Information Institute Title</title>
-<ulink url="https://www.austlii.edu.au/">AustLII - Australasian Legal Information Institute</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>4.  Title</title>
-<ulink url="https://www.bailii.org/">4. </ulink>
-</sec1>
-<sec1>
-<title>BAILII - British and Irish Legal Information Institute Title</title>
-<ulink url="https://www.bailii.org/">BAILII - British and Irish Legal Information Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">AsianLII - Asian Legal Information Institute Title</ulink></title>
+AsianLII - Asian Legal Information Institute
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>5.  Title</title>
-<ulink url="https://www.bgbl.de/">5. </ulink>
+<title><ulink url="https://www.nls.ac.in/">3.  Title</ulink></title>
+3. 
 </sec1>
 <sec1>
-<title>Germany - Federal Law Gazette Title</title>
-<ulink url="https://www.bgbl.de/">Germany - Federal Law Gazette</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>6.  Title</title>
-<ulink url="https://www.chinalaw.gov.cn/">6. </ulink>
-</sec1>
-<sec1>
-<title>China - China Law Title</title>
-<ulink url="https://www.chinalaw.gov.cn/">China - China Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">AustLII - Australasian Legal Information Institute Title</ulink></title>
+AustLII - Australasian Legal Information Institute
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>7.  Title</title>
-<ulink url="https://libguides.ials.sas.ac.uk/az/commonlii-commonwealth-legal-information-institute">7. </ulink>
+<title><ulink url="https://www.nls.ac.in/">4.  Title</ulink></title>
+4. 
 </sec1>
 <sec1>
-<title>CommonLII - Commonwealth Legal Information Institute Title</title>
-<ulink url="https://libguides.ials.sas.ac.uk/az/commonlii-commonwealth-legal-information-institute">CommonLII - Commonwealth Legal Information Institute</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>8.  Title</title>
-<ulink url="https://www.coe.int/en/web/human-rights-rule-of-law">8. </ulink>
-</sec1>
-<sec1>
-<title>Council of Europe - Human Rights and Rule of Law Title</title>
-<ulink url="https://www.coe.int/en/web/human-rights-rule-of-law">Council of Europe - Human Rights and Rule of Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">BAILII - British and Irish Legal Information Institute Title</ulink></title>
+BAILII - British and Irish Legal Information Institute
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>9.  Title</title>
-<ulink url="https://www.judiciary.go.ke/">9. </ulink>
+<title><ulink url="https://www.nls.ac.in/">5.  Title</ulink></title>
+5. 
 </sec1>
 <sec1>
-<title>Kenyan Courts - Kenyan Laws Title</title>
-<ulink url="https://www.judiciary.go.ke/">Kenyan Courts - Kenyan Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>10 . Title</title>
-<ulink url="https://www.learnnigerianlaw.com/learn/legal-system/introduction">10 .</ulink>
-</sec1>
-<sec1>
-<title>Nigerian Courts - Nigerian Laws Title</title>
-<ulink url="https://www.learnnigerianlaw.com/learn/legal-system/introduction">Nigerian Courts - Nigerian Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">Germany - Federal Law Gazette Title</ulink></title>
+Germany - Federal Law Gazette
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>11.  Title</title>
-<ulink url="https://www.ebrd.com/what-we-do/sectors/legal-reform.html">11. </ulink>
+<title><ulink url="https://www.nls.ac.in/">6.  Title</ulink></title>
+6. 
 </sec1>
 <sec1>
-<title>EBRD - Legal Reform Title</title>
-<ulink url="https://www.ebrd.com/what-we-do/sectors/legal-reform.html">EBRD - Legal Reform</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>12.  Title</title>
-<ulink url="https://www.europa.eu/european-union/law_en">12. </ulink>
-</sec1>
-<sec1>
-<title>European Union - Law Title</title>
-<ulink url="https://www.europa.eu/european-union/law_en">European Union - Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">China - China Law Title</ulink></title>
+China - China Law
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>13.  Title</title>
-<ulink url="https://www.legifrance.gouv.fr/">13. </ulink>
+<title><ulink url="https://www.nls.ac.in/">7.  Title</ulink></title>
+7. 
 </sec1>
 <sec1>
-<title>France - Official Gazette of the French Republic Title</title>
-<ulink url="https://www.legifrance.gouv.fr/">France - Official Gazette of the French Republic</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>14.  Title</title>
-<ulink url="https://www.ecfr.gov/">14. </ulink>
-</sec1>
-<sec1>
-<title>United States - Code of Federal Regulations Title</title>
-<ulink url="https://www.ecfr.gov/">United States - Code of Federal Regulations</ulink>
+<title><ulink url="https://www.nls.ac.in/">CommonLII - Commonwealth Legal Information Institute Title</ulink></title>
+CommonLII - Commonwealth Legal Information Institute
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>15.  Title</title>
-<ulink url="https://www.hukumonline.com/">15. </ulink>
+<title><ulink url="https://www.nls.ac.in/">8.  Title</ulink></title>
+8. 
 </sec1>
 <sec1>
-<title>HukumOnline - Indonesian Laws Title</title>
-<ulink url="https://www.hukumonline.com/">HukumOnline - Indonesian Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>16.  Title</title>
-<ulink url="https://www.icrc.org/en/war-and-law/treaties-customary-law">16. </ulink>
-</sec1>
-<sec1>
-<title>ICRC - International Humanitarian Law Title</title>
-<ulink url="https://www.icrc.org/en/war-and-law/treaties-customary-law">ICRC - International Humanitarian Law</ulink>
+<title><ulink url="https://www.nls.ac.in/">Council of Europe - Human Rights and Rule of Law Title</ulink></title>
+Council of Europe - Human Rights and Rule of Law
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>17.  Title</title>
-<ulink url="https://www.ilo.org/dyn/natlex/natlex_browse.byCountry?p_lang=en">17. </ulink>
+<title><ulink url="https://www.nls.ac.in/">9.  Title</ulink></title>
+9. 
 </sec1>
 <sec1>
-<title>ILO NATLEX - Labour Laws Title</title>
-<ulink url="https://www.ilo.org/dyn/natlex/natlex_browse.byCountry?p_lang=en">ILO NATLEX - Labour Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>18.  Title</title>
-<ulink url="https://www.indiacode.nic.in/">18. </ulink>
-</sec1>
-<sec1>
-<title>India - India Code Title</title>
-<ulink url="https://www.indiacode.nic.in/">India - India Code</ulink>
+<title><ulink url="https://www.nls.ac.in/">Kenyan Courts - Kenyan Laws Title</ulink></title>
+Kenyan Courts - Kenyan Laws
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>19.  Title</title>
-<ulink url="https://www.japaneselawtranslation.go.jp/">19. </ulink>
+<title><ulink url="https://www.nls.ac.in/">10 . Title</ulink></title>
+10 .
 </sec1>
 <sec1>
-<title>Japan - Japanese Law Translation Title</title>
-<ulink url="https://www.japaneselawtranslation.go.jp/">Japan - Japanese Law Translation</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>20.  Title</title>
-<ulink url="https://www.commonwealthgovernance.org/countries/africa/nigeria/judicial-system/">20. </ulink>
-</sec1>
-<sec1>
-<title>Nigerian Judiciary - Nigerian Laws Title</title>
-<ulink url="https://www.commonwealthgovernance.org/countries/africa/nigeria/judicial-system/">Nigerian Judiciary - Nigerian Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">Nigerian Courts - Nigerian Laws Title</ulink></title>
+Nigerian Courts - Nigerian Laws
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>21.  Title</title>
-<ulink url="https://www.judiciary.go.ke/">21. </ulink>
+<title><ulink url="https://www.nls.ac.in/">11.  Title</ulink></title>
+11. 
 </sec1>
 <sec1>
-<title>Kenya Judiciary - Kenyan Laws Title</title>
-<ulink url="https://www.judiciary.go.ke/">Kenya Judiciary - Kenyan Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>22.  Title</title>
-<ulink url="https://www.kenyalaw.org/">22. </ulink>
-</sec1>
-<sec1>
-<title>Kenya - Kenya Law Reports Title</title>
-<ulink url="https://www.kenyalaw.org/">Kenya - Kenya Law Reports</ulink>
+<title><ulink url="https://www.nls.ac.in/">EBRD - Legal Reform Title</ulink></title>
+EBRD - Legal Reform
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>23.  Title</title>
-<ulink url="https://www.legislation.gov.au/">23. </ulink>
+<title><ulink url="https://www.nls.ac.in/">12.  Title</ulink></title>
+12. 
 </sec1>
 <sec1>
-<title>Australia - Federal Register of Legislation Title</title>
-<ulink url="https://www.legislation.gov.au/">Australia - Federal Register of Legislation</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>24.  Title</title>
-<ulink url="https://www.lawnet.gov.lk/">24. </ulink>
-</sec1>
-<sec1>
-<title>LawNet - Sri Lankan Laws Title</title>
-<ulink url="https://www.lawnet.gov.lk/">LawNet - Sri Lankan Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">European Union - Law Title</ulink></title>
+European Union - Law
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>25.  Title</title>
-<ulink url="https://lawphil.net/">25. </ulink>
+<title><ulink url="https://www.nls.ac.in/">13.  Title</ulink></title>
+13. 
 </sec1>
 <sec1>
-<title>LawPhil - Philippine Laws Title</title>
-<ulink url="https://lawphil.net/">LawPhil - Philippine Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>26.  Title</title>
-<ulink url="https://www.legifrance.gouv.fr/">26. </ulink>
-</sec1>
-<sec1>
-<title>France - Official Gazette of the French Republic Title</title>
-<ulink url="https://www.legifrance.gouv.fr/">France - Official Gazette of the French Republic</ulink>
+<title><ulink url="https://www.nls.ac.in/">France - Official Gazette of the French Republic Title</ulink></title>
+France - Official Gazette of the French Republic
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>27.  Title</title>
-<ulink url="https://www.legislation.gov.uk/">27. </ulink>
+<title><ulink url="https://www.nls.ac.in/">14.  Title</ulink></title>
+14. 
 </sec1>
 <sec1>
-<title>United Kingdom - Legislation.gov.uk Title</title>
-<ulink url="https://www.legislation.gov.uk/">United Kingdom - Legislation.gov.uk</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>28.  Title</title>
-<ulink url="https://www.legislationline.org/">28. </ulink>
-</sec1>
-<sec1>
-<title>Legislationline - OSCE Legal Database Title</title>
-<ulink url="https://www.legislationline.org/">Legislationline - OSCE Legal Database</ulink>
+<title><ulink url="https://www.nls.ac.in/">United States - Code of Federal Regulations Title</ulink></title>
+United States - Code of Federal Regulations
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>29.  Title</title>
-<ulink url="https://nyulaw.libguides.com/c.php?g=773850&p=5552080">29. </ulink>
+<title><ulink url="https://www.nls.ac.in/">15.  Title</ulink></title>
+15. 
 </sec1>
 <sec1>
-<title>Colombian Ministry of Justice - Colombian Laws Title</title>
-<ulink url="https://nyulaw.libguides.com/c.php?g=773850&p=5552080">Colombian Ministry of Justice - Colombian Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>30 . Title</title>
-<ulink url="https://caj.fiu.edu/national-cj-systems/south-america/peru/">30 .</ulink>
-</sec1>
-<sec1>
-<title>Peruvian Ministry of Justice - Peruvian Laws Title</title>
-<ulink url="https://caj.fiu.edu/national-cj-systems/south-america/peru/">Peruvian Ministry of Justice - Peruvian Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">HukumOnline - Indonesian Laws Title</ulink></title>
+HukumOnline - Indonesian Laws
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>31.  Title</title>
-<ulink url="https://www.judiciary.gov.rw/home">31. </ulink>
+<title><ulink url="https://www.nls.ac.in/">16.  Title</ulink></title>
+16. 
 </sec1>
 <sec1>
-<title>Rwandan Ministry of Justice - Rwandan Laws Title</title>
-<ulink url="https://www.judiciary.gov.rw/home">Rwandan Ministry of Justice - Rwandan Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>32.  Title</title>
-<ulink url="https://www.nzlii.org/">32. </ulink>
-</sec1>
-<sec1>
-<title>NZLII - New Zealand Legal Information Institute Title</title>
-<ulink url="https://www.nzlii.org/">NZLII - New Zealand Legal Information Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">ICRC - International Humanitarian Law Title</ulink></title>
+ICRC - International Humanitarian Law
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>32.  Title</title>
-<ulink url="https://www.oas.org/juridico/english/">32. </ulink>
+<title><ulink url="https://www.nls.ac.in/">17.  Title</ulink></title>
+17. 
 </sec1>
 <sec1>
-<title>OAS - Inter-American Legal Cooperation Title</title>
-<ulink url="https://www.oas.org/juridico/english/">OAS - Inter-American Legal Cooperation</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>33.  Title</title>
-<ulink url="https://www.oecd.org/en/data/datasets/corporate-tax-statistics-database.html">33. </ulink>
-</sec1>
-<sec1>
-<title>OECD Tax Database - Tax Laws Title</title>
-<ulink url="https://www.oecd.org/en/data/datasets/corporate-tax-statistics-database.html">OECD Tax Database - Tax Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">ILO NATLEX - Labour Laws Title</ulink></title>
+ILO NATLEX - Labour Laws
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>34.  Title</title>
-<ulink url="https://www.ohchr.org/en/professionalinterest/pages/internationalhumanrightslaw.aspx">34. </ulink>
+<title><ulink url="https://www.nls.ac.in/">18.  Title</ulink></title>
+18. 
 </sec1>
 <sec1>
-<title>OHCHR - Human Rights Laws Title</title>
-<ulink url="https://www.ohchr.org/en/professionalinterest/pages/internationalhumanrightslaw.aspx">OHCHR - Human Rights Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>35.  Title</title>
-<ulink url="https://www.paclii.org/">35. </ulink>
-</sec1>
-<sec1>
-<title>PacLII - Pacific Islands Legal Information Institute Title</title>
-<ulink url="https://www.paclii.org/">PacLII - Pacific Islands Legal Information Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">India - India Code Title</ulink></title>
+India - India Code
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>36.  Title</title>
-<ulink url="https://www.refworld.org/">36. </ulink>
+<title><ulink url="https://www.nls.ac.in/">19.  Title</ulink></title>
+19. 
 </sec1>
 <sec1>
-<title>Refworld - Refugee Laws Title</title>
-<ulink url="https://www.refworld.org/">Refworld - Refugee Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>37.  Title</title>
-<ulink url="https://www.saflii.org/">37. </ulink>
-</sec1>
-<sec1>
-<title>SAFLII - Southern African Legal Information Institute Title</title>
-<ulink url="https://www.saflii.org/">SAFLII - Southern African Legal Information Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">Japan - Japanese Law Translation Title</ulink></title>
+Japan - Japanese Law Translation
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>38.  Title</title>
-<ulink url="https://www.tamilnet.com/art.html?artid=10277%20target=">38. </ulink>
+<title><ulink url="https://www.nls.ac.in/">20.  Title</ulink></title>
+20. 
 </sec1>
 <sec1>
-<title>TamilNet - Tamil Eelam Laws Title</title>
-<ulink url="https://www.tamilnet.com/art.html?artid=10277%20target=">TamilNet - Tamil Eelam Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>39.  Title</title>
-<ulink url="https://www.unesco.org/en/articles/unesco-database-national-cultural-heritage-laws-updated">39. </ulink>
-</sec1>
-<sec1>
-<title>UNESCO - Cultural Heritage Laws Title</title>
-<ulink url="https://www.unesco.org/en/articles/unesco-database-national-cultural-heritage-laws-updated">UNESCO - Cultural Heritage Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">Nigerian Judiciary - Nigerian Laws Title</ulink></title>
+Nigerian Judiciary - Nigerian Laws
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>40 . Title</title>
-<ulink url="https://www.unodc.org/unodc/es/drug-trafficking/legal-framework.html">40 .</ulink>
+<title><ulink url="https://www.nls.ac.in/">21.  Title</ulink></title>
+21. 
 </sec1>
 <sec1>
-<title>UNODC - Drug Control Laws Title</title>
-<ulink url="https://www.unodc.org/unodc/es/drug-trafficking/legal-framework.html">UNODC - Drug Control Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>41.  Title</title>
-<ulink url="https://www.who.int/health-topics/health-laws#tab=tab_1">41. </ulink>
-</sec1>
-<sec1>
-<title>WHO - Health Laws Title</title>
-<ulink url="https://www.who.int/health-topics/health-laws#tab=tab_1">WHO - Health Laws</ulink>
+<title><ulink url="https://www.nls.ac.in/">Kenya Judiciary - Kenyan Laws Title</ulink></title>
+Kenya Judiciary - Kenyan Laws
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>42.  Title</title>
-<ulink url="https://www.wipo.int/web/wipolex">42. </ulink>
+<title><ulink url="https://www.nls.ac.in/">22.  Title</ulink></title>
+22. 
 </sec1>
 <sec1>
-<title>WIPO Lex - Intellectual Property Laws Title</title>
-<ulink url="https://www.wipo.int/web/wipolex">WIPO Lex - Intellectual Property Laws</ulink>
-</sec1>
-</para>
-</listitem>
-<listitem>
-<para>
-<sec1>
-<title>43.  Title</title>
-<ulink url="https://www.worldbank.org/en/topic/law">43. </ulink>
-</sec1>
-<sec1>
-<title>World Bank - Legal Title</title>
-<ulink url="https://www.worldbank.org/en/topic/law">World Bank - Legal</ulink>
+<title><ulink url="https://www.nls.ac.in/">Kenya - Kenya Law Reports Title</ulink></title>
+Kenya - Kenya Law Reports
 </sec1>
 </para>
 </listitem>
 <listitem>
 <para>
 <sec1>
-<title>44.  Title</title>
-<ulink url="http://www.worldlii.org/">44. </ulink>
+<title><ulink url="https://www.nls.ac.in/">23.  Title</ulink></title>
+23. 
 </sec1>
 <sec1>
-<title>WorldLII - World Legal Information Institute Title</title>
-<ulink url="http://www.worldlii.org/">WorldLII - World Legal Information Institute</ulink>
+<title><ulink url="https://www.nls.ac.in/">Australia - Federal Register of Legislation Title</ulink></title>
+Australia - Federal Register of Legislation
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">24.  Title</ulink></title>
+24. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">LawNet - Sri Lankan Laws Title</ulink></title>
+LawNet - Sri Lankan Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">25.  Title</ulink></title>
+25. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">LawPhil - Philippine Laws Title</ulink></title>
+LawPhil - Philippine Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">26.  Title</ulink></title>
+26. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">France - Official Gazette of the French Republic Title</ulink></title>
+France - Official Gazette of the French Republic
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">27.  Title</ulink></title>
+27. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">United Kingdom - Legislation.gov.uk Title</ulink></title>
+United Kingdom - Legislation.gov.uk
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">28.  Title</ulink></title>
+28. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Legislationline - OSCE Legal Database Title</ulink></title>
+Legislationline - OSCE Legal Database
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">29.  Title</ulink></title>
+29. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Colombian Ministry of Justice - Colombian Laws Title</ulink></title>
+Colombian Ministry of Justice - Colombian Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">30 . Title</ulink></title>
+30 .
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Peruvian Ministry of Justice - Peruvian Laws Title</ulink></title>
+Peruvian Ministry of Justice - Peruvian Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">31.  Title</ulink></title>
+31. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Rwandan Ministry of Justice - Rwandan Laws Title</ulink></title>
+Rwandan Ministry of Justice - Rwandan Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">32.  Title</ulink></title>
+32. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">NZLII - New Zealand Legal Information Institute Title</ulink></title>
+NZLII - New Zealand Legal Information Institute
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">32.  Title</ulink></title>
+32. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">OAS - Inter-American Legal Cooperation Title</ulink></title>
+OAS - Inter-American Legal Cooperation
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">33.  Title</ulink></title>
+33. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">OECD Tax Database - Tax Laws Title</ulink></title>
+OECD Tax Database - Tax Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">34.  Title</ulink></title>
+34. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">OHCHR - Human Rights Laws Title</ulink></title>
+OHCHR - Human Rights Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">35.  Title</ulink></title>
+35. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">PacLII - Pacific Islands Legal Information Institute Title</ulink></title>
+PacLII - Pacific Islands Legal Information Institute
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">36.  Title</ulink></title>
+36. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">Refworld - Refugee Laws Title</ulink></title>
+Refworld - Refugee Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">37.  Title</ulink></title>
+37. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">SAFLII - Southern African Legal Information Institute Title</ulink></title>
+SAFLII - Southern African Legal Information Institute
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">38.  Title</ulink></title>
+38. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">TamilNet - Tamil Eelam Laws Title</ulink></title>
+TamilNet - Tamil Eelam Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">39.  Title</ulink></title>
+39. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">UNESCO - Cultural Heritage Laws Title</ulink></title>
+UNESCO - Cultural Heritage Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">40 . Title</ulink></title>
+40 .
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">UNODC - Drug Control Laws Title</ulink></title>
+UNODC - Drug Control Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">41.  Title</ulink></title>
+41. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">WHO - Health Laws Title</ulink></title>
+WHO - Health Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">42.  Title</ulink></title>
+42. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">WIPO Lex - Intellectual Property Laws Title</ulink></title>
+WIPO Lex - Intellectual Property Laws
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">43.  Title</ulink></title>
+43. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">World Bank - Legal Title</ulink></title>
+World Bank - Legal
+</sec1>
+</para>
+</listitem>
+<listitem>
+<para>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">44.  Title</ulink></title>
+44. 
+</sec1>
+<sec1>
+<title><ulink url="https://www.nls.ac.in/">WorldLII - World Legal Information Institute Title</ulink></title>
+WorldLII - World Legal Information Institute
 </sec1>
 </para>
 </listitem>
