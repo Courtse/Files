@@ -4,12 +4,9 @@
 <article lang="">
 
 <sect1 id="opinions">
-  <title>Opinions test</title>
-  <para>Expert opinions and analysis on various legal topics from renowned lawyers, judges, and academics.</para>
-  
-  <para/>
-  <para>Reference Links:</para>
-  <para><ulink url="https://www.courtse.com/opinions">Opinions</ulink></para>
+  <title><ulink url="https://www.courtse.com/opinions">Opinions list</ulink></title>
+  <para>Expert opinions and analysis on various legal topics from renowned lawyers, judges, and academics.</para> 
+ 
 </sect1>
   
 
