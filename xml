@@ -7,24 +7,9 @@
 <sect1>
   <title>Home</title>     
       <para>Welcome to Courtse, your premier source for legal information and updates. Our homepage provides easy access to the latest news, articles, and resources to help you stay informed about the legal landscape.</para> 
-   <para><ulink url="https://www.courtse.com/">Home test</ulink></para>
+    <para/><para><ulink url="https://www.courtse.com/">Home test2</ulink></para>
 </sect1>
 
-
-<sect1>
-      <title>Home1</title>
-      <para>Welcome to Courtse, your premier source for legal information and updates. Our homepage provides easy access to the latest news, articles, and resources to help you stay informed about the legal landscape.</para>
-      <orderedlist>
-        <listitem>
-         
-        </listitem>       
-      </orderedlist>    
-     
-      <para>
-        <ulink url="https://www.courtse.com/">Home tes2</ulink>
-      </para>
-    </sect1>
-  </sect1>
 
 <sect1>
   <title>Search</title>
