@@ -1,148 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
-<article lang="">
-<para>Sitemap :</para>
-<orderedlist>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/">Home</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/search">Search</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/aboutus">About Us</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/law-policy-1">Law Policy</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/litigation">Litigation</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/regulators">Regulators</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/editors-desk">Editors Desk</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/international-legal-news">International Legal News</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/opinions">Opinions</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/corporate-business">Corporate Business</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/topics">Topics</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/country">Country</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/law-firm">Law Firm</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/law-school-university">Law School/University</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/articles">Articles</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/events-1">Events</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/india-courts">India Courts</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/job-updates">Job Updates</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/books-and-material-commentaries-papers">Law Journals</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/sponsored">Sponsored</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/useful-links">Useful Links</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/webinars">Webinars</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/podcast-1">Podcast</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/blogs">Blogs</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/profile-2">Law chamber of parihar</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/profile2">Scriptalex</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/privacy-policy">Privacy Policy</ulink>
-</para>
-</listitem>
-<listitem>
-<para>
-<ulink url="https://www.courtse.com/termsofuse">Terms of Use</ulink>
-<
-</para>
-</listitem>
-</orderedlist>
+
+<article xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="en">
+
+  <article lang="">
+
+  <para>Sitemap :</para>
+
+  <sect1>
+    <title>Home</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/">Home</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>Search</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/search">Search</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>About Us</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/aboutus">About Us</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>Law and Policy</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/law-policy-1">Law Policy</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/litigation">Litigation</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/regulators">Regulators</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>News and Updates</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/editors-desk">Editors Desk</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/international-legal-news">International Legal News</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/opinions">Opinions</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>Resources</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/corporate-business">Corporate Business</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/topics">Topics</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/country">Country</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/law-firm">Law Firm</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/law-school-university">Law School/University</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>Community</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/articles">Articles</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/events-1">Events</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/india-courts">India Courts</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/job-updates">Job Updates</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/books-and-material-commentaries-papers">Law Journals</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/sponsored">Sponsored</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/useful-links">Useful Links</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/webinars">Webinars</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/podcast-1">Podcast</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/blogs">Blogs</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>Law Firms</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/profile-2">Law chamber of parihar</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/profile2">Scriptalex</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
+  <sect1>
+    <title>Legal Information</title>
+    <orderedlist>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/privacy-policy">Privacy Policy</ulink>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <ulink url="https://www.courtse.com/termsofuse">Terms of Use</ulink>
+        </para>
+      </listitem>
+    </orderedlist>
+  </sect1>
+
 </article>
+
