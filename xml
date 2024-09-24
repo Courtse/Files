@@ -4,14 +4,9 @@
 <article lang="">
 
 <sect1>
-  <title>Home</title>
-  <orderedlist>
-    <listitem>
-      <para>Welcome to Courtse, your premier source for legal information and updates. Our homepage provides easy access to the latest news, articles, and resources to help you stay informed about the legal landscape.</para>
-     
-    </listitem>
-  </orderedlist>
-   <para><ulink url="https://www.courtse.com/">Home test </ulink></para>
+  <title>Home</title>     
+      <para>Welcome to Courtse, your premier source for legal information and updates. Our homepage provides easy access to the latest news, articles, and resources to help you stay informed about the legal landscape.</para> 
+   <para><ulink url="https://www.courtse.com/">Home test</ulink></para>
 </sect1>
 
 <sect1>
