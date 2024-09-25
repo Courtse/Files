@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+
 <article lang="">
 <sect1>
     <para>All India Ranking: 1</para>
@@ -534,12 +535,7 @@
   <para>State: Maharashtra</para>
 </sect1>
 
-<sect1>
-  <para>All India Ranking: 47</para>
-  <title><ulink url="https://www.drmgrdu.ac.in/course-details.php?academic=9&department=36">Faculty of Law, Dr. M.G.R Educational and Research Institute</ulink></title>
-  <para>City: Chennai</para>
-  <para>State: Tamil Nadu</para>
-</sect1>
+
 
 <sect1>
   <para>All India Ranking: 48</para>
@@ -1606,5 +1602,12 @@
   <title>
     <ulink url="http://www.worldlii.org/">WorldLII - World Legal Information Institute</ulink>
   </title>
+</sect1>
+
+<sect1>
+  <para>All India Ranking: 47</para>
+  <title><ulink url="https://www.drmgrdu.ac.in/course-details.php?academic=9&department=36">Faculty of Law, Dr. M.G.R Educational and Research Institute</ulink></title>
+  <para>City: Chennai</para>
+  <para>State: Tamil Nadu</para>
 </sect1>
 </article>
