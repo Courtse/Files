@@ -198,7 +198,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
+   
     
       <sect1 id="ghana-details">
         <title>Ghana Courts and Legal Information</title>
@@ -232,7 +232,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
+   
    
       <sect1 id="egypt-details">
         <title>Egypt Courts and Legal Information</title>
@@ -248,7 +248,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
+   
    
       <sect1 id="usa-details">
         <title><note><remark>Detailed list of usa courts</remark></note>United States Courts and Legal Information</title>
@@ -806,7 +806,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
+   
    
       <sect1 id="italy-details">
         <title><note><remark>Detailed list of Italy courts</remark></note>Italy Courts and Legal Information</title>
@@ -840,7 +840,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
+   
    
       <sect1 id="spain-details">
         <title><note><remark>Detailed list of Spain courts</remark></note>Spain Courts and Legal Information</title>
@@ -955,7 +955,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
+   
   
       <sect1 id="fiji-details">
         <title>Fiji Courts and Legal Information</title>
