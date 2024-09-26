@@ -1,570 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
 <article lang="">
-  <para>Regions </para>
-  <orderedlist>
-    <listitem>
-      <para><note><remark>Region List</remark></note>Africa </para>
-    </listitem>
-    <listitem>
-      <para>Americas </para>
-    </listitem>
-    <listitem>
-      <para>Arab States </para>
-    </listitem>
-    <listitem>
-      <para>Asia </para>
-    </listitem>
-    <listitem>
-      <para>EU </para>
-    </listitem>
-    <listitem>
-      <para>Europe </para>
-    </listitem>
-    <listitem>
-      <para>Pacific </para>
-    </listitem>
-  </orderedlist>
-  <sect1 id="africa">
-    <title><note><remark>Country Details </remark></note><note><remark>Country lists</remark></note><note><remark>Country lists</remark></note>Africa</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">South Africa</link> <inlinegraphic fileref="https://flagcdn.com/w320/za.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Nigeria</link> <inlinegraphic fileref="https://flagcdn.com/w320/ng.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Egypt</link> <inlinegraphic fileref="https://flagcdn.com/w320/eg.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Morocco</link> <inlinegraphic fileref="https://flagcdn.com/w320/ma.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Ethiopia</link> <inlinegraphic fileref="https://flagcdn.com/w320/et.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Kenya</link> <inlinegraphic fileref="https://flagcdn.com/w320/ke.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Tanzania</link> <inlinegraphic fileref="https://flagcdn.com/w320/tz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Ghana</link> <inlinegraphic fileref="https://flagcdn.com/w320/gh.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Democratic Republic of the Congo</link> <inlinegraphic fileref="https://flagcdn.com/w320/cd.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Algeria</link> <inlinegraphic fileref="https://flagcdn.com/w320/dz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-  </sect1>
-  <sect1>
-    <title><note><remark>Country Details </remark></note><note><remark>Country lists</remark></note><note><remark>Country lists</remark></note>Africa</title>
-    <note>
-      <remark>Country Details</remark>
-    </note>
-    <note>
-      <remark>Country lists</remark>
-    </note>
-    <note>
-      <remark>Country lists</remark>
-    </note>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">South Africa</link> <inlinegraphic fileref="https://flagcdn.com/w320/za.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Nigeria</link> <inlinegraphic fileref="https://flagcdn.com/w320/ng.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Egypt</link> <inlinegraphic fileref="https://flagcdn.com/w320/eg.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Morocco</link> <inlinegraphic fileref="https://flagcdn.com/w320/ma.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Ethiopia</link> <inlinegraphic fileref="https://flagcdn.com/w320/et.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Kenya</link> <inlinegraphic fileref="https://flagcdn.com/w320/ke.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Tanzania</link> <inlinegraphic fileref="https://flagcdn.com/w320/tz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Ghana</link> <inlinegraphic fileref="https://flagcdn.com/w320/gh.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Democratic Republic of the Congo</link> <inlinegraphic fileref="https://flagcdn.com/w320/cd.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Algeria</link> <inlinegraphic fileref="https://flagcdn.com/w320/dz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="americas">
-      <title>Americas</title>
-      <orderedlist>
-        <listitem>
-          <para><link linkend="">United States</link> <inlinegraphic fileref="https://flagcdn.com/w320/us.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Canada</link> <inlinegraphic fileref="https://flagcdn.com/w320/ca.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Brazil</link> <inlinegraphic fileref="https://flagcdn.com/w320/br.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Colombia</link> <inlinegraphic fileref="https://flagcdn.com/w320/co.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Mexico</link> <inlinegraphic fileref="https://flagcdn.com/w320/mx.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Jamaica</link> <inlinegraphic fileref="https://flagcdn.com/w320/jm.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Costa Rica</link> <inlinegraphic fileref="https://flagcdn.com/w320/cr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Haiti</link> <inlinegraphic fileref="https://flagcdn.com/w320/ht.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Panama</link> <inlinegraphic fileref="https://flagcdn.com/w320/pa.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-  </sect1>
-  <sect1>
-    <title>Americas</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">United States</link> <inlinegraphic fileref="https://flagcdn.com/w320/us.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Canada</link> <inlinegraphic fileref="https://flagcdn.com/w320/ca.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Brazil</link> <inlinegraphic fileref="https://flagcdn.com/w320/br.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Colombia</link> <inlinegraphic fileref="https://flagcdn.com/w320/co.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Mexico</link> <inlinegraphic fileref="https://flagcdn.com/w320/mx.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Jamaica</link> <inlinegraphic fileref="https://flagcdn.com/w320/jm.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Costa Rica</link> <inlinegraphic fileref="https://flagcdn.com/w320/cr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Haiti</link> <inlinegraphic fileref="https://flagcdn.com/w320/ht.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Panama</link> <inlinegraphic fileref="https://flagcdn.com/w320/pa.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="arab-states">
-      <title>Arab States</title>
-      <orderedlist>
-        <listitem>
-          <para><link linkend="">Saudi Arabia</link> <inlinegraphic fileref="https://flagcdn.com/w320/sa.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">United Arab Emirates</link> <inlinegraphic fileref="https://flagcdn.com/w320/ae.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Iraq</link> <inlinegraphic fileref="https://flagcdn.com/w320/iq.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Algeria</link> <inlinegraphic fileref="https://flagcdn.com/w320/dz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Kuwait</link> <inlinegraphic fileref="https://flagcdn.com/w320/kw.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Qatar</link> <inlinegraphic fileref="https://flagcdn.com/w320/qa.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Oman</link> <inlinegraphic fileref="https://flagcdn.com/w320/om.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Jordan</link> <inlinegraphic fileref="https://flagcdn.com/w320/jo.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-  </sect1>
-  <sect1>
-    <title>Arab States</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">Saudi Arabia</link> <inlinegraphic fileref="https://flagcdn.com/w320/sa.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">United Arab Emirates</link> <inlinegraphic fileref="https://flagcdn.com/w320/ae.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Iraq</link> <inlinegraphic fileref="https://flagcdn.com/w320/iq.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Algeria</link> <inlinegraphic fileref="https://flagcdn.com/w320/dz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Kuwait</link> <inlinegraphic fileref="https://flagcdn.com/w320/kw.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Qatar</link> <inlinegraphic fileref="https://flagcdn.com/w320/qa.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Oman</link> <inlinegraphic fileref="https://flagcdn.com/w320/om.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Jordan</link> <inlinegraphic fileref="https://flagcdn.com/w320/jo.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="asia">
-      <title>Asia</title>
-      <orderedlist>
-        <listitem>
-          <para><link linkend="">Bangladesh</link> <inlinegraphic fileref="https://flagcdn.com/w320/bd.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">China</link> <inlinegraphic fileref="https://flagcdn.com/w320/cn.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">India</link> <inlinegraphic fileref="https://flagcdn.com/w320/in.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Japan</link> <inlinegraphic fileref="https://flagcdn.com/w320/jp.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Singapore</link> <inlinegraphic fileref="https://flagcdn.com/w320/sg.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">South Korea</link> <inlinegraphic fileref="https://flagcdn.com/w320/kr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Malaysia</link> <inlinegraphic fileref="https://flagcdn.com/w320/my.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Thailand</link> <inlinegraphic fileref="https://flagcdn.com/w320/th.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Indonesia</link> <inlinegraphic fileref="https://flagcdn.com/w320/id.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Vietnam</link> <inlinegraphic fileref="https://flagcdn.com/w320/vn.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Philippines</link> <inlinegraphic fileref="https://flagcdn.com/w320/ph.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-  </sect1>
-  <sect1>
-    <title>Asia</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">Bangladesh</link> <inlinegraphic fileref="https://flagcdn.com/w320/bd.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">China</link> <inlinegraphic fileref="https://flagcdn.com/w320/cn.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">India</link> <inlinegraphic fileref="https://flagcdn.com/w320/in.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Japan</link> <inlinegraphic fileref="https://flagcdn.com/w320/jp.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Singapore</link> <inlinegraphic fileref="https://flagcdn.com/w320/sg.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">South Korea</link> <inlinegraphic fileref="https://flagcdn.com/w320/kr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Malaysia</link> <inlinegraphic fileref="https://flagcdn.com/w320/my.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Thailand</link> <inlinegraphic fileref="https://flagcdn.com/w320/th.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Indonesia</link> <inlinegraphic fileref="https://flagcdn.com/w320/id.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Vietnam</link> <inlinegraphic fileref="https://flagcdn.com/w320/vn.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Philippines</link> <inlinegraphic fileref="https://flagcdn.com/w320/ph.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="eu">
-      <title>EU</title>
-      <orderedlist>
-        <listitem>
-          <para><link linkend="">Germany</link> <inlinegraphic fileref="https://flagcdn.com/w320/de.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">France</link> <inlinegraphic fileref="https://flagcdn.com/w320/fr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Italy</link> <inlinegraphic fileref="https://flagcdn.com/w320/it.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Belgium</link> <inlinegraphic fileref="https://flagcdn.com/w320/be.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Sweden</link> <inlinegraphic fileref="https://flagcdn.com/w320/se.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Poland</link> <inlinegraphic fileref="https://flagcdn.com/w320/pl.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Portugal</link> <inlinegraphic fileref="https://flagcdn.com/w320/pt.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Austria</link> <inlinegraphic fileref="https://flagcdn.com/w320/at.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Ireland</link> <inlinegraphic fileref="https://flagcdn.com/w320/ie.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Greece</link> <inlinegraphic fileref="https://flagcdn.com/w320/gr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-  </sect1>
-  <sect1>
-    <title>EU</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">Germany</link> <inlinegraphic fileref="https://flagcdn.com/w320/de.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">France</link> <inlinegraphic fileref="https://flagcdn.com/w320/fr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Italy</link> <inlinegraphic fileref="https://flagcdn.com/w320/it.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Belgium</link> <inlinegraphic fileref="https://flagcdn.com/w320/be.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Sweden</link> <inlinegraphic fileref="https://flagcdn.com/w320/se.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Poland</link> <inlinegraphic fileref="https://flagcdn.com/w320/pl.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Portugal</link> <inlinegraphic fileref="https://flagcdn.com/w320/pt.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Austria</link> <inlinegraphic fileref="https://flagcdn.com/w320/at.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Ireland</link> <inlinegraphic fileref="https://flagcdn.com/w320/ie.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Greece</link> <inlinegraphic fileref="https://flagcdn.com/w320/gr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="europe">
-      <title>Europe</title>
-      <orderedlist>
-        <listitem>
-          <para><link linkend="">United Kingdom</link> <inlinegraphic fileref="https://flagcdn.com/w320/gb.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Spain</link> <inlinegraphic fileref="https://flagcdn.com/w320/es.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Netherlands</link> <inlinegraphic fileref="https://flagcdn.com/w320/nl.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Russia</link> <inlinegraphic fileref="https://flagcdn.com/w320/ru.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Ukraine</link> <inlinegraphic fileref="https://flagcdn.com/w320/ua.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Norway</link> <inlinegraphic fileref="https://flagcdn.com/w320/no.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Switzerland</link> <inlinegraphic fileref="https://flagcdn.com/w320/ch.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Iceland</link> <inlinegraphic fileref="https://flagcdn.com/w320/is.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Turkey</link> <inlinegraphic fileref="https://flagcdn.com/w320/tr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Serbia</link> <inlinegraphic fileref="https://flagcdn.com/w320/rs.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Croatia</link> <inlinegraphic fileref="https://flagcdn.com/w320/hr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Bosnia and Herzegovina</link> <inlinegraphic fileref="https://flagcdn.com/w320/ba.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-  </sect1>
-  <sect1>
-    <title>Europe</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">United Kingdom</link> <inlinegraphic fileref="https://flagcdn.com/w320/gb.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Spain</link> <inlinegraphic fileref="https://flagcdn.com/w320/es.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Netherlands</link> <inlinegraphic fileref="https://flagcdn.com/w320/nl.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Russia</link> <inlinegraphic fileref="https://flagcdn.com/w320/ru.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Ukraine</link> <inlinegraphic fileref="https://flagcdn.com/w320/ua.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Norway</link> <inlinegraphic fileref="https://flagcdn.com/w320/no.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Switzerland</link> <inlinegraphic fileref="https://flagcdn.com/w320/ch.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Iceland</link> <inlinegraphic fileref="https://flagcdn.com/w320/is.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Turkey</link> <inlinegraphic fileref="https://flagcdn.com/w320/tr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Serbia</link> <inlinegraphic fileref="https://flagcdn.com/w320/rs.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Croatia</link> <inlinegraphic fileref="https://flagcdn.com/w320/hr.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Bosnia and Herzegovina</link> <inlinegraphic fileref="https://flagcdn.com/w320/ba.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="pacific">
-      <title>Pacific</title>
-      <orderedlist>
-        <listitem>
-          <para><link linkend="">Australia</link> <inlinegraphic fileref="https://flagcdn.com/w320/au.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">New Zealand</link> <inlinegraphic fileref="https://flagcdn.com/w320/nz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Fiji</link> <inlinegraphic fileref="https://flagcdn.com/w320/fj.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Tonga</link> <inlinegraphic fileref="https://flagcdn.com/w320/to.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Samoa</link> <inlinegraphic fileref="https://flagcdn.com/w320/ws.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Vanuatu</link> <inlinegraphic fileref="https://flagcdn.com/w320/vu.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Papua New Guinea</link> <inlinegraphic fileref="https://flagcdn.com/w320/pg.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Solomon Islands</link> <inlinegraphic fileref="https://flagcdn.com/w320/sb.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">New Caledonia (France)</link> <inlinegraphic fileref="https://flagcdn.com/w320/nc.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-        <listitem>
-          <para><link linkend="">Hawaii (USA)</link> <inlinegraphic fileref="https://flagcdn.com/w320/us.png" width="0.5209inch" depth="0.3929inch"/> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-  </sect1>
-  <sect1>
-    <title>Pacific</title>
-    <orderedlist>
-      <listitem>
-        <para><link linkend="">Australia</link> <inlinegraphic fileref="https://flagcdn.com/w320/au.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">New Zealand</link> <inlinegraphic fileref="https://flagcdn.com/w320/nz.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Fiji</link> <inlinegraphic fileref="https://flagcdn.com/w320/fj.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Tonga</link> <inlinegraphic fileref="https://flagcdn.com/w320/to.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Samoa</link> <inlinegraphic fileref="https://flagcdn.com/w320/ws.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Vanuatu</link> <inlinegraphic fileref="https://flagcdn.com/w320/vu.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Papua New Guinea</link> <inlinegraphic fileref="https://flagcdn.com/w320/pg.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Solomon Islands</link> <inlinegraphic fileref="https://flagcdn.com/w320/sb.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">New Caledonia (France)</link> <inlinegraphic fileref="https://flagcdn.com/w320/nc.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-      <listitem>
-        <para><link linkend="">Hawaii (USA)</link> <inlinegraphic fileref="https://flagcdn.com/w320/us.png" width="0.5209inch" depth="0.3929inch"/> </para>
-      </listitem>
-    </orderedlist>
-    <sect1 id="south-africa-details">
-      <title><note><remark>South Africa detailed list</remark></note>South Africa Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZACC/1995/">Constitutional Court of South Africa 1995- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZASCA/2001/">Supreme Court of Appeal of South Africa 2001- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZAECHC/2001/">Eastern Cape Division of the High Court of South Africa 2001- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZALCC/">Land Claims Court of South Africa 2003- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/">South African Law Commission Publications (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.commonlii.org/databases.html">South African Numbered Legislation 1988- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZAFSHC/">High Court of South Africa - Free State Division 2005- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZAGPJHC/">High Court of South Africa - Gauteng Division 2004- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZAKZHC/">High Court of South Africa - Kwazulu Natal Division 2005- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZALC/2001/">Labour Court of South Africa 2001- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZANCHC/">High Court of South Africa - Northern Cape Division 2005- (SAFLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.saflii.org/za/cases/ZANWHC/">High Court of South Africa - North-West Division 2005- (SAFLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
-    </sect1>
-    <sect2>
+     <sect1>
       <title><note><remark> South Africa detailed list</remark></note>South Africa Courts and Legal Information</title>
       <note>
         <remark> South Africa detailed list</remark>
@@ -607,6 +44,7 @@
           <para><ulink url="https://www.saflii.org/za/cases/ZANWHC/">High Court of South Africa - North-West Division 2005- (SAFLII)</ulink> </para>
         </listitem>
       </orderedlist>
+	   </sect1>
       <sect1 id="nigeria-details">
         <title>Nigeria Courts and Legal Information</title>
         <orderedlist>
@@ -621,20 +59,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Nigeria Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://www.commonlii.org/ng/cases/NGSC/">Supreme Court of Nigeria 1921-2002 (CommonLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.commonlii.org/ng/legis/num_act/">Nigerian Legislation (CommonLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawyard.org/">Lawyard Nigeria</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="ethiopia-details">
         <title>Ethiopia Courts and Legal Information</title>
         <orderedlist>
@@ -646,17 +71,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Ethiopia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://www.fsc.gov.et/">Federal Supreme Court of Ethiopia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.refworld.org/legal/legislation/natlegbod/1995/en/18206">Constitution of the Federal Democratic Republic of Ethiopia</ulink> </para>
-        </listitem>
-      </orderedlist>
+    
       <sect1 id="kenya-details">
         <title>Kenya Courts and Legal Information</title>
         <orderedlist>
@@ -668,17 +83,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Kenya Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.judiciary.go.ke/">Judiciary of Kenya</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.kenyalaw.org/">Kenya Law</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="tanzania-details">
         <title>Tanzania Courts and Legal Information</title>
         <orderedlist>
@@ -690,17 +95,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Tanzania Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.judiciary.go.tz/">Judiciary of Tanzania</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.commonlii.org/tz/">Tanzanian Legal Information (CommonLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="belgium-details">
         <title>Belgium Courts and Legal Information</title>
         <orderedlist>
@@ -712,17 +107,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Belgium Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.hofvannederland.nl/">Court of Cassation of Belgium</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.just.fgov.be/">Federal Justice Portal of Belgium</ulink> </para>
-        </listitem>
-      </orderedlist>
+    
       <sect1 id="sweden-details">
         <title>Sweden Courts and Legal Information</title>
         <orderedlist>
@@ -738,19 +123,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title>Sweden Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.domstol.se/other-languages/english/">Swedish Courts</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.riksdagen.se/en/">Swedish Parliament</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://lagen.nu/">Swedish Legal Information</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="poland-details">
         <title>Poland Courts and Legal Information</title>
         <orderedlist>
@@ -768,23 +141,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Poland Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.sn.pl/">Supreme Court of Poland</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://orzeczenia.ms.gov.pl/">Polish Legal Information System</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.ms.gov.pl/">Ministry of Justice of Poland</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.krs-online.com.pl/">Polish Court Register</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="portugal-details">
         <title>Portugal Courts and Legal Information</title>
         <orderedlist>
@@ -799,20 +156,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Portugal Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.stj.pt/">Supreme Court of Portugal</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.dgsi.pt/">Portuguese Legal Information System</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.citius.mj.pt/">CITIUS: Portuguese Court System</ulink> </para>
-        </listitem>
-      </orderedlist>
+    
       <sect1 id="austria-details">
         <title>Austria Courts and Legal Information</title>
         <orderedlist>
@@ -830,23 +174,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Austria Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.ogh.gv.at/">Supreme Court of Austria</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.ris.bka.gv.at/">Austrian Legal Information System</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.justiz.gv.at/">Ministry of Justice of Austria</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.oesterreich.gv.at/">Austrian Government Portal</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="ireland-details">
         <title>Ireland Courts and Legal Information</title>
         <orderedlist>
@@ -861,20 +189,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Ireland Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.courts.ie/">Supreme Court of Ireland</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawlibrary.ie/">Law Library of Ireland</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.irishstatutebook.ie/">Irish Statute Book</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="greece-details">
         <title>Greece Courts and Legal Information</title>
         <orderedlist>
@@ -884,13 +199,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title>Greece Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.ministryofjustice.gr/">Ministry of Justice of Greece</ulink> </para>
-        </listitem>
-      </orderedlist>
+    
       <sect1 id="ghana-details">
         <title>Ghana Courts and Legal Information</title>
         <orderedlist>
@@ -902,17 +211,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Ghana Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://judicial.gov.gh/">Judiciary of Ghana</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.mojagd.gov.gh/">Ministry of Justice and Attorney General of Ghana</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="drc-details">
         <title>Democratic Republic of the Congo Courts and Legal Information</title>
         <orderedlist>
@@ -924,17 +223,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Democratic Republic of the Congo Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.leganet.cd/">LegaNet DR Congo</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.droitcongolais.info/">Droit Congolais</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="algeria-details">
         <title>Algeria Courts and Legal Information</title>
         <orderedlist>
@@ -944,13 +233,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title>Algeria Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.joradp.dz/">Official Journal of Algeria</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="egypt-details">
         <title>Egypt Courts and Legal Information</title>
         <orderedlist>
@@ -966,19 +249,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title>Egypt Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://egyptjustice.com/supreme-constitutional-court">Supreme Constitutional Court</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.law.cornell.edu/women-and-justice/resource/constitution_of_egypt">Constitution of Egypt</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.egylaw.com/">Egyptian Law Portal</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="usa-details">
         <title><note><remark>Detailed list of usa courts</remark></note>United States Courts and Legal Information</title>
         <orderedlist>
@@ -1008,38 +279,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of usa courts</remark></note>United States Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of usa courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://supct.law.cornell.edu/supct/">United States Supreme Court Decisions 1990- (LII (Cornell))</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www4.law.cornell.edu/uscode/">United States Code (LII (Cornell))</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.law.cornell.edu/nyctap/">New York Court of Appeals (LII (Cornell))</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.scotusblog.com/">SCOTUSblog - Supreme Court of the United States Blog</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.uscourts.gov/">United States Courts Official Website</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.federalreserve.gov/">Federal Reserve - Legal Information</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.justice.gov/">U.S. Department of Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.americanbar.org/">American Bar Association</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="norway-details">
         <title>Norway Courts and Legal Information</title>
         <orderedlist>
@@ -1048,14 +288,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Norway Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://lovdata.no/">Lovdata: Norwegian Legal Information</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="switzerland-details">
         <title>Switzerland Courts and Legal Information</title>
         <orderedlist>
@@ -1067,17 +300,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Switzerland Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.bger.ch/">Federal Supreme Court of Switzerland</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.admin.ch/gov/en/start.html">Federal Administration of Switzerland</ulink> </para>
-        </listitem>
-      </orderedlist>
+ 
       <sect1 id="iceland-details">
         <title>Iceland Courts and Legal Information</title>
         <orderedlist>
@@ -1089,17 +312,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Iceland Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.domstolar.is/">Icelandic Courts</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.althingi.is/lagas/150a.html">Althingi: Icelandic Legislation</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="turkey-details">
         <title>Turkey Courts and Legal Information</title>
         <orderedlist>
@@ -1117,23 +330,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Turkey Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.yargitay.gov.tr/">Supreme Court of Turkey</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.hsk.gov.tr/">High Council of Judges and Prosecutors</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.mevzuat.gov.tr/">Turkish Legal Information System</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.adalet.gov.tr/">Ministry of Justice of Turkey</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="serbia-details">
         <title>Serbia Courts and Legal Information</title>
         <orderedlist>
@@ -1145,17 +342,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Serbia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.vk.sud.rs/">Supreme Court of Serbia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.mpravde.gov.rs/">Ministry of Justice of Serbia</ulink> </para>
-        </listitem>
-      </orderedlist>
+    
       <sect1 id="croatia-details">
         <title>Croatia Courts and Legal Information</title>
         <orderedlist>
@@ -1170,20 +357,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Croatia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.vsrh.hr/">Supreme Court of Croatia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://pravosudje.gov.hr/">Ministry of Justice of Croatia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.zakon.hr/">Croatian Laws and Regulations</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="bosnia-details">
         <title>Bosnia and Herzegovina Courts and Legal Information</title>
         <orderedlist>
@@ -1192,14 +366,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Bosnia and Herzegovina Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.sudbih.gov.ba/">Court of Bosnia and Herzegovina</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="canada-details">
         <title><note><remark>Detailed list of canada courts</remark></note>Canada Courts and Legal Information</title>
         <orderedlist>
@@ -1226,35 +393,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of canada courts</remark></note>Canada Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of canada courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.canlii.org/en/">Canadian Legal Information Institute</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.federalcourt.ca/">Federal Court of Canada</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.scc-csc.ca/">Supreme Court of Canada</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.ontariocourts.ca/">Ontario Courts</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.bccourts.ca/">British Columbia Courts</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.albertacourts.ca/">Alberta Courts</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawfoundationbc.org/">Law Foundation of British Columbia</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="brazil-details">
         <title><note><remark>Detailed list of Brazil courts</remark></note>Brazil Courts and Legal Information</title>
         <orderedlist>
@@ -1266,20 +405,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Brazil courts</remark></note>Brazil Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Brazil courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.britannica.com/topic/Supreme-Federal-Court">Superior Court of Justice of Brazil</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.tse.jus.br/">Superior Electoral Court (TSE)</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="colombia-details">
         <title>Colombia Courts and Legal Information</title>
         <orderedlist>
@@ -1297,23 +423,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Colombia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.ramajudicial.gov.co/">Colombia Judiciary (Rama Judicial)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.corteconstitucional.gov.co/">Constitutional Court of Colombia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.consejodeestado.gov.co/">Council of State of Colombia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.cortesuprema.gov.co/">Supreme Court of Justice of Colombia</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="mexico-details">
         <title>Mexico Courts and Legal Information</title>
         <orderedlist>
@@ -1325,17 +435,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Mexico Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.gob.mx/sre">Ministry of Foreign Affairs - Mexico</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.gob.mx/sedena">Ministry of National Defense - Mexico</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="jamaica-details">
         <title>Jamaica Courts and Legal Information</title>
         <orderedlist>
@@ -1350,20 +450,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Jamaica Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.supremecourt.gov.jm/">Supreme Court of Jamaica</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://moj.gov.jm/">Ministry of Justice - Jamaica</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://courtofappeal.gov.jm/">Court of Appeal - Jamaica</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="costa-rica-details">
         <title>Costa Rica Courts and Legal Information</title>
         <orderedlist>
@@ -1372,14 +459,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Costa Rica Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.tse.go.cr/">Supreme Electoral Tribunal - Costa Rica</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="haiti-details">
         <title>Haiti Courts and Legal Information</title>
         <orderedlist>
@@ -1388,14 +468,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Haiti Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://ccj.org/member-states/haiti/">Court of Justice - Haiti</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="panama-details">
         <title>Panama Courts and Legal Information</title>
         <orderedlist>
@@ -1404,14 +477,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Panama Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.procuraduria-admon.gob.pa/">Procurator General - Panama</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="saudi-details">
         <title><note><remark>Detailed list of Saudi courts</remark></note>Saudi Courts and Legal Information</title>
         <orderedlist>
@@ -1423,20 +489,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Saudi courts</remark></note>Saudi Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Saudi courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.moj.gov.sa/English/pages/default.aspx">Saudi Arabia Ministry of Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.moj.gov.sa/English/Ministry/Courts/Pages/SupremeCourt.aspx">Saudi Arabia Supreme Court</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="uae-details">
         <title><note><remark>Detailed list of UAE courts</remark></note>UAE Courts and Legal Information</title>
         <orderedlist>
@@ -1451,23 +504,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of UAE courts</remark></note>UAE Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of UAE courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.moj.gov.ae/en/home.aspx">Ministry of Justice - UAE</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://u.ae/en/about-the-uae/the-uae-government/the-federal-judiciary/the-system-of-courts">The system of courts</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.adjd.gov.ae/en/">Abu Dhabi Judicial Department</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="qatar-details">
         <title><note><remark>Detailed list of Qatar courts</remark></note>Qatar Courts and Legal Information</title>
         <orderedlist>
@@ -1490,31 +527,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Qatar courts</remark></note>Qatar Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Qatar courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para>
-            <ulink url="https://www.sjc.gov.qa/ar">‎Supreme Judiciary Court </ulink>
-          </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.qicdrc.gov.qa/courts/court">The Court</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://portal.www.gov.qa/wps/portal/topics/Justice+System">Qatar Justice System</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.qicdrc.gov.qa/">Qatar International Court and Dispute Resolution Centre</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.almeezan.qa/">Al-Meezan: Qatar Legal Portal</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="iraq-details">
         <title>Iraq Courts and Legal Information</title>
         <orderedlist>
@@ -1523,14 +536,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Iraq Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.moj.gov.iq/">Ministry of Justice of Iraq</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="morocco-details">
         <title>Morocco Courts and Legal Information</title>
         <orderedlist>
@@ -1542,17 +548,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Morocco Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://rnesm.justice.gov.ma/public/help.aspx?cn=ContactUs〈=en-US">Morocco Ministry of Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.nyulawglobal.org/globalex/morocco1.html">Moroccan Legal Information</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="kuwait-details">
         <title>Kuwait Courts and Legal Information</title>
         <orderedlist>
@@ -1561,14 +557,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Kuwait Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.alqabas.com/">Kuwaiti Legal News</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="oman-details">
         <title>Oman Courts and Legal Information</title>
         <orderedlist>
@@ -1580,17 +569,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Oman Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.moj.gov.om/">Supreme Court of Oman</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.ncsi.gov.om/">Oman National Legal Framework</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="jordan-details">
         <title>Jordan Courts and Legal Information</title>
         <orderedlist>
@@ -1599,14 +578,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Jordan Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://www.jc.jo/">Judicial Council of Jordan</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="china-details">
         <title><note><remark>Detailed list of China courts</remark></note>China Courts and Legal Information</title>
         <orderedlist>
@@ -1621,23 +593,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of China courts</remark></note>China Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of China courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://english.court.gov.cn/">The Supreme People's Court of the People's Republic of China</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://en.moj.gov.cn/">Ministry of Justice of the People's Republic of China</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawinfochina.com/">Law Info China (English Translation)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="india-details">
         <title><note><remark>Detailed list of India courts</remark></note>India Courts and Legal Information</title>
         <orderedlist>
@@ -1658,29 +614,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of India courts</remark></note>India Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of India courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://main.sci.gov.in/">Supreme Court of India</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://lawmin.gov.in/">Ministry of Law and Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.indiacode.nic.in/">India Code - Acts and Statutes</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawcommissionofindia.nic.in/">Law Commission of India</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.indiankanoon.org/">Indian Kanoon - Legal Information Search</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="japan-details">
         <title><note><remark>Detailed list of Japan courts</remark></note>Japan Courts and Legal Information</title>
         <orderedlist>
@@ -1698,26 +632,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Japan courts</remark></note>Japan Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Japan courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.courts.go.jp/english/">Supreme Court of Japan</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.moj.go.jp/ENGLISH/">Ministry of Justice of Japan</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.japaneselawtranslation.go.jp/">Japanese Law Translation (English)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.tkc.jp/law/lawlibrary/">National Diet Library - Japanese Law</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="south-korea-details">
         <title>South Korea Courts and Legal Information</title>
         <orderedlist>
@@ -1729,17 +644,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>South Korea Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://eng.scourt.go.kr/eng/main/Main.work">Supreme Court of South Korea</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://law.go.kr/">South Korean Laws and Regulations</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="malaysia-details">
         <title>Malaysia Courts and Legal Information</title>
         <orderedlist>
@@ -1754,20 +659,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Malaysia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.kehakiman.gov.my/">Federal Court of Malaysia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.malaysia.gov.my/portal/content/29315">Malaysia Ministry of Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawnet.com.my/">Malaysian Laws and Regulations</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="thailand-details">
         <title>Thailand Courts and Legal Information</title>
         <orderedlist>
@@ -1776,14 +668,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Thailand Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://www.lawreform.go.th/">Thai Law Reform Commission</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="indonesia-details">
         <title>Indonesia Courts and Legal Information</title>
         <orderedlist>
@@ -1795,17 +680,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Indonesia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.mahkamahagung.go.id/en">Supreme Court of Indonesia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.hukumonline.com/">Indonesian Legal News and Resources</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="vietnam-details">
         <title>Vietnam Courts and Legal Information</title>
         <orderedlist>
@@ -1817,17 +692,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Vietnam Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://moj.gov.vn/en/Pages/home.aspx">Ministry of Justice of Vietnam</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://vbpl.vn/">Vietnamese Laws and Regulations</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="philippines-details">
         <title>Philippines Courts and Legal Information</title>
         <orderedlist>
@@ -1839,17 +704,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Philippines Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://sc.judiciary.gov.ph/">Supreme Court of the Philippines</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://lawphil.net/">Philippine Laws and Jurisprudence</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="Section1">
         <title><anchor id="jamaica-details"/><note><remark>Detailed list of Jamaica courts</remark></note>Jamaica Courts and Legal Information</title>
         <orderedlist>
@@ -1867,26 +722,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><anchor id="jamaica-details"/><note><remark>Detailed list of Jamaica courts</remark></note>Jamaica Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Jamaica courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://www.commonlii.org/jm/cases/JMSC/">Supreme Court of Jamaica</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.commonlii.org/jm/cases/JMCA/">Court of Appeal of Jamaica</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.judiciary.gov.jm/">Judiciary of Jamaica</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://www.lawreform.gov.jm/">Law Reform Commission of Jamaica</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="Section2">
         <title><anchor id="haiti-details"/><note><remark>Detailed list of Haiti courts</remark></note>Haiti Courts and Legal Information</title>
         <orderedlist>
@@ -1910,32 +746,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><anchor id="haiti-details"/><note><remark>Detailed list of Haiti courts</remark></note>Haiti Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Haiti courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://ccj.org/member-states/haiti/">The Republic of Haiti</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.unodc.org/fr/office-in-haiti.html">UNODC Haiti</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.oas.org/en/sla/haiti.asp">OAS - Haiti</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.haitilibre.com/en/news-26524-haiti-justice-the-new-map-of-tribunals-in-haiti.html">Haiti Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.refworld.org/country,,NATLEGBOD,,HTI,,58fbf4314,0.html">Refworld - Haiti</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.wipo.int/directory/en/details.jsp?country_code=HT">WIPO - Haiti</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="cuba-details">
         <title><note><remark>Detailed list of Cuba courts</remark></note>Cuba Courts and Legal Information</title>
         <orderedlist>
@@ -1950,23 +761,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Cuba courts</remark></note>Cuba Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Cuba courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.hcjc.cu/">High Council of Justice of Cuba</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://cityofcubamo.com/municipal-courthouse/">Municipal Courthouse</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.cubanet.org/tag/judiciary/">Cuban Judiciary News and Information</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="germany-details">
         <title><note><remark>Detailed list of Germany courts</remark></note>Germany Courts and Legal Information</title>
         <orderedlist>
@@ -1984,26 +779,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Germany courts</remark></note>Germany Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Germany courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.bundesverfassungsgericht.de/EN/Home/home_node.html">Federal Constitutional Court of Germany</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.bundesgerichtshof.de/DE/Home/home_node.html">Federal Court of Justice of Germany</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lto.de/recht/">Legal Tribune Online - Germany</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://libguides.law.umn.edu/c.php?g=125785&amp;p=823429">Cases &amp; Courts - Germany</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="france-details">
         <title><note><remark>Detailed list of France courts</remark></note>France Courts and Legal Information</title>
         <orderedlist>
@@ -2031,34 +807,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of France courts</remark></note>France Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of France courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://e-justice.europa.eu/16/EN/national_justice_systems?FRANCE&amp;member=1">France - European e-Justice Portal - National justice systems</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.courdecassation.fr/">Court of Cassation (French Supreme Court)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.legifrance.gouv.fr/">Legifrance (French Official Gazette)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.justice.gouv.fr/">Ministry of Justice (France)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.conseil-etat.fr/">Council of State (French Administrative Supreme Court)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.parlement.fr/">French Parliament</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.legislation.fr/">French Legislation</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="italy-details">
         <title><note><remark>Detailed list of Italy courts</remark></note>Italy Courts and Legal Information</title>
         <orderedlist>
@@ -2070,20 +819,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Italy courts</remark></note>Italy Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Italy courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.cortecostituzionale.it/jsp/consulta/istituzioni/la_corte_costituzionale_italiana_EN.do">Italian Constitutional Court</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.giustizia.it/giustizia/it/mg_2_3.page">Ministry of Justice of Italy</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="uk-details">
         <title><note><remark>Detailed list of UK courts</remark></note>UK Courts and Legal Information</title>
         <orderedlist>
@@ -2105,28 +841,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of UK courts</remark></note>UK Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of UK courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.gov.uk/courts-tribunals">UK Courts and Tribunals</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.judiciary.uk/">Judiciary of England and Wales</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.supremecourt.uk/">Supreme Court of the United Kingdom</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.legislation.gov.uk/">UK Legislation</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.parliament.uk/">UK Parliament</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="spain-details">
         <title><note><remark>Detailed list of Spain courts</remark></note>Spain Courts and Legal Information</title>
         <orderedlist>
@@ -2135,17 +850,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Spain courts</remark></note>Spain Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Spain courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.poderjudicial.es/">Supreme Court of Spain</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="russia-details">
         <title><note><remark>Detailed list of Russia courts</remark></note>Russia Courts and Legal Information</title>
         <orderedlist>
@@ -2154,17 +859,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Russia courts</remark></note>Russia Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Russia courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://en.kremlin.ru/">Russian Federation President (for legal and legislative information)</ulink> </para>
-        </listitem>
-      </orderedlist>
+    
       <sect1 id="ukraine-details">
         <title><note><remark>Detailed list of Ukraine courts</remark></note>Ukraine Courts and Legal Information</title>
         <orderedlist>
@@ -2176,20 +871,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Ukraine courts</remark></note>Ukraine Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Ukraine courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.ccu.gov.ua/en">Constitutional Court of Ukraine</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://zakon.rada.gov.ua/">Verkhovna Rada of Ukraine (for legislative information)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="netherlands-details">
         <title><note><remark>Detailed list of Netherlands courts</remark></note>Netherlands Courts and Legal Information</title>
         <orderedlist>
@@ -2207,26 +889,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of Netherlands courts</remark></note>Netherlands Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Netherlands courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.rechtspraak.nl/">Dutch Judiciary (Rechtspraak)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.raadvanstate.nl/">Council of State of the Netherlands</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.hogeraad.nl/">Supreme Court of the Netherlands (Hoge Raad)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.advocatenorde.nl/">Dutch Bar Association (Nederlandse Orde van Advocaten)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="Section3">
         <title><anchor id="russia-details"/><note><remark>Detailed list of Russia courts</remark></note>Russia Courts and Legal Information</title>
         <orderedlist>
@@ -2235,17 +898,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><anchor id="russia-details"/><note><remark>Detailed list of Russia courts</remark></note>Russia Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of Russia courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://minjust.ru/en/activities/courts">Ministry of Justice of the Russian Federation (Courts Section)</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="australia-details">
         <title>Australia Courts and Legal Information</title>
         <orderedlist>
@@ -2266,26 +919,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Australia Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.fedcourt.gov.au/">Federal Court of Australia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.hcourt.gov.au/">High Court of Australia</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.austlii.edu.au/">Australasian Legal Information Institute (AustLII)</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.legislation.gov.au/">Australian Government Legislation</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.parliament.nsw.gov.au/">New South Wales Parliament</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="new-zealand-details">
         <title><note><remark>Detailed list of NZ courts</remark></note>NZ Courts and Legal Information</title>
         <orderedlist>
@@ -2303,26 +937,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title><note><remark>Detailed list of NZ courts</remark></note>NZ Courts and Legal Information</title>
-      <note>
-        <remark>Detailed list of NZ courts</remark>
-      </note>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.justice.govt.nz/courts/">Courts | New Zealand Ministry of Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.courtsofnz.govt.nz/judgments">Judgments</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.lawcom.govt.nz/our-work">Law Commission - New Zealand</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.courtsofnz.govt.nz/">Courts of New Zealand</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="singapore-details">
         <title>Singapore Courts and Legal Information</title>
         <orderedlist>
@@ -2341,22 +956,7 @@
         </orderedlist>
       </sect1>
     </sect2>
-    <sect2>
-      <title>Singapore Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.judiciary.gov.sg/">Judiciary of Singapore</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.supremecourt.gov.sg/">Supreme Court of Singapore</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.statecourts.gov.sg/">State Courts of Singapore</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.ica.gov.sg/">Immigration and Checkpoints Authority</ulink> </para>
-        </listitem>
-      </orderedlist>
+  
       <sect1 id="fiji-details">
         <title>Fiji Courts and Legal Information</title>
         <orderedlist>
@@ -2371,20 +971,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Fiji Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.justice.gov.fj/">Fiji Ministry of Justice</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.judiciary.gov.fj/">Judiciary of Fiji</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.fijilive.com/">Fiji Live - Legal News and Information</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="tonga-details">
         <title>Tonga Courts and Legal Information</title>
         <orderedlist>
@@ -2393,14 +980,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Tonga Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.paclii.org/to/">Tongan Legal Information (PACLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="samoa-details">
         <title>Samoa Courts and Legal Information</title>
         <orderedlist>
@@ -2409,14 +989,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Samoa Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.paclii.org/ws/">Samoan Legal Information (PACLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="vanuatu-details">
         <title>Vanuatu Courts and Legal Information</title>
         <orderedlist>
@@ -2425,14 +998,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Vanuatu Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.paclii.org/vu/">Vanuatu Legal Information (PACLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="papua-new-guinea-details">
         <title>Papua New Guinea Courts and Legal Information</title>
         <orderedlist>
@@ -2444,17 +1010,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Papua New Guinea Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.pngjudiciary.gov.pg/">Judiciary of Papua New Guinea</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.paclii.org/pg/">Papua New Guinea Legal Information (PACLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="solomon-islands-details">
         <title>Solomon Islands Courts and Legal Information</title>
         <orderedlist>
@@ -2463,14 +1019,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Solomon Islands Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.paclii.org/sb/">Solomon Islands Legal Information (PACLII)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="new-caledonia-details">
         <title>New Caledonia (France) Courts and Legal Information</title>
         <orderedlist>
@@ -2479,14 +1028,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>New Caledonia (France) Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.legifrance.gouv.fr/">French Legislation Portal (includes New Caledonia)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="hawaii-details">
         <title>Hawaii (USA) Courts and Legal Information</title>
         <orderedlist>
@@ -2498,17 +1040,7 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Hawaii (USA) Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="https://www.courts.state.hi.us/">Hawaii State Judiciary</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="https://www.law.hawaii.edu/">University of Hawaii School of Law (for legal information and resources)</ulink> </para>
-        </listitem>
-      </orderedlist>
+   
       <sect1 id="bangladesh-details">
         <title>Bangladesh Courts and Legal Information</title>
         <orderedlist>
@@ -2520,762 +1052,5 @@
           </listitem>
         </orderedlist>
       </sect1>
-    </sect2>
-    <sect2>
-      <title>Bangladesh Courts and Legal Information</title>
-      <orderedlist>
-        <listitem>
-          <para><ulink url="http://www.supremecourt.gov.bd/">Supreme Court of Bangladesh</ulink> </para>
-        </listitem>
-        <listitem>
-          <para><ulink url="http://bdlaws.minlaw.gov.bd/">Bangladesh Laws</ulink> </para>
-        </listitem>
-      </orderedlist>
-      <para> document.addEventListener('DOMContentLoaded', () =&gt; {
-    const regionItems = document.querySelectorAll('.region-list ul li');
-    const countryContainers = document.querySelectorAll('.country-container');
-    const detailedLists = document.querySelectorAll('.detailed-list');
-    const toggleButton = document.getElementById('toggle-button');
-
-    if (toggleButton) {
-        toggleButton.addEventListener('click', () =&gt; {
-            if (window.matchMedia('(max-width: 768px)').matches) {
-                document.querySelector('.region-list').style.display = 'block';
-                document.querySelector('.content-display').style.display = 'none';
-            }
-        });
-    }
-
-    function showCountryList(regionId) {
-        countryContainers.forEach(container =&gt; {
-            container.classList.remove('show');
-        });
-        detailedLists.forEach(list =&gt; {
-            list.classList.remove('show');
-        });
-        const regionElement = document.getElementById(regionId);
-        if (regionElement) {
-            regionElement.classList.add('show');
-        }
-        if (window.matchMedia('(max-width: 768px)').matches) {
-            document.querySelector('.region-list').style.display = 'none';
-            document.querySelector('.content-display').style.display = 'block';
-        }
-    }
-
-    if (regionItems) {
-        regionItems.forEach(item =&gt; {
-            item.addEventListener('click', (event) =&gt; {
-                const regionId = event.target.dataset.region;
-                showCountryList(regionId);
-            });
-        });
-
-        // Automatically simulate click on a specific region after the page loads (e.g., 'africa')
-        const defaultRegion = regionItems[0]; // Change the index to select a different default region
-        if (defaultRegion) {
-            defaultRegion.click(); // Simulates the click event on page load
-        }
-    }
-
-    const countryLinks = document.querySelectorAll('.country-container ul li a');
-    if (countryLinks) {
-        countryLinks.forEach(country =&gt; {
-            country.addEventListener('click', function(event) {
-                event.preventDefault();
-                const countryId = this.getAttribute('data-country') + '-details';
-                const detailedList = document.getElementById(countryId);
-                detailedLists.forEach(list =&gt; {
-                    list.classList.remove('show');
-                });
-                if (detailedList) {
-                    detailedList.classList.add('show');
-                }
-            });
-        });
-    }
-});
-// Country bounds data
-
-const countryBoundsData = {
-    "germany": [
-        [50.0833, 5.8667],
-        [50.0833, 15.8667],
-        [54.0833, 15.8667],
-        [54.0833, 5.8667]
-    ],
-    "france": [
-        [42.3333, -5.0667],
-        [42.3333, 9.5667],
-        [51.0833, 9.5667],
-        [51.0833, -5.0667]
-    ],
-    "italy": [
-        [35.0833, 6.6167],
-        [35.0833, 18.5167],
-        [47.0833, 18.5167],
-        [47.0833, 6.6167]
-    ],
-    "south-africa": [
-        [-34.4083, 18.4241],
-        [-34.4083, 32.8933],
-        [-22.1467, 32.8933],
-        [-22.1467, 18.4241]
-    ],
-	"south-korea": [
-    [33.0497, 124.5631], 
-    [33.0497, 131.8722], 
-    [38.6123, 131.8722], 
-    [38.6123, 124.5631]
-],
-"malaysia": [
-    [1.1718, 101.9993], 
-    [1.1718, 119.2917], 
-    [7.4554, 119.2917], 
-    [7.4554, 101.9993]
-],
-"thailand": [
-    [5.6271, 97.3436], 
-    [5.6271, 105.6381], 
-    [20.4592, 105.6381], 
-    [20.4592, 97.3436]
-],
-"indonesia": [
-    [-11.1688, 95.0321], 
-    [-11.1688, 141.0168], 
-    [5.8864, 141.0168], 
-    [5.8864, 95.0321]
-],
-"vietnam": [
-    [8.2072, 102.1448], 
-    [8.2072, 109.4602], 
-    [23.3925, 109.4602], 
-    [23.3925, 102.1448]
-],
-"philippines": [
-    [5.9467, 116.9160], 
-    [5.9467, 127.1744], 
-    [18.6411, 127.1744], 
-    [18.6411, 116.9160]
-],
-
-    "nigeria": [ [2.6943, 2.6923], [2.6943, 14.5773], [10.4583, 14.5773], [10.4583, 2.6923] ],
-    "egypt": [ [22.0083, 25.0167], [22.0083, 36.6753], [31.6717, 36.6753], [31.6717, 25.0167] ],
-    "saudi": [ [16.0, 34.48], [16.0, 55.67], [32.15, 55.67], [32.15, 34.48] ],
-    "uae": [ [22.6323, 51.5833], [22.6323, 56.3817], [26.0743, 56.3817], [26.0743, 51.5833] ],
-    "china": [ [18.1617, 73.4993], [18.1617, 135.0417], [53.5617, 135.0417], [53.5617, 73.4993] ],
-    "india": [ [6.7473, 68.1623], [6.7473, 97.4153], [35.5017, 97.4153], [35.5017, 68.1623] ],
-    "japan": [ [20.4243, 122.9333], [20.4243, 145.8167], [45.5233, 145.8167], [45.5233, 122.9333] ],
-    "qatar": [ [24.4317, 50.7643], [24.4317, 51.6667], [26.1317, 51.6667], [26.1317, 50.7643] ],
-    "uk": [ [49.1623, -13.4133], [49.1623, 1.7623], [58.6353, 1.7623], [58.6353, -13.4133] ],
-    "spain": [ [27.6367, -18.1533], [27.6367, 4.6323], [43.7917, 4.6323], [43.7917, -18.1533] ],
-    "netherlands": [ [50.7633, 3.3567], [50.7633, 7.2453], [53.5553, 7.2453], [53.5553, 3.3567] ],
-	"russia": [ [41.1851, 19.5562], [41.1851, 180.0000], [82.1574, 180.0000], [82.1574, 19.5562] ],
-"ukraine": [ [44.3960, 22.1372], [44.3960, 40.2279], [52.3792, 40.2279], [52.3792, 22.1372] ],
-    "australia": [ [-43.6533, 113.3383], [-43.6533, 153.6383], [-9.2217, 153.6383], [-9.2217, 113.3383] ],
-    "new-zealand": [ [-47.4173, 166.4317], [-47.4173, 178.5467], [-34.4217, 178.5467], [-34.4217, 166.4317] ],
-    "fiji": [ [-19.1553, 177.0743], [-19.1553, 180.0017], [-16.0743, 180.0017], [-16.0743, 177.0743] ],
-    "usa": [ [24.3963, -124.8483], [24.3963, -66.8853], [49.3843, -66.8853], [49.3843, -124.8483] ],
-	"colombia": [ [4.5709, -79.8953], [4.5709, -66.8623], [12.4373, -66.8623], [12.4373, -79.8953] ],
-"mexico": [ [14.5329, -118.367], [14.5329, -86.7106], [32.7187, -86.7106], [32.7187, -118.367] ],
-"jamaica": [ [17.7059, -78.366], [17.7059, -75.968], [18.5241, -75.968], [18.5241, -78.366] ],
-"costa-rica": [ [8.0406, -85.9417], [8.0406, -82.546], [11.219, -82.546], [11.219, -85.9417] ],
-"haiti": [ [18.021, -74.4789], [18.021, -71.6261], [20.087, -71.6261], [20.087, -74.4789] ],
-"panama": [ [7.206, -83.0517], [7.206, -77.1731], [9.6116, -77.1731], [9.6116, -83.0517] ],
-
-    "canada": [ [41.6763, -141.0017], [41.6763, -52.7363], [83.2333, -52.7363], [83.2333, -141.0017] ],
-    "brazil": [ [-33.7423, -73.9983], [-33.7423, -34.7923], [5.2683, -34.7923], [5.2683, -73.9983] ],
-	 "singapore": [ [1.1801, 103.6000], [1.1801, 104.0200], [1.4601, 104.0200],  [1.4601, 103.6000]],
-"bangladesh": [
-        [20.8831, 88.6692], // Approximate coordinates for the southwest
-        [20.8831, 92.6750], // Approximate coordinates for the southeast
-        [26.4464, 92.6750], // Approximate coordinates for the northeast
-        [26.4464, 88.6692]  // Approximate coordinates for the northwest
-    ],	 
-"morocco": [ 
-    [27.6616, -13.1709], 
-    [27.6616, -1.0202], 
-    [35.9204, -1.0202], 
-    [35.9204, -13.1709] 
-],
-"ethiopia": [ 
-    [3.4048, 32.9984], 
-    [3.4048, 47.9820], 
-    [14.8941, 47.9820], 
-    [14.8941, 32.9984] 
-],
-"kenya": [ 
-    [-4.6775, 33.9094], 
-    [-4.6775, 41.8990], 
-    [5.5060, 41.8990], 
-    [5.5060, 33.9094] 
-],
-"tanzania": [ 
-    [-11.7456, 29.3212], 
-    [-11.7456, 40.4452], 
-    [-0.9856, 40.4452], 
-    [-0.9856, 29.3212] 
-],
-"ghana": [ 
-    [4.5415, -3.2609], 
-    [4.5415, 1.1994], 
-    [11.1749, 1.1994], 
-    [11.1749, -3.2609] 
-],
-"drc": [ 
-    [-13.4590, 12.0395], 
-    [-13.4590, 31.3054], 
-    [5.3920, 31.3054], 
-    [5.3920, 12.0395] 
-],
-"algeria": [ 
-    [18.9681, -8.6676], 
-    [18.9681, 11.9718], 
-    [37.0898, 11.9718], 
-    [37.0898, -8.6676] 
-],
-"iraq": [
-    [29.0696, 38.7947], 
-    [29.0696, 48.5706], 
-    [37.3784, 48.5706], 
-    [37.3784, 38.7947]
-],
-"morocco": [
-    [27.6616, -13.1709], 
-    [27.6616, -1.0202], 
-    [35.9204, -1.0202], 
-    [35.9204, -13.1709]
-],
-"algeria": [
-    [18.9681, -8.6676], 
-    [18.9681, 11.9718], 
-    [37.0898, 11.9718], 
-    [37.0898, -8.6676]
-],
-"kuwait": [
-    [28.5246, 46.5530], 
-    [28.5246, 48.4161], 
-    [30.0959, 48.4161], 
-    [30.0959, 46.5530]
-],
-"qatar": [
-    [24.4821, 50.5677], 
-    [24.4821, 51.6361], 
-    [26.1549, 51.6361], 
-    [26.1549, 50.5677]
-],
-"oman": [
-    [16.6510, 52.0000], 
-    [16.6510, 59.8391], 
-    [26.3959, 59.8391], 
-    [26.3959, 52.0000]
-],
-"jordan": [
-    [29.1834, 34.9595], 
-    [29.1834, 39.3013], 
-    [33.3753, 39.3013], 
-    [33.3753, 34.9595]
-],
-"belgium": [
-    [50.4056, 3.3145], 
-    [50.4056, 7.0727], 
-    [51.4194, 7.0727], 
-    [51.4194, 3.3145]
-],
-"sweden": [
-    [55.3226, 11.0211], 
-    [55.3226, 24.1587], 
-    [69.0602, 24.1587], 
-    [69.0602, 11.0211]
-],
-"poland": [
-    [49.0014, 14.0830], 
-    [49.0014, 24.1656], 
-    [54.8350, 24.1656], 
-    [54.8350, 14.0830]
-],
-"portugal": [
-    [36.9613, -9.5717], 
-    [36.9613, -6.1893], 
-    [42.1713, -6.1893], 
-    [42.1713, -9.5717]
-],
-"austria": [
-    [46.3793, 9.5271], 
-    [46.3793, 17.1628], 
-    [49.0157, 17.1628], 
-    [49.0157, 9.5271]
-],
-"ireland": [
-    [51.3860, -10.4741], 
-    [51.3860, -5.4391], 
-    [55.3964, -5.4391], 
-    [55.3964, -10.4741]
-],
-"greece": [
-    [34.8614, 19.3905], 
-    [34.8614, 26.1598], 
-    [42.0952, 26.1598], 
-    [42.0952, 19.3905]
-],
-"norway": [
-    [58.0000, 4.0000],
-    [58.0000, 31.0000],
-    [71.0000, 31.0000],
-    [71.0000, 4.0000]
-],
-"switzerland": [
-    [45.8176, 5.9580],
-    [45.8176, 10.4925],
-    [47.8083, 10.4925],
-    [47.8083, 5.9580]
-],
-"iceland": [
-    [63.0000, -25.0000],
-    [63.0000, -13.0000],
-    [66.0000, -13.0000],
-    [66.0000, -25.0000]
-],
-"turkey": [
-    [36.0000, 26.0000],
-    [36.0000, 44.0000],
-    [42.0000, 44.0000],
-    [42.0000, 26.0000]
-],
-"serbia": [
-    [41.0000, 19.0000],
-    [41.0000, 23.0000],
-    [46.0000, 23.0000],
-    [46.0000, 19.0000]
-],
-"croatia": [
-    [42.0000, 13.0000],
-    [42.0000, 19.0000],
-    [46.0000, 19.0000],
-    [46.0000, 13.0000]
-],
-"bosnia": [
-    [42.0000, 15.0000],
-    [42.0000, 20.0000],
-    [45.0000, 20.0000],
-    [45.0000, 15.0000]
-],
-"tonga": [
-    [-21.0000, -175.5000],
-    [-21.0000, -174.5000],
-    [-20.0000, -174.5000],
-    [-20.0000, -175.5000]
-],
-"samoa": [
-    [-14.0000, -173.5000],
-    [-14.0000, -170.5000],
-    [-12.0000, -170.5000],
-    [-12.0000, -173.5000]
-],
-"vanuatu": [
-    [-16.0000, 165.0000],
-    [-16.0000, 168.0000],
-    [-14.0000, 168.0000],
-    [-14.0000, 165.0000]
-],
-"papua-new-guinea": [
-    [-10.0000, 140.0000],
-    [-10.0000, 150.0000],
-    [-5.0000, 150.0000],
-    [-5.0000, 140.0000]
-],
-"solomon-islands": [
-    [-10.0000, 159.0000],
-    [-10.0000, 162.0000],
-    [-7.0000, 162.0000],
-    [-7.0000, 159.0000]
-],
-"new-caledonia": [
-    [-23.0000, 165.0000],
-    [-23.0000, 168.0000],
-    [-20.0000, 168.0000],
-    [-20.0000, 165.0000]
-],
-"hawaii": [
-  [18.9100, -156.0000],  // Southernmost point on Big Island
-  [18.9100, -154.0000],  // Easternmost point on Big Island
-  [22.2300, -154.0000],  // Northernmost point (near Kauai)
-  [22.2300, -160.5000]   // Westernmost point (west of Kauai)
-]
-
-
-
-
-
-};
-
-// Country court coordinates
-const countryCourtCoordinates = {
-  "nigeria": {
-    coords: [9.0765, 7.3986],    // Abuja
-    name: "Supreme Court of Nigeria"
-  },
-  "iraq": {
-    coords: [33.3152, 44.3661],   // Baghdad
-    name: "Supreme Court of Iraq"
-},
-"morocco": {
-    coords: [34.020882, -6.841650],   // Rabat
-    name: "Supreme Court of Morocco"
-},
-"algeria": {
-    coords: [36.7525, 3.042],   // Algiers
-    name: "Supreme Court of Algeria"
-},
-"kuwait": {
-    coords: [29.3759, 47.9774],   // Kuwait City
-    name: "Supreme Court of Kuwait"
-},
-"qatar": {
-    coords: [25.276987, 51.520008],   // Doha
-    name: "Supreme Court of Qatar"
-},
-"oman": {
-    coords: [23.5859, 58.4059],   // Muscat
-    name: "Supreme Court of Oman"
-},
-"jordan": {
-    coords: [31.9539, 35.9106],   // Amman
-    name: "Court of Cassation of Jordan"
-},
-"south-korea": {
-    coords: [35.9078, 127.7669],  // Seoul
-    name: "Supreme Court of South Korea"
-},
-"malaysia": {
-    coords: [3.139, 101.6869],  // Kuala Lumpur
-    name: "Supreme Court of Malaysia"
-},
-"thailand": {
-    coords: [13.7563, 100.5018],  // Bangkok
-    name: "Supreme Court of Thailand"
-},
-"indonesia": {
-    coords: [-6.2088, 106.8456],  // Jakarta
-    name: "Supreme Court of Indonesia"
-},
-"vietnam": {
-    coords: [21.0285, 105.8542],  // Hanoi
-    name: "Supreme People's Court of Vietnam"
-},
-"philippines": {
-    coords: [12.8797, 121.7740],  // Manila
-    name: "Supreme Court of the Philippines"
-},
-
-  "egypt": {
-    coords: [30.0444, 31.2357],    // Cairo
-    name: "Supreme Constitutional Court of Egypt"
-  },
-  "morocco": {
-    coords: [34.020882, -6.841650],   // Rabat
-    name: "Supreme Court of Morocco"
-},
-"ethiopia": {
-    coords: [9.0301, 38.7406],   // Addis Ababa
-    name: "Federal Supreme Court of Ethiopia"
-},
-"kenya": {
-    coords: [-1.286389, 36.817223],   // Nairobi
-    name: "Supreme Court of Kenya"
-},
-"tanzania": {
-    coords: [-6.7924, 39.2083],   // Dar es Salaam
-    name: "Court of Appeal of Tanzania"
-},
-"ghana": {
-    coords: [5.5560, -0.1969],   // Accra
-    name: "Supreme Court of Ghana"
-},
-"drc": {
-    coords: [-4.441931, 15.266293],   // Kinshasa
-    name: "Supreme Court of DR Congo"
-},
-"algeria": {
-    coords: [36.7525, 3.042],   // Algiers
-    name: "Supreme Court of Algeria"
-},
-
-  "saudi": {
-    coords: [24.7136, 46.6753],      // Riyadh
-    name: "Supreme Court of Saudi Arabia"
-  },
-  "uae": {
-    coords: [24.4539, 54.3773],      // Abu Dhabi
-    name: "Federal Supreme Court of the UAE"
-  },
-  "china": {
-    coords: [39.9042, 116.4074],   // Beijing
-    name: "Supreme People's Court of China"
-  },
-  "india": {
-    coords: [28.6139, 77.2090],    // New Delhi
-    name: "Supreme Court of India"
-  },
-  "japan": {
-    coords: [35.6762, 139.6503],   // Tokyo
-    name: "Supreme Court of Japan"
-  },
-  "qatar": {
-    coords: [25.276987, 51.520008],// Doha
-    name: "Supreme Judiciary Council of Qatar"
-  },
-  "uk": {
-    coords: [51.5074, -0.1278],       // London
-    name: "Supreme Court of the United Kingdom"
-  },
-  "spain": {
-    coords: [40.4168, -3.7038],    // Madrid
-    name: "Supreme Court of Spain"
-  },
-  "netherlands": {
-    coords: [52.0705, 4.3007], // The Hague
-    name: "Supreme Court of the Netherlands"
-  },
-  "russia": {
-    coords: [55.7558, 37.6173],       // Moscow
-    name: "Supreme Court of Russia"
-  },
-"ukraine": {
-    coords: [50.4501, 30.5234],       // Kyiv
-    name: "Supreme Court of Ukraine"
-  },
-
-  "australia": {
-    coords: [-35.2820, 149.1286], // Canberra
-    name: "High Court of Australia"
-  },
-  "new-zealand": {
-    coords: [-41.2865, 174.7762], // Wellington
-    name: "Supreme Court of New Zealand"
-  },
-  "fiji": {
-    coords: [-18.1248, 178.4501],   // Suva
-    name: "Supreme Court of Fiji"
-  },
-  "usa": {
-    coords: [38.8977, -77.0365],     // Washington, D.C.
-    name: "Supreme Court of the United States"
-  },
-  "colombia": {
-    coords: [4.5981, -74.0761],     // Bogotá
-    name: "Supreme Court of Colombia"
-  },
-"mexico": {
-    coords: [19.4326, -99.1332],    // Mexico City
-    name: "Supreme Court of Mexico"
-  },
-"jamaica": {
-    coords: [18.0186, -76.8099],    // Kingston
-    name: "Supreme Court of Jamaica"
-  },
-"costa-rica": {
-    coords: [9.9281, -84.0907],     // San José
-    name: "Supreme Court of Costa Rica"
-  },
-"haiti": {
-    coords: [18.5944, -72.3074],    // Port-au-Prince
-    name: "Supreme Court of Haiti"
-  },
-"panama": {
-    coords: [8.9824, -79.5199],     // Panama City
-    name: "Supreme Court of Panama"
-  },
-
-  "canada": {
-    coords: [45.4215, -75.6972],  // Ottawa
-    name: "Supreme Court of Canada"
-  },
-  "brazil": {
-    coords: [-15.7942, -47.8825],  // Brasília
-    name: "Supreme Federal Court of Brazil"
-  },
-  "germany": {
-    coords: [51.1657, 10.4515], // Berlin
-    name: "Federal Court of Justice of Germany"
-  },
-  "france": {
-    coords: [46.6034, 1.8883], // Paris
-    name: "Court of Cassation of France"
-  },
-  "italy": {
-    coords: [41.8719, 12.5674], // Rome
-    name: "Supreme Court of Cassation of Italy"
-  },
-  "south-africa": {
-    coords: [-30.5595, 22.9375], // Pretoria
-    name: "Constitutional Court of South Africa"
-  },
-  "singapore": {
-    coords: [1.3521, 103.8198], // Singapore
-    name: "Supreme Court of Singapore"
-  },
-  "bangladesh": {
-  coords:[23.8103, 90.4125], // Dhaka - Supreme Court of Bangladesh
-  name: "Supreme Court of Bangladesh"
-  },
-  "belgium": {
-    coords: [50.8503, 4.3517],  // Brussels
-    name: "Court of Cassation of Belgium"
-},
-"sweden": {
-    coords: [59.3293, 18.0686],  // Stockholm
-    name: "Supreme Court of Sweden"
-},
-"poland": {
-    coords: [52.2297, 21.0122],  // Warsaw
-    name: "Supreme Court of Poland"
-},
-"portugal": {
-    coords: [38.7169, -9.1399],  // Lisbon
-    name: "Supreme Court of Portugal"
-},
-"austria": {
-    coords: [48.2082, 16.3738],  // Vienna
-    name: "Supreme Court of Austria"
-},
-"ireland": {
-    coords: [53.3331, -6.2489],  // Dublin
-    name: "Supreme Court of Ireland"
-},
-"greece": {
-    coords: [37.9838, 23.7275],  // Athens
-    name: "Areios Pagos (Supreme Court) of Greece"
-},
-"norway": {
-    coords: [60.4720, 8.4689],    // Approximate center of Norway
-    name: "Supreme Court of Norway"
-},
-"switzerland": {
-    coords: [46.8182, 8.2275],    // Approximate center of Switzerland
-    name: "Federal Supreme Court of Switzerland"
-},
-"iceland": {
-    coords: [64.9631, -19.0208],   // Approximate center of Iceland
-    name: "Supreme Court of Iceland"
-},
-"turkey": {
-    coords: [38.9637, 35.2433],    // Approximate center of Turkey
-    name: "Supreme Court of Turkey"
-},
-"serbia": {
-    coords: [44.0165, 21.0059],    // Approximate center of Serbia
-    name: "Supreme Court of Serbia"
-},
-"croatia": {
-    coords: [45.1000, 15.2000],    // Approximate center of Croatia
-    name: "Supreme Court of Croatia"
-},
-"bosnia": {
-    coords: [43.9159, 17.6791],    // Approximate center of Bosnia and Herzegovina
-    name: "Court of Bosnia and Herzegovina"
-},
-"tonga": {
-    coords: [-21.1789, -175.1982],    // Approximate center of Tonga
-    name: "Supreme Court of Tonga"
-},
-"samoa": {
-    coords: [-13.7590, -172.1046],    // Approximate center of Samoa
-    name: "Supreme Court of Samoa"
-},
-"vanuatu": {
-    coords: [-15.3764, 166.9592],    // Approximate center of Vanuatu
-    name: "Supreme Court of Vanuatu"
-},
-"hawaii": {
-    coords: [21.3069, -157.8583],    // Approximate center of Hawaii (USA)
-    name: "Supreme Court of Hawaii"
-},
-"papua-new-guinea": {
-    coords: [-6.3149, 143.9555],    // Approximate center of Papua New Guinea
-    name: "Supreme Court of Papua New Guinea"
-},
-"solomon-islands": {
-    coords: [-9.4295, 160.6410],    // Approximate center of Solomon Islands
-    name: "Supreme Court of Solomon Islands"
-},
-"new-caledonia": {
-    coords: [-22.3000, 166.4500],    // Approximate center of New Caledonia (France)
-    name: "Supreme Court of New Caledonia"
-}
-
-
-
-
-};
-
-
-// Initialize Leaflet map
-const map = L.map('map').setView([51.505, -0.09], 2);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap',
-    subdomains: ['a', 'b', 'c']
-}).addTo(map);
-
-// Create a layer group to hold the country polygons
-const countryPolygons = L.layerGroup().addTo(map);
-
-// Create a layer group to hold the court markers
-const courtMarkers = L.layerGroup().addTo(map);
-
-// Add event listeners to country links
-document.querySelectorAll('.country-container ul li a').forEach((countryLink) =&gt; {
-    countryLink.addEventListener('click', (e) =&gt; {
-        e.preventDefault(); // Prevent default anchor behavior
-        const countryName = e.target.dataset.country;
-        const countryBounds = countryBoundsData[countryName];
-        const courtData = countryCourtCoordinates[countryName];
-        const courtLocation = courtData ? courtData.coords : null;
-        const courtName = courtData ? courtData.name : '';
-
-        // Log country name and coordinates
-        console.log(`Country: ${countryName}, Coordinates: ${JSON.stringify(countryBounds)}`);
-        console.log(`Court Location: ${courtName}, Coordinates: ${JSON.stringify(courtLocation)}`);
-
-        // Display the map
-        document.getElementById('map').style.display = 'block';
-
-        // Clear the previous country polygon and court markers
-        countryPolygons.clearLayers();
-        courtMarkers.clearLayers();
-
-        // Create a new polygon for the selected country
-        const polygon = L.polygon(countryBounds, {
-            color: 'red',
-            weight: 2,
-            opacity: 0.5
-        }).addTo(countryPolygons);
-
-        // Add court marker if available
-        if (courtLocation) {
-            L.marker(courtLocation)
-                .addTo(courtMarkers)
-                .bindPopup(`${courtName}`) // Popup displays court name
-                .openPopup();
-        }
-
-        // Center the map on the country
-        map.fitBounds(polygon.getBounds());
-    });
-});
-
-
-
-document.querySelectorAll('.region-list ul li').forEach((region) =&gt; {
-  region.addEventListener('click', () =&gt; {
-    // Hide the map when a region is clicked
-    document.getElementById('map').style.display = 'none';
-	
-  });
-});
-
-
-</para>
-    </sect2>
-  </sect1>
+   
 </article>
