@@ -2,7 +2,40 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
 
 <article lang="">
+<sect1>
+  <title><ulink url="https://www.courtse.com">Recent Stories</ulink></title>
+  <orderedlist>
+    <listitem>
+      <para>Get the latest stories on law firm news, attorney appointments, and emerging trends.</para>      
+    </listitem>
+  </orderedlist> 
+</sect1>
 
+  <sect1>
+  <title><ulink url="https://www.courtse.com">Top Stories</ulink></title>
+  <orderedlist>
+    <listitem>
+      <para>Insights on court rulings, policy changes, and legal innovations shaping the industry.</para>      
+    </listitem>
+  </orderedlist> 
+</sect1>
+  
+  <sect1>
+  <title><ulink url="https://www.courtse.com">Most viewed legal news </ulink></title>
+  <orderedlist>
+    <listitem>
+      <para>Most popular legal news links, ranked by reader views.</para>      
+    </listitem>
+  </orderedlist> 
+</sect1>
+  <sect1>
+  <title><ulink url="https://www.courtse.com">Supreme court</ulink></title>
+  <orderedlist>
+    <listitem>
+      <para>Stay informed on Supreme Court rulings, opinions, and developments.</para>      
+    </listitem>
+  </orderedlist> 
+</sect1>
 <sect1>
   <title><ulink url="https://www.courtse.com/aboutus">About Us</ulink></title>
   <orderedlist>
@@ -13,7 +46,7 @@
 </sect1>
 
 <sect1>
-  <title><ulink url="https://www.courtse.com/law-policy-1">Law Policy</ulink></title>
+  <title><ulink url="https://www.courtse.com/law-policy-1">Law and Policy</ulink></title>
   <orderedlist>
     <listitem>
       <para>Stay updated on the latest law and policy changes, analysis, and expert opinions. Get informed about legislative developments, judicial decisions, and regulatory updates.</para>     
@@ -234,6 +267,14 @@
   <orderedlist>
     <listitem>
       <para>Review our terms of use to understand the guidelines and conditions for using our website. We aim to provide a secure and informative platform.</para>     
+    </listitem>
+  </orderedlist>   
+</sect1>
+  <sect1>
+  <title><ulink url="https://www.courtse.com/sitemap">Sitemap</ulink></title>
+  <orderedlist>
+    <listitem>
+      <para>A hierarchical index of a website's content, including pages, sections, and links.</para>     
     </listitem>
   </orderedlist>   
 </sect1>
